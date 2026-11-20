@@ -49,6 +49,13 @@ EN 2026-11-20 (2ª corrida, B perforar `idiomas`): nada que pase la vara; se bar
 
 <!-- TARJETAS-BR: la sesión BR inserta sus tarjetas del día justo debajo de esta línea -->
 
+BR 2026-11-20 (tarde, B perforar `profesiones/examenes-y-oposiciones`): nada que pase la vara; se barrió resumo OAB pdf, mapas mentais concurso, prova CNH simulado pdf y resumos enfermagem pdf.
+
+**Señales del día BR (tarde)**
+- Maria (page 1303528502850034, 🇧🇷): «1.000 Questões Comentadas de Enfermagem + Bônus» R$ 10, **8 / 27 · vigilancia→cerca (vara 10)**, 33 d, 4 tandas; re-conteo 2026-11-27. Embudo y entregable no verificados desde la nube.
+- O Concurseiro Aprova (1113714935158012): «Edital Ilustrado OAB», 79 activos, los 50 visibles de ≤ 5,5 d (0 / 50 ≥ piso); cola vieja invisible por el tope de la API. Re-conteo 2026-11-27.
+- Carlos Santos (268341876371967): cards de enfermagem 5 / 22 en la oferta, página multi-SKU (fisioterapia, simulador); sin tarjeta.
+
 BR 2026-11-20 (C operadores): nada que pase la vara; se barrió Packs & Moldes Pro, Arquiteta Clara Finelon, Nova Mind, «manual eletricista pdf» y 3 páginas nuevas (Atlas Digital, Pronto Para Usar, Elétrica King).
 
 **Señales del día BR**
