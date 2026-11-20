@@ -67,6 +67,13 @@ ES 2026-11-20 (A huella): nada que pase la vara; se barrió acceso inmediato PDF
 
 <!-- TARJETAS-EU: la sesión EU inserta sus tarjetas del día justo debajo de esta línea -->
 
+EU 2026-11-20 (B perforar `profesiones/examenes-y-oposiciones`): nada que pase la vara; se barrió concorso schemi pdf, esame di stato riassunti, patente nautica schede, concours fiches révision, concours enseignants fiches, Prüfungsvorbereitung Lernkarten, Pflege Prüfung Zusammenfassung, Führerschein Theorie PDF, concurso resumos pdf, exame código da estrada.
+
+**Señales del día EU**
+- Mappe per Concorsi (page 1305895875950801, 🇮🇹): «La Mappa del Magistrato Tributario 2027» y «La Mappa Agente Immobiliare 2027», molde mapa de concurso; **8 / 54≥ · vara 🇮🇹 20** (nivel 1), una sola tanda (09-nov, 11 d), el resto de las últimas 7 d. Re-conteo 2026-11-27. Embudo no verificado desde la nube.
+- Belle Plume (1521932121003975, 🇫🇷): material para docentes de primaria (CRPE, lectura, arts plastiques), 4 / 31 · vara 🇫🇷 20, portafolio multi-SKU recreado en 48 h; sin tarjeta.
+- Visual Guide Lab / Guía Ilustrada (1467890346400480 / 1464347213417760, 🇵🇹): el molde EN de hoy ya vende «Motorista TVDE Ilustrado» en PT, 5 / 5 · vara 🇵🇹 20, una tanda de 24 d; Visual Guide Lab 0 en IT FR DE PT. DE sin PDF de examen en 3 keywords nativas (solo tutoría/servicios), hecho del 2026-11-20.
+
 <!-- TARJETAS-ESTE: la sesión ESTE inserta sus tarjetas del día justo debajo de esta línea -->
 
 ---
