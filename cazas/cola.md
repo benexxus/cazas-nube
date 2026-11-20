@@ -50,6 +50,7 @@ los nichos que emergen.
 | dolor-y-movilidad | — | EN EU | profundo | protocolos casi todos en video/app (Filtro D); rama buena: movilidad deportiva | B solo movilidad deportiva en PDF |
 | nutricion-antiinflamatoria | — | — | 🔴 | es mayormente **recetario** → cae en el nicho excluido «recetarios» | **no se caza** (solo planes no-recetario, si aparecen por huella) |
 | jardineria | — | ES | propio | Huerta en Casa (producto propio, Testeando) | C: vigilar competidores de huerta urbana |
+| idiomas/mapas-visuales | idiomas | EN | 🟡 2026-11-27 | EN 2026-11-20: 6 páginas (Spanish Made Visual 8/23 US, German Grammar Made Visual 6/30, Fluency Mapped 0/50≥, Italian Made Visual, Japanese Mapped, Fluent Maps); molde PDF «un mapa por página» US$ 14-19 | C: re-contar los 3 mayores el 11-27; B pendiente: hijos por par de lenguas en 🇨🇦 🇦🇺 🇬🇧 por separado y lenguas minoritarias (portugués, árabe, coreano, ruso) |
 | exámenes-certificaciones/guias-ilustradas | — | EN (US, GB) | `superficial` | huella 2026-11-20: 4 keywords, 2 páginas contadas (Visual Guide Lab, Fenix Library) | modo B: perforar por examen (aviación, radio, oficios, marítimo, TI, UK) con `search_terms` + `page_ids` + país; luego destinos BR/ES/IT/DE |
 
 ---
@@ -78,6 +79,7 @@ Cada sesión la lee antes de generar keywords y **agrega** las que descubre.
 | un whale migra de página sin apagar el negocio | contar solo la página madre lo da por muerto | contar también las páginas hermanas de su ficha |
 | `page_ids` con >50 activos | devuelve siempre los 50 más nuevos y la cohorte 7+ queda invisible | sumar `search_terms` por SKU + `page_ids` + `countries` para leer la cola vieja |
 | `printable planner` (EN) | fábricas multi-SKU que recrean todo cada 2-3 días (cohorte 0) | contar por SKU y exigir 10+ en cohorte |
+| `spanish workbook` · `korean alphabet` · `french grammar pdf` (EN) | redes de páginas-persona (audio/video, «She stopped studying») y libros de Amazon en € | `<idioma> maps`, `<idioma> mind maps`, `<idioma> grammar pdf`; leer cada creativo (Spanish Made Visual ya vende francés) |
 | link de destino del ad | la API no lo trae; la web de la Biblioteca da 403 a WebFetch | `firecrawl_scrape` sobre el `ad_snapshot_url`/URL de la Biblioteca muestra copy y link |
 
 ## Operadores a seguir (modo C)
@@ -138,6 +140,6 @@ la completa al terminar.
 
 | Fecha | Sesión | Modo | Nodo | Keywords corridas | Resultado | Nodo queda en |
 |---|---|---|---|---|---|---|
-| 2026-11-20 | EN (mañana, 2ª corrida del día) | B perforar | idiomas | en curso | en curso | en curso |
+| 2026-11-20 | EN (mañana, 2ª corrida del día) | B perforar | idiomas | 13 keywords (EN: spanish workbook, french grammar pdf, learn spanish pdf, french/italian/japanese/german/portuguese maps y variantes) + 9 conteos por page_id (US; GB CA AU unión) | 0 tarjetas · 3 señales (familia «mapas visuales»: Spanish Made Visual 8/23; re-conteo 2026-11-27) | `idiomas` EN pasa a profundo-parcial: hijo `idiomas/mapas-visuales` EN en vigilancia (🟡 2026-11-27) |
 | 2026-11-20 | EN (mañana) | A huella (cola vacía: B sin nodo) | — | printable planner, payhip, spreadsheet template, study guide pdf (US+GB) + 11 conteos por page_id | 1 tarjeta (Visual Guide Lab, guías de examen PDF US$27) + 3 señales | nodo nuevo `exámenes-certificaciones/guias-ilustradas` superficial |
 | | | | | | | |
