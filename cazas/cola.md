@@ -1,7 +1,7 @@
 # Cola de caza — el árbol de nichos
 
 Fuente de trabajo del programa de caza automatizado ([[automatizar-la-caza-de-winners]]). Cada sesión
-(EN · BR · ES · EU) elige de acá **qué** cazar y en **qué modo**, y al terminar actualiza su nodo.
+(EN · BR · ES · EU · ESTE) elige de acá **qué** cazar y en **qué modo**, y al terminar actualiza su nodo.
 
 > ⛔ **Regla madre: el cero no descarta.** Un nodo pasa a `descartado-eje` solo después de (a) 4-5
 > keywords nativas, (b) un nivel de subnichos perforado (modo B) y (c) `ad_active_status: ALL` mirado.
@@ -30,7 +30,7 @@ sesión tocó en los últimos 7 días.
 
 Cargá acá tus nichos. Un nodo por nicho o subnicho (`nicho/subnicho`). Las keywords literales viven en
 la página del nicho de tu wiki; acá va el conteo y la fecha. La columna Mercados dice a qué sesión
-le toca (EN · BR · ES · EU). Si el árbol está vacío, las sesiones arrancan en modo A (huella) y lo van llenando con
+le toca (EN · BR · ES · EU · ESTE). Si el árbol está vacío, las sesiones arrancan en modo A (huella) y lo van llenando con
 los nichos que emergen.
 
 | Nodo | Padre | Mercados | Estado | Cobertura | Próxima acción |
@@ -81,15 +81,15 @@ enumeran con `page_ids` + `countries`, siempre con el país. Cadencia: quincenal
 
 ## Rotación vigente
 
-| Día | EN | BR | ES | EU |
-|---|---|---|---|---|
-| Lun | A huella | B perforar | C operadores | A huella |
-| Mar | B perforar | C operadores | A huella | B perforar |
-| Mié | C operadores | A huella | B perforar | C operadores |
-| Jue | A huella | B perforar | C operadores | A huella |
-| Vie | B perforar | C operadores | A huella | B perforar |
-| Sáb | C agenda | A huella | B perforar | C agenda |
-| Dom | lint de la cola | lint de la cola | lint de la cola | lint de la cola |
+| Día | EN | BR | ES | EU | ESTE |
+|---|---|---|---|---|---|
+| Lun | A huella | B perforar | C operadores | A huella | B perforar |
+| Mar | B perforar | C operadores | A huella | B perforar | C operadores |
+| Mié | C operadores | A huella | B perforar | C operadores | A huella |
+| Jue | A huella | B perforar | C operadores | A huella | B perforar |
+| Vie | B perforar | C operadores | A huella | B perforar | C operadores |
+| Sáb | C agenda | A huella | B perforar | C agenda | A huella |
+| Dom | lint de la cola | lint de la cola | lint de la cola | lint de la cola | lint de la cola |
 
 ## Bitácora de la cola
 

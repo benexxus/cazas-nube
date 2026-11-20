@@ -16,11 +16,11 @@ RAW/cazas-auto/     # informe completo de cada corrida
 skills/cazar/       # la skill, dentro del repo porque la nube no tiene ~/.claude/skills
 ```
 
-**Sesiones:** **EN** — mercado anglo: 🇺🇸 Estados Unidos, 🇬🇧 Reino Unido, 🇨🇦 Canadá y 🇦🇺 Australia (US, GB, CA, AU), destino y fuente; **BR** — mercado brasileño: 🇧🇷 Brasil (BR), destino y fuente; **ES** — mercado hispano: 🇨🇴 Colombia, 🇲🇽 México y 🇪🇸 España (CO, MX, ES), destino y fuente; **EU** — mercado europeo: 🇮🇹 Italia, 🇫🇷 Francia, 🇩🇪 Alemania y 🇵🇹 Portugal (IT, FR, DE, PT), destino y fuente. Máximo 2 tarjetas por sesión y por corrida. Vara: cohorte de **10 o más** ads con 7+ días activos de un solo page_id.
+**Sesiones:** **EN** — mercado anglo: 🇺🇸 Estados Unidos, 🇬🇧 Reino Unido, 🇨🇦 Canadá y 🇦🇺 Australia (US, GB, CA, AU), destino y fuente; **BR** — mercado brasileño: 🇧🇷 Brasil (BR), destino y fuente; **ES** — mercado hispano: 🇨🇴 Colombia, 🇲🇽 México y 🇪🇸 España (CO, MX, ES), destino y fuente; **EU** — mercado europeo: 🇮🇹 Italia, 🇫🇷 Francia, 🇩🇪 Alemania y 🇵🇹 Portugal (IT, FR, DE, PT), destino y fuente; **ESTE** — mercado de Europa del Este: 🇷🇴 Rumania, 🇵🇱 Polonia, 🇨🇿 Chequia y 🇭🇺 Hungría (RO, PL, CZ, HU), destino y fuente. Máximo 2 tarjetas por sesión y por corrida. Vara: cohorte de **10 o más** ads con 7+ días activos de un solo page_id.
 Se busca: infoproducto digital de bajo ticket (PDF, guías, plantillas, planners, mini-cursos grabados). No se trae nunca: marca personal (la cara del dueño vende), producto físico cuyo mecanismo es el objeto, servicios, mentorías y cursos en vivo, y los nichos excluidos por el dueño: neurokids, recetarios, actividades-para-adulto-mayor, religioso, manualidades.
 
 **Reglas de la caza:** (1) un mercado marcado «fuente» se caza para llevar la oferta a otro lado, nunca como
-destino: el veredicto dice a cuál de 🇺🇸 US · 🇬🇧 GB · 🇨🇦 CA · 🇦🇺 AU · 🇧🇷 BR · 🇨🇴 CO · 🇲🇽 MX · 🇪🇸 ES · 🇮🇹 IT · 🇫🇷 FR · 🇩🇪 DE · 🇵🇹 PT se lleva. (2) El **embudo WhatsApp/Messenger es válido**: test
+destino: el veredicto dice a cuál de 🇺🇸 US · 🇬🇧 GB · 🇨🇦 CA · 🇦🇺 AU · 🇧🇷 BR · 🇨🇴 CO · 🇲🇽 MX · 🇪🇸 ES · 🇮🇹 IT · 🇫🇷 FR · 🇩🇪 DE · 🇵🇹 PT · 🇷🇴 RO · 🇵🇱 PL · 🇨🇿 CZ · 🇭🇺 HU se lleva. (2) El **embudo WhatsApp/Messenger es válido**: test
 del copy, escalera «no evaluable», precio piso, **nunca se le escribe al vendedor**. (3) **El cero no descarta**:
 un nicho se declara DESCARTAR solo con 4-5 keywords nativas, un nivel de subnichos mirado y `ALL`. (4) El descarte
 se registra **por eje × mercado**, no por nicho entero.

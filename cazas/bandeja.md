@@ -46,6 +46,8 @@ histórico.
 
 <!-- TARJETAS-EU: la sesión EU inserta sus tarjetas del día justo debajo de esta línea -->
 
+<!-- TARJETAS-ESTE: la sesión ESTE inserta sus tarjetas del día justo debajo de esta línea -->
+
 ---
 
 ## Revisiones
