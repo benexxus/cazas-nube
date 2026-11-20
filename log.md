@@ -19,3 +19,5 @@
 ## [2026-11-20] caza-auto | ES B perforar profesiones/manuales-de-oficio/fichas-visuales-aprendia (tarde) → 0 candidatos a bandeja (AprendIA = portafolio, ningún SKU > 3 ads; Psyacademy «210 fichas» CO 0/7, re-conteo 2026-11-27)
 
 ## [2026-11-20] caza-auto | EU B perforar profesiones/examenes-y-oposiciones (tarde) → 1 candidato a bandeja (Concorsi in Mappe IT 25/40, €17; cruzar con «Concorso Docenti in Mappe» 🔴)
+
+## [2026-11-20] caza-auto | ESTE perforar herencia-y-papeles (tarde) → 1 candidato a bandeja

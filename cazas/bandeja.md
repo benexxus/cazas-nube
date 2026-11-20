@@ -106,6 +106,19 @@ ES 2026-11-20 (A huella): nada que pase la vara; se barrió acceso inmediato PDF
 
 <!-- TARJETAS-ESTE: la sesión ESTE inserta sus tarjetas del día justo debajo de esta línea -->
 
+### 🎯 «Dosarul Familiei» (carpeta de papeles para la familia: banco, contraseñas, quién llama a quién) — Mente que sana 🇷🇴 RO · `herencia-y-papeles` · 2026-11-20 · sesión ESTE
+- **Qué es:** carpeta/dosar «Dosarul Familiei» (~60 págs + 3 bonos según su clon CZ; formato PDF vs físico **no verificado**), ángulo «el cuaderno vacío / 5 llamadas que harán tus hijos / qué hace el banco al saber del deceso»; precio no verificado.
+- **Por qué es ganador:** ≥ 11 sobrevivientes / 59 activos (piso; limit 50 lleno), 7,2-8,6 d, dos tandas (12 y 13-nov), un solo `page_id`, página fantasma. Salvedad: el margen sobre la vara es de 1 y todo lo demás es de < 7 d; el mismo operador ya probó la oferta en CZ y HU y la apagó.
+- **Qué hacer:** modelar la carpeta digital + hooks «llamadas en orden / qué pide el banco» · destino: 🇷🇴 RO ya vivo; 🇮🇹/🇩🇪 (herencia ya validada en el cerebro) · ángulo: «el cuaderno está vacío, esto no».
+- **Ads Library:** 🇷🇴 https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=RO&view_all_page_id=1090738757452147&search_type=page&media_type=all
+- **Landing:** no verificada desde la nube (el copy no trae URL).
+- Score ≤1/4 (longevidad 8 d, volumen 11, duplicación media, hueco sin barrer) · Decisión: —
+- Evidencia: API; snapshot y embudo no verificados desde la nube: verificar en la PC (landing, precio, si es PDF o carpeta física → Filtro D) antes de decidir.
+
+**Señales del día ESTE (tarde)**
+- Klidné předání (page 1251607391377130, 🇨🇿): «Celá složka: 60 stran a 3 dárky», plan 5-30-6, mismo ángulo; ALL ≈ 130, `ACTIVE` 2 (6,3 d) → 0 sobrevivientes, apagó casi todo. Querida Familia (1337262539475727, 🇭🇺): mismo molde, ALL 48, 0 activos. Probaron y apagaron; re-conteo 2026-11-27.
+- Wydawnictwo Dobrze Wiedzieć (1325462587327331, 🇵🇱): e-book «Testament i spadek» 39,99 zł, 6 ads de 2,6 d, página multi-SKU (e-books de recetas, calendario lunar); 0 sobrevivientes. Twoja Czerwona Teczka (1166102073252078, 🇵🇱): carpeta física con envío, 3 sobrev.; Filtro D.
+
 ESTE 2026-11-20 (C operadores): nada que pase la vara; se barrió Mentális Zavarok Térképe (HU), Harta Tulburărilor (RO), Mapa duševních poruch (CZ), 365 Aktywności Bez Ekranu (PL), Visualia Books, Learning Fast, Illustrated SYP, Verde Guides, Studio Facile (RO PL CZ HU) y Nova Mind.
 
 **Señales del día ESTE**
