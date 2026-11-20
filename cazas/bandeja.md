@@ -58,6 +58,13 @@ BR 2026-11-20 (C operadores): nada que pase la vara; se barrió Packs & Moldes P
 
 <!-- TARJETAS-ES: la sesión ES inserta sus tarjetas del día justo debajo de esta línea -->
 
+ES 2026-11-20 (A huella): nada que pase la vara; se barrió acceso inmediato PDF, moldes imprimir PDF, plantillas editables PDF, diagnósticos manual técnico, guía PDF WhatsApp, paso a paso PDF, oposiciones temario esquemas, plantillas Excel, fichas listas docentes imprimir.
+
+**Señales del día ES**
+- Red AprendIA (🇲🇽, `aprendia.shop`, nodo nuevo `profesiones/manuales-de-oficio/fichas-visuales-aprendia`): catálogo de 826 guías PDF «N fichas · ~70 págs» a US$ 19,90, venta por WhatsApp; Aprendia: Guías Oficiales (page 1453826204471738) **49 / 55 · vara 🇲🇽 30**, ≥ 10 tandas, 33 d; Guías Expertas Aprendia (1347816741752269) 29 / 56; Aprende Fácil con Guías (1372902832576549) ≥ 26 / 90. No es tarjeta: cada ad vende un SKU distinto (portafolio, 1-3 ads por tema) y las fanpages hermanas no se suman; además el ad de Vías férreas enlaza a una landing con 404. Re-conteo por SKU: 2026-11-27. Precio del copy: no dicho (WA).
+- Centro Digital Terapéutico (page 100254106155552, 🇲🇽🇨🇴🇪🇸): Megapack Terapeuta Ocupacional, 6 / 8 · vara 🇲🇽🇨🇴 30 (nivel < 8), tandas a 29 d; sin tarjeta.
+- Grupo Futura (801245319736733, 🇨🇴): ≥ 50 ads «Primero recibe, luego paga», cohorte 8; oferta no identificada (parece contra-entrega, probable físico); sin tarjeta.
+
 <!-- TARJETAS-EU: la sesión EU inserta sus tarjetas del día justo debajo de esta línea -->
 
 <!-- TARJETAS-ESTE: la sesión ESTE inserta sus tarjetas del día justo debajo de esta línea -->

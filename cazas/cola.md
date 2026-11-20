@@ -51,6 +51,7 @@ los nichos que emergen.
 | nutricion-antiinflamatoria | — | — | 🔴 | es mayormente **recetario** → cae en el nicho excluido «recetarios» | **no se caza** (solo planes no-recetario, si aparecen por huella) |
 | jardineria | — | ES | propio | Huerta en Casa (producto propio, Testeando) | C: vigilar competidores de huerta urbana |
 | idiomas/mapas-visuales | idiomas | EN | 🟡 2026-11-27 | EN 2026-11-20: 6 páginas (Spanish Made Visual 8/23 US, German Grammar Made Visual 6/30, Fluency Mapped 0/50≥, Italian Made Visual, Japanese Mapped, Fluent Maps); molde PDF «un mapa por página» US$ 14-19 | C: re-contar los 3 mayores el 11-27; B pendiente: hijos por par de lenguas en 🇨🇦 🇦🇺 🇬🇧 por separado y lenguas minoritarias (portugués, árabe, coreano, ruso) |
+| profesiones/manuales-de-oficio/fichas-visuales-aprendia | profesiones/manuales-de-oficio | ES | `virgen` | apareció por huella el 2026-11-20: red AprendIA (8+ fanpages, 826 guías PDF «N fichas», ~US$ 19,90, WhatsApp, 🇲🇽; Guías Oficiales 49/55, Guías Expertas 29/56, Aprende Fácil ≥26/90); portafolio de SKUs | modo B/C: perforar por SKU (`search_terms` por título + `page_ids` + país) en busca de un tema con 30+ en 🇲🇽 🇨🇴; contar las 5 fanpages restantes; re-conteo 2026-11-27 |
 | exámenes-certificaciones/guias-ilustradas | — | EN (US, GB) | `superficial` | huella 2026-11-20: 4 keywords, 2 páginas contadas (Visual Guide Lab, Fenix Library) | modo B: perforar por examen (aviación, radio, oficios, marítimo, TI, UK) con `search_terms` + `page_ids` + país; luego destinos BR/ES/IT/DE |
 
 ---
@@ -80,6 +81,8 @@ Cada sesión la lee antes de generar keywords y **agrega** las que descubre.
 | `page_ids` con >50 activos | devuelve siempre los 50 más nuevos y la cohorte 7+ queda invisible | sumar `search_terms` por SKU + `page_ids` + `countries` para leer la cola vieja |
 | `printable planner` (EN) | fábricas multi-SKU que recrean todo cada 2-3 días (cohorte 0) | contar por SKU y exigir 10+ en cohorte |
 | `spanish workbook` · `korean alphabet` · `french grammar pdf` (EN) | redes de páginas-persona (audio/video, «She stopped studying») y libros de Amazon en € | `<idioma> maps`, `<idioma> mind maps`, `<idioma> grammar pdf`; leer cada creativo (Spanish Made Visual ya vende francés) |
+| `paso a paso PDF` · `acceso inmediato PDF` sin país único (ES) | 87.166 / 2.477 resultados, los 50 primeros son de hoy (salud, juegos, short-dramas) | usar pares de entregable + tema (`fichas listas docentes imprimir`, `diagnósticos manual técnico`) y contar después por `page_ids` + país |
+| red multi-fanpage «Aprendia» (🇲🇽) | cada ad vende un SKU distinto: la cohorte de la página es de portafolio, no de oferta | contar por título de SKU con `search_terms` + `page_ids` + país antes de hablar de vara |
 | link de destino del ad | la API no lo trae; la web de la Biblioteca da 403 a WebFetch | `firecrawl_scrape` sobre el `ad_snapshot_url`/URL de la Biblioteca muestra copy y link |
 
 ## Operadores a seguir (modo C)
@@ -120,6 +123,7 @@ enumeran con `page_ids` + `countries`, siempre con el país. Cadencia: quincenal
 | Verde Guides | `1413675531823485` | RO FR CZ GB | Planul Hashimoto 21 (oferta no validada) |
 | George Windsor | `1059809390547396` | 15 países | lanzó 148 anuncios en 14 idiomas el 18-nov: experimento multi-idioma |
 | Biblioteca Profesional | `948030185069933` | ES | multi-vertical (pádel, boxeo, fisio, electricidad) |
+| AprendIA (red de fanpages) | `1453826204471738 · 1347816741752269 · 1372902832576549` (+ `1288181344388955 · 1365055716696947 · 1381808071689792 · 1390929764102651 · 1319574141233447`) | MX | tienda `aprendia.shop`: 826 guías PDF ~US$ 19,90, venta por WhatsApp `wa.me/12137860982`; Guías Oficiales 49/55 (33 d); seguir si una oferta suelta cruza 30 |
 
 ## Rotación vigente
 
@@ -140,7 +144,7 @@ la completa al terminar.
 
 | Fecha | Sesión | Modo | Nodo | Keywords corridas | Resultado | Nodo queda en |
 |---|---|---|---|---|---|---|
-| 2026-11-20 | ES (mañana) | A huella | — (cola sin nodos ES: B sin nodo) | en curso | en curso | — |
+| 2026-11-20 | ES (mañana) | A huella | — (cola sin nodos ES: B sin nodo) | 8 huellas (acceso inmediato PDF, moldes imprimir PDF, plantillas editables PDF, diagnósticos manual técnico, guía PDF WhatsApp, paso a paso PDF, oposiciones temario esquemas, plantillas Excel, fichas listas docentes) + 9 conteos por page_id (MX CO ES) | 0 tarjetas · 3 señales (red AprendIA: catálogo de 826 guías PDF US$ 19,90 por WhatsApp; Guías Oficiales 49/55 🇲🇽 vara 30, pero portafolio de SKUs → sin tarjeta) | nodo nuevo `profesiones/manuales-de-oficio/fichas-visuales-aprendia` virgen; huellas ES rindieron: `fichas listas docentes imprimir`, `guía PDF WhatsApp` |
 | 2026-11-20 | BR (mañana) | C operadores | operadores BR: Packs & Moldes Pro · Arquiteta Clara Finelon · Nova Mind | 7 consultas: 3 conteos ACTIVE/ALL por page_id + `manual eletricista pdf` + 3 páginas nuevas | 0 tarjetas · 3 señales (Packs & Moldes Pro 29/29 · vara 30, re-conteo 2026-11-27; Clara Finelon y Nova Mind 0 con ALL en BR) | `profesiones/manuales-de-oficio` BR sigue profundo; Packs & Moldes en vigilancia 🟡 2026-11-27 |
 | 2026-11-20 | EN (mañana, 2ª corrida del día) | B perforar | idiomas | 13 keywords (EN: spanish workbook, french grammar pdf, learn spanish pdf, french/italian/japanese/german/portuguese maps y variantes) + 9 conteos por page_id (US; GB CA AU unión) | 0 tarjetas · 3 señales (familia «mapas visuales»: Spanish Made Visual 8/23; re-conteo 2026-11-27) | `idiomas` EN pasa a profundo-parcial: hijo `idiomas/mapas-visuales` EN en vigilancia (🟡 2026-11-27) |
 | 2026-11-20 | EN (mañana) | A huella (cola vacía: B sin nodo) | — | printable planner, payhip, spreadsheet template, study guide pdf (US+GB) + 11 conteos por page_id | 1 tarjeta (Visual Guide Lab, guías de examen PDF US$27) + 3 señales | nodo nuevo `exámenes-certificaciones/guias-ilustradas` superficial |
