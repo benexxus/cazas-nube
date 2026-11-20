@@ -2,7 +2,7 @@
 
 Este repo lo escriben **rutinas de Claude Code en la nube**, una por mercado, dos veces por día (06:30 y 18:30 Europe/Madrid),
 y lo lee Carlos desde una sesión local de Claude Code parada en este clon. Reglas de las rutinas:
-`cazas/nube/NUBE.md`. Método: `wiki/estrategias/automatizar-la-caza-de-winners.md`. Skill: `skills/cazar/`
+`cazas/nube/NUBE.md`. Lo que ya sabe el cerebro local de Carlos (vara, gate, ya cazados): `cazas/nube/CEREBRO.md`, que se actualiza cuando Carlos pide «sincronizá el cerebro con las cazas». Método: `wiki/estrategias/automatizar-la-caza-de-winners.md`. Skill: `skills/cazar/`
 (donde dice «Franco», es Carlos; donde dice «el cerebro», es este repo).
 
 ```
@@ -16,7 +16,7 @@ RAW/cazas-auto/     # informe completo de cada corrida
 skills/cazar/       # la skill, dentro del repo porque la nube no tiene ~/.claude/skills
 ```
 
-**Sesiones:** **EN** — mercado anglo: 🇺🇸 Estados Unidos, 🇬🇧 Reino Unido, 🇨🇦 Canadá y 🇦🇺 Australia (US, GB, CA, AU), destino y fuente; **BR** — mercado brasileño: 🇧🇷 Brasil (BR), destino y fuente; **ES** — mercado hispano: 🇨🇴 Colombia, 🇲🇽 México y 🇪🇸 España (CO, MX, ES), destino y fuente; **EU** — mercado europeo: 🇮🇹 Italia, 🇫🇷 Francia, 🇩🇪 Alemania y 🇵🇹 Portugal (IT, FR, DE, PT), destino y fuente; **ESTE** — mercado de Europa del Este: 🇷🇴 Rumania, 🇵🇱 Polonia, 🇨🇿 Chequia y 🇭🇺 Hungría (RO, PL, CZ, HU), destino y fuente. Máximo 2 tarjetas por sesión y por corrida. Vara: cohorte de **10 o más** ads con 7+ días activos de un solo page_id.
+**Sesiones:** **EN** — mercado anglo: 🇺🇸 Estados Unidos, 🇬🇧 Reino Unido, 🇨🇦 Canadá y 🇦🇺 Australia (US, GB, CA, AU), destino y fuente; **BR** — mercado brasileño: 🇧🇷 Brasil (BR), destino y fuente; **ES** — mercado hispano: 🇨🇴 Colombia, 🇲🇽 México y 🇪🇸 España (CO, MX, ES), destino y fuente; **EU** — mercado europeo: 🇮🇹 Italia, 🇫🇷 Francia, 🇩🇪 Alemania y 🇵🇹 Portugal (IT, FR, DE, PT), destino y fuente; **ESTE** — mercado de Europa del Este: 🇷🇴 Rumania, 🇵🇱 Polonia, 🇨🇿 Chequia y 🇭🇺 Hungría (RO, PL, CZ, HU), destino y fuente. Máximo 2 tarjetas por sesión y por corrida. Vara: la **vara por región** de `cazas/nube/CEREBRO.md` §1 — **20+ sobrevivientes** en 🇺🇸🇬🇧🇨🇦🇦🇺🇮🇹🇫🇷🇩🇪🇵🇹🇪🇸 · **30+** en 🇧🇷🇨🇴🇲🇽🇷🇴🇵🇱🇨🇿🇭🇺 — contados por país, por oferta, de un solo page_id y con 2+ tandas.
 Se busca: infoproducto digital de bajo ticket (PDF, guías, plantillas, planners, mini-cursos grabados). No se trae nunca: marca personal (la cara del dueño vende), producto físico cuyo mecanismo es el objeto, servicios, mentorías y cursos en vivo, y los nichos excluidos por el dueño: neurokids, recetarios, actividades-para-adulto-mayor, religioso, manualidades.
 
 **Reglas de la caza:** (1) un mercado marcado «fuente» se caza para llevar la oferta a otro lado, nunca como

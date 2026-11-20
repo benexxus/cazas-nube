@@ -11,7 +11,7 @@ salvo que la pida.
 > **nunca se rellena el podio**.
 
 **Vara para tener tarjeta:** pasa el gate (no marca personal + embudo verificado o WhatsApp con la oferta
-en el copy) **y** además cohorte de **10 o más** ads con 7+ días activos de un solo page_id. No se suman fanpages hermanas ni se compensa el volumen con la
+en el copy) **y** además la **vara por región** de `cazas/nube/CEREBRO.md` §1 — **20+ sobrevivientes** en 🇺🇸🇬🇧🇨🇦🇦🇺🇮🇹🇫🇷🇩🇪🇵🇹🇪🇸 · **30+** en 🇧🇷🇨🇴🇲🇽🇷🇴🇵🇱🇨🇿🇭🇺 — contados por país, por oferta, de un solo page_id y con 2+ tandas. No se suman fanpages hermanas ni se compensa el volumen con la
 longevidad de un ad suelto. Lo que pasa el gate pero no llega a la vara va como una línea de *señal*, no
 como tarjeta.
 

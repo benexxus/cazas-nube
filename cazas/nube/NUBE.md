@@ -26,7 +26,7 @@ navegador; acá no hay navegador y el disco es un clon de git.
    completo es `mcp__<nombre del conector>__ads_library_search`. **Si no aparece, escribí en `log.md`
    `## [fecha] caza-auto | <XX> — sin conector de Meta, no corrió`, hacé commit + push (§3) y terminá.** No se
    estima nada.
-4. Leer `cazas/cola.md`, `cazas/descartados.md`, `cazas/bandeja.md` (las tarjetas de hoy de las otras
+4. Leer **`cazas/nube/CEREBRO.md`** (manda en criterio: vara, gate, conteo, ya cazados), `cazas/cola.md`, `cazas/descartados.md`, `cazas/bandeja.md` (las tarjetas de hoy de las otras
    sesiones, para no duplicar) y tu `cazas/nube/prompts/<xx>.md`.
 5. Escribir tu línea «en curso» en la bitácora de la cola **y hacer un commit + push chico ya** (así otra
    rutina ve que ese nodo está tomado).
@@ -85,7 +85,7 @@ navegador; acá no hay navegador y el disco es un clon de git.
 ## 6. La salida (lo único que Carlos lee)
 
 - **Máximo 2 tarjetas por corrida.** Vara: pasa el gate (no marca personal, embudo verificado o
-  WhatsApp con la oferta en el copy, no excluido) **y** cohorte de **10 o más** ads con 7+ días activos de un solo page_id.
+  WhatsApp con la oferta en el copy, no excluido) **y** la **vara por región** de `cazas/nube/CEREBRO.md` §1 — **20+ sobrevivientes** en 🇺🇸🇬🇧🇨🇦🇦🇺🇮🇹🇫🇷🇩🇪🇵🇹🇪🇸 · **30+** en 🇧🇷🇨🇴🇲🇽🇷🇴🇵🇱🇨🇿🇭🇺 — contados por país, por oferta, de un solo page_id y con 2+ tandas.
 - Formato exacto: §5 de `skills/cazar/referencias/modos-y-bandeja.md`, diez líneas, en español, más la línea
   «Evidencia: API; snapshot y embudo <verificado por WebFetch | no verificados desde la nube>». Se inserta
   justo debajo de `<!-- TARJETAS-<XX>: ... -->` en `cazas/bandeja.md`. Debajo, «Señales del día <XX>», una
