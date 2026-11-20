@@ -69,6 +69,13 @@ ES 2026-11-20 (A huella): nada que pase la vara; se barrió acceso inmediato PDF
 
 <!-- TARJETAS-ESTE: la sesión ESTE inserta sus tarjetas del día justo debajo de esta línea -->
 
+ESTE 2026-11-20 (C operadores): nada que pase la vara; se barrió Mentális Zavarok Térképe (HU), Harta Tulburărilor (RO), Mapa duševních poruch (CZ), 365 Aktywności Bez Ekranu (PL), Visualia Books, Learning Fast, Illustrated SYP, Verde Guides, Studio Facile (RO PL CZ HU) y Nova Mind.
+
+**Señales del día ESTE**
+- Mapa de trastornos (misma oferta «210 cartas, 40 pares, 1 PDF» en 3 países): Mentális Zavarok Térképe 🇭🇺 **0 / 8 · vara 🇭🇺 30**; Harta Tulburărilor 🇷🇴 **0 / 10 · vara 🇷🇴 30** (el más viejo, 12-nov, a 6,6 d); Mapa duševních poruch 🇨🇿 0 activos hoy (ALL ≥ 50 en tandas 04-18 nov, todo apagado). No validada; re-conteo 2026-11-27. Embudo no verificado desde la nube.
+- Visualia Books, Learning Fast, Illustrated SYP y Verde Guides (🇷🇴🇭🇺🇨🇿🇵🇱): 0 activos hoy con `ACTIVE`; con `ALL` traen ≥ 50 ads cada una (ofertas de oficios, exámenes, Hashimoto). Hecho de hoy: pausaron o apagaron; no es descarte.
+- Studio Facile (ya en el cerebro): 🇷🇴 27 / 41 en toda la página pero portafolio multi-SKU (Contabilitatea 5, Teoria muzicii 5, Navigația 4; ninguna oferta > 8); 🇵🇱 ≥ 50 de los últimos 4 d y 🇨🇿🇭🇺 todo de hoy, cohorte invisible.
+
 ---
 
 ## Revisiones

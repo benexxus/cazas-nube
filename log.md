@@ -9,3 +9,5 @@
 ## [2026-11-20] caza-auto | BR C operadores → 0 candidatos a bandeja (Packs & Moldes Pro 29/29 cerca de la vara, re-conteo 2026-11-27)
 
 ## [2026-11-20] caza-auto | ES A huella (sin nodo) → 0 candidatos a bandeja (señal: red AprendIA MX, Guías Oficiales 49/55 vara 30, portafolio de SKUs; re-conteo por SKU 2026-11-27)
+
+## [2026-11-20] caza-auto | ESTE C operadores operadores-este → 0 candidatos a bandeja (Mentális HU 0/8, Harta RO 0/10; Visualia, Learning Fast, Illustrated SYP, Verde Guides con 0 activos hoy; re-conteo 2026-11-27)
