@@ -49,6 +49,13 @@ EN 2026-11-20 (2ª corrida, B perforar `idiomas`): nada que pase la vara; se bar
 
 <!-- TARJETAS-BR: la sesión BR inserta sus tarjetas del día justo debajo de esta línea -->
 
+BR 2026-11-20 (C operadores): nada que pase la vara; se barrió Packs & Moldes Pro, Arquiteta Clara Finelon, Nova Mind, «manual eletricista pdf» y 3 páginas nuevas (Atlas Digital, Pronto Para Usar, Elétrica King).
+
+**Señales del día BR**
+- Packs & Moldes Pro (page 1227856100409706, ya en el cerebro): «Manual do Eletricista Residencial» **29 / 29 · vara 🇧🇷 30**, 3 tandas (27-ago, 06-sep, 14-sep; 67-85 d), ratio 100 %; cerca de la vara. Re-conteo 2026-11-27. Embudo no verificado desde la nube.
+- Arquiteta Clara Finelon (1282745681595572) y Nova Mind (1372898352562817): 0 ads en 🇧🇷 con `ALL` hoy (2026-11-20); hecho de esta fecha, no descarte.
+- Atlas Digital (1342175415650748, 🇧🇷): fábrica multi-SKU (27 ads con `ALL`; diagramas de bomba, diagnósticos de injeção, AEE); casi todo de las últimas 48 h, cohorte 7+ ≤ 3 por oferta. Sin tarjeta.
+
 <!-- TARJETAS-ES: la sesión ES inserta sus tarjetas del día justo debajo de esta línea -->
 
 <!-- TARJETAS-EU: la sesión EU inserta sus tarjetas del día justo debajo de esta línea -->
