@@ -138,5 +138,6 @@ la completa al terminar.
 
 | Fecha | Sesión | Modo | Nodo | Keywords corridas | Resultado | Nodo queda en |
 |---|---|---|---|---|---|---|
+| 2026-11-20 | EN (mañana, 2ª corrida del día) | B perforar | idiomas | en curso | en curso | en curso |
 | 2026-11-20 | EN (mañana) | A huella (cola vacía: B sin nodo) | — | printable planner, payhip, spreadsheet template, study guide pdf (US+GB) + 11 conteos por page_id | 1 tarjeta (Visual Guide Lab, guías de examen PDF US$27) + 3 señales | nodo nuevo `exámenes-certificaciones/guias-ilustradas` superficial |
 | | | | | | | |
