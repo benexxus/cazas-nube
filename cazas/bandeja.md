@@ -26,6 +26,13 @@ histórico.
 
 <!-- TARJETAS-EN: la sesión EN inserta sus tarjetas del día justo debajo de esta línea -->
 
+EN 2026-11-20 (tarde, B perforar `exámenes-certificaciones/guias-ilustradas`): nada que pase la vara; se barrió pilot exam study guide, NCLEX study guide pdf, electrician exam visual y real estate exam cheat sheet.
+
+**Señales del día EN (tarde)**
+- Visual Journeyman Style (page 1517462271441246, 🇺🇸): «Journeyman Exam Made Visual», PDF de 100 mapas NEC + 4 bonos, US$ 19 (tachado 49); **cerca (9 sobrevivientes, 1 con <100 impresiones)**, 10 días, 0 en 🇬🇧🇨🇦🇦🇺; página fantasma, embudo verificado por Firecrawl (landing directa → checkout, plataforma Impultienda). Mismo molde que Visual Guide Lab. Re-conteo 2026-11-27.
+- AirlinesOnAutopilot / Pilot Avabelle (842356615617987, 🇺🇸): lesson plans editables CFI/CFII/MEI (US$ 88-120), **vigilancia (≈6, 46 d)**; el resto de la página es suscripción en video y «ex-examinador» (Filtros A-bis/D). Re-conteo 2026-11-27.
+- Stark Exam Prep (1320551981152367, 🇺🇸): examen de real estate «32 páginas color», 28 activos, 0 sobrevivientes (todo de ≤ 4 d); re-conteo 2026-11-27. Clearpage Books (1452448654619131): 119 activos, un SKU por examen con «+2 bonus books», todo del 20-nov; cohorte invisible. Checkride Study Guide: flashcards físicas, fuera por Filtro D.
+
 ### 🎯 Guías ilustradas de examen oficial en PDF (Part 107 / PPL / radioaficionado / oficios) — Visual Guide Lab 🇺🇸 US · `exámenes-certificaciones/guias-ilustradas` · 2026-11-20 · sesión EN
 - **Qué es:** PDF de 79 páginas «un tema por página, cada regla dibujada» + 2 bonos (checklist del día del examen y glosario), **US$ 27** pago único (tachado US$ 95,80), garantía 30 días, entrega por email; un subdominio-landing por examen (Part 107, Private/Sport/Commercial Pilot, Amateur Radio, CWI, plomería, marítimo, UK PPL…).
 - **Por qué es ganador:** cohorte 7+ ≥ 11 / 30 en el slice «pilot» (edades 7 y 9 días, 3-4 copias por creativo), 168 activos en US; página fantasma (sin cara); embudo verificado (ad → landing directa → checkout). Salvedad: casi todo el resto de la página es de < 4 días (fábrica multi-SKU que recrea tandas), sin escalonamiento largo; Fenix Library (119 activos, mismo molde, todo de hoy) corre lo mismo.

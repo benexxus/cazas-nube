@@ -13,3 +13,5 @@
 ## [2026-11-20] caza-auto | ESTE C operadores operadores-este → 0 candidatos a bandeja (Mentális HU 0/8, Harta RO 0/10; Visualia, Learning Fast, Illustrated SYP, Verde Guides con 0 activos hoy; re-conteo 2026-11-27)
 
 ## [2026-11-20] caza-auto | BR B perforar profesiones/examenes-y-oposiciones (tarde) → 0 candidatos a bandeja (Maria enfermagem 8/27 cerca, re-conteo 2026-11-27)
+
+## [2026-11-20] caza-auto | EN B perforar exámenes-certificaciones/guias-ilustradas (tarde) → 0 candidatos a bandeja (Visual Journeyman Style 9/10 cerca, re-conteo 2026-11-27)
