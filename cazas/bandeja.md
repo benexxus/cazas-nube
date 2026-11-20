@@ -26,6 +26,20 @@ histórico.
 
 <!-- TARJETAS-EN: la sesión EN inserta sus tarjetas del día justo debajo de esta línea -->
 
+### 🎯 Guías ilustradas de examen oficial en PDF (Part 107 / PPL / radioaficionado / oficios) — Visual Guide Lab 🇺🇸 US · `exámenes-certificaciones/guias-ilustradas` · 2026-11-20 · sesión EN
+- **Qué es:** PDF de 79 páginas «un tema por página, cada regla dibujada» + 2 bonos (checklist del día del examen y glosario), **US$ 27** pago único (tachado US$ 95,80), garantía 30 días, entrega por email; un subdominio-landing por examen (Part 107, Private/Sport/Commercial Pilot, Amateur Radio, CWI, plomería, marítimo, UK PPL…).
+- **Por qué es ganador:** cohorte 7+ ≥ 11 / 30 en el slice «pilot» (edades 7 y 9 días, 3-4 copias por creativo), 168 activos en US; página fantasma (sin cara); embudo verificado (ad → landing directa → checkout). Salvedad: casi todo el resto de la página es de < 4 días (fábrica multi-SKU que recrea tandas), sin escalonamiento largo; Fenix Library (119 activos, mismo molde, todo de hoy) corre lo mismo.
+- **Qué hacer:** modelar el molde (guía de examen ilustrada, 56-80 págs, quiz de 3 preguntas como creativo, bonos, precio ~US$ 27) en un examen propio · destino sugerido: 🇧🇷 BR (CNH/OAB/concursos) o 🇪🇸/🇮🇹/🇩🇪 con examen oficial masivo; US/GB ya tiene dos operadores · ángulo: «la guía solo lo lista, aquí cada regla está dibujada».
+- **Ads Library:** 🇺🇸 https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=US&view_all_page_id=1467890346400480&search_type=page&media_type=all · 🇬🇧 (cohorte 0 visible) https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=GB&view_all_page_id=1467890346400480&search_type=page&media_type=all
+- **Landing:** https://drone-pilot-made-visual.visualguidelab.com/ (venta directa, US$ 27)
+- Score ≤1/4 (longevidad 9 d, volumen 11, duplicación baja, hueco sin barrer) · Decisión: —
+- Evidencia: API; snapshot y embudo verificados vía Firecrawl (no WebFetch); checkout no recorrido, upsells no vistos.
+
+**Señales del día EN**
+- Fenix Library (page 1455853117614278, US): mismo molde de guías «drawn» de certificaciones (ICC, NATE, CFOT, Network+…), 119 activos, todos de las últimas 24 h; sin cohorte aún.
+- Music Solved (page 1465563836630767, US/GB): «System 365» un SKU por instrumento, 189/179 activos, churn; slice banjo cohorte 4.
+- Mariana Williams Creations (208 activos US) y Craft Room Co (13, cohorte 4): fábrica de churn y tester; sin tarjeta.
+
 <!-- TARJETAS-BR: la sesión BR inserta sus tarjetas del día justo debajo de esta línea -->
 
 <!-- TARJETAS-ES: la sesión ES inserta sus tarjetas del día justo debajo de esta línea -->

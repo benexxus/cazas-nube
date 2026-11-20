@@ -40,6 +40,7 @@ los nichos que emergen.
 | actividades-para-adulto-mayor | — | todas | 🔴 | — | **EXCLUIDO por el dueño en la instalación: no se busca, no se perfora, no se agrega como hijo** |
 | religioso | — | todas | 🔴 | — | **EXCLUIDO por el dueño en la instalación: no se busca, no se perfora, no se agrega como hijo** |
 | manualidades | — | todas | 🔴 | — | **EXCLUIDO por el dueño en la instalación: no se busca, no se perfora, no se agrega como hijo** |
+| exámenes-certificaciones/guias-ilustradas | — | EN (US, GB) | `superficial` | huella 2026-11-20: 4 keywords, 2 páginas contadas (Visual Guide Lab, Fenix Library) | modo B: perforar por examen (aviación, radio, oficios, marítimo, TI, UK) con `search_terms` + `page_ids` + país; luego destinos BR/ES/IT/DE |
 
 ---
 
@@ -65,6 +66,9 @@ Cada sesión la lee antes de generar keywords y **agrega** las que descubre.
 | landing de operador 🇧🇷 | geo-redirige por idioma | el precio del mercado cazado se mira desde el checkout |
 | página que devuelve **0 con `ALL`** | no está pausada: ya no existe | anotarla como desaparecida |
 | un whale migra de página sin apagar el negocio | contar solo la página madre lo da por muerto | contar también las páginas hermanas de su ficha |
+| `page_ids` con >50 activos | devuelve siempre los 50 más nuevos y la cohorte 7+ queda invisible | sumar `search_terms` por SKU + `page_ids` + `countries` para leer la cola vieja |
+| `printable planner` (EN) | fábricas multi-SKU que recrean todo cada 2-3 días (cohorte 0) | contar por SKU y exigir 10+ en cohorte |
+| link de destino del ad | la API no lo trae; la web de la Biblioteca da 403 a WebFetch | `firecrawl_scrape` sobre el `ad_snapshot_url`/URL de la Biblioteca muestra copy y link |
 
 ## Operadores a seguir (modo C)
 
@@ -94,5 +98,5 @@ la completa al terminar.
 
 | Fecha | Sesión | Modo | Nodo | Keywords corridas | Resultado | Nodo queda en |
 |---|---|---|---|---|---|---|
-| 2026-11-20 | EN (mañana) | A huella (cola vacía: B sin nodo) | — | en curso | en curso | — |
+| 2026-11-20 | EN (mañana) | A huella (cola vacía: B sin nodo) | — | printable planner, payhip, spreadsheet template, study guide pdf (US+GB) + 11 conteos por page_id | 1 tarjeta (Visual Guide Lab, guías de examen PDF US$27) + 3 señales | nodo nuevo `exámenes-certificaciones/guias-ilustradas` superficial |
 | | | | | | | |
