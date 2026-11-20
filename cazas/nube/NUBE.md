@@ -85,7 +85,7 @@ navegador; acá no hay navegador y el disco es un clon de git.
 ## 6. La salida (lo único que Carlos lee)
 
 - **Máximo 2 tarjetas por corrida.** Vara: pasa el gate (no marca personal, embudo verificado o
-  WhatsApp con la oferta en el copy, no excluido) **y** la **vara por región** de `cazas/nube/CEREBRO.md` §1 — **20+ sobrevivientes** en 🇺🇸🇬🇧🇨🇦🇦🇺🇮🇹🇫🇷🇩🇪🇵🇹🇪🇸 · **30+** en 🇧🇷🇨🇴🇲🇽🇷🇴🇵🇱🇨🇿🇭🇺 — contados por país, por oferta, de un solo page_id y con 2+ tandas.
+  WhatsApp con la oferta en el copy, no excluido) **y** la vara de `cazas/nube/CEREBRO.md` §1 — **10+ sobrevivientes**, contados por oferta y por país, igual en todos los mercados; no se piden tandas.
 - Formato exacto: §5 de `skills/cazar/referencias/modos-y-bandeja.md`, diez líneas, en español, más la línea
   «Evidencia: API; snapshot y embudo <verificado por WebFetch | no verificados desde la nube>». Se inserta
   justo debajo de `<!-- TARJETAS-<XX>: ... -->` en `cazas/bandeja.md`. Debajo, «Señales del día <XX>», una

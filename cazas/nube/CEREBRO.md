@@ -12,27 +12,28 @@
 
 ---
 
-## 1. La vara — por región, por país, por oferta
+## 1. La vara — 10+, por oferta y por país, igual en todos los mercados
+
+> **Decidido por Carlos el 2026-11-20.** Reemplaza la vara por región (20 / 30) de la mañana
+> del mismo día. Vale en las cinco sesiones (EN · BR · ES · EU · ESTE).
 
 **Sobrevivientes** = anuncios creados hace **7 días o más** y **todavía activos**, contados
 **en el país cazado** y **sobre la misma oferta**. El total de activos es contexto, nunca
 evidencia.
 
-| Resultado | 🇺🇸 🇬🇧 🇨🇦 🇦🇺 🇮🇹 🇫🇷 🇩🇪 🇵🇹 🇪🇸 | 🇧🇷 🇨🇴 🇲🇽 🇷🇴 🇵🇱 🇨🇿 🇭🇺 | Qué hace la rutina |
-|---|---|---|---|
-| **Pasa la vara** | **20+** | **30+** | gate de 5 filtros → si pasa, **tarjeta** |
-| **Cerca de la vara** | 15-19 | 15-29 | **señal de vigilancia** con fecha de re-conteo (+7 d) en «Señales del día». Ni tarjeta ni descarte |
-| Nivel 1 — «convierte» | 8-14 | 8-14 | señal de una línea |
-| No validada | < 8 | < 8 | nada (a lo sumo nombre en el informe) |
+| Veredicto | Sobrevivientes (oferta × país) | Qué hace la rutina |
+|---|---|---|
+| **Pasa** | **10+** | gate de 5 filtros → si pasa, **tarjeta** |
+| **Cerca** | 7-9 | señal en «Señales del día» con **fecha de re-conteo** (+7 d). Ni tarjeta ni descarte |
+| **Vigilancia** | 4-6 | señal en «Señales del día» con **fecha de re-conteo** (+7 d). Ni tarjeta ni descarte |
+| Señal | < 4 | a lo sumo una línea de señal, sin re-conteo |
 
-- 🇨🇦 🇦🇺 🇪🇸 (20) y 🇷🇴 🇵🇱 🇨🇿 🇭🇺 (30) son **provisorios** del 2026-11-20: la vara alta va
-  donde el CPM es bajo («mismo número, menos evidencia»). Se ajustan con lo medido.
+- **Un solo número en todos los países**, sin vara por región.
 - **Whale = 100+ sobrevivientes**, una oferta, un país. Un whale **no se salta el gate**.
-- **Reporte obligatorio:** `sobrevivientes / activos · vara 🇺🇸 20` y con qué reloj (ver §2).
-  Nunca «pasa» solo. Con `limit: 50` lleno, el número es **piso (`≥`)**.
-- **Chequeo de tandas (obligatorio):** ¿cuántas tandas con fechas separadas hay entre los
-  sobrevivientes? **Una sola tanda = no pasa**, por mucho volumen y ratio que tenga (caso
-  *50 Aulas Prontas de Libras*: 48/50, ratio 100 %, una sola tanda → peor candidato).
+- **Reporte:** el veredicto — «pasa», «cerca», «vigilancia». El conteo crudo
+  (`sobrevivientes / activos`, con qué reloj, ver §2) va en el informe de `RAW/cazas-auto/`.
+  Con `limit: 50` lleno, el número es **piso (`≥`)**.
+- **Las tandas no se piden.** Son contexto: no aprueban ni tumban un candidato.
 - **Ratio** `sobrevivientes / activos` = salud; se lee contra la longevidad.
 - **Se cuenta por OFERTA, no por anunciante.** Un anunciante con 20 verticales de 5-8
   anuncios no es un winner: es un portafolio (caso *The Ascent Club*).

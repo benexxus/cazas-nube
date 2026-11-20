@@ -11,9 +11,9 @@ salvo que la pida.
 > **nunca se rellena el podio**.
 
 **Vara para tener tarjeta:** pasa el gate (no marca personal + embudo verificado o WhatsApp con la oferta
-en el copy) **y** además la **vara por región** de `cazas/nube/CEREBRO.md` §1 — **20+ sobrevivientes** en 🇺🇸🇬🇧🇨🇦🇦🇺🇮🇹🇫🇷🇩🇪🇵🇹🇪🇸 · **30+** en 🇧🇷🇨🇴🇲🇽🇷🇴🇵🇱🇨🇿🇭🇺 — contados por país, por oferta, de un solo page_id y con 2+ tandas. No se suman fanpages hermanas ni se compensa el volumen con la
-longevidad de un ad suelto. Lo que pasa el gate pero no llega a la vara va como una línea de *señal*, no
-como tarjeta.
+en el copy) **y** además la vara de `cazas/nube/CEREBRO.md` §1 — **10+ sobrevivientes** (desde el 2026-11-20), contados por oferta y por país, igual en todos los mercados; no se piden tandas. No se suman fanpages hermanas ni se compensa el volumen con la
+longevidad de un ad suelto. **Cerca** (7-9) y **vigilancia** (4-6) van como línea de *señal* con fecha de
+re-conteo, no como tarjeta. Se reporta el veredicto: «pasa», «cerca», «vigilancia».
 
 **Cómo se revisa:** Claude muestra las tarjetas en el chat y **Carlos decide con palabras** — `Idea`
 (se crea la ficha del producto) · `tirar` (a `descartados.md` con su motivo) · `re-cazar <fecha>` ·
