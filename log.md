@@ -15,3 +15,5 @@
 ## [2026-11-20] caza-auto | BR B perforar profesiones/examenes-y-oposiciones (tarde) → 0 candidatos a bandeja (Maria enfermagem 8/27 cerca, re-conteo 2026-11-27)
 
 ## [2026-11-20] caza-auto | EN B perforar exámenes-certificaciones/guias-ilustradas (tarde) → 0 candidatos a bandeja (Visual Journeyman Style 9/10 cerca, re-conteo 2026-11-27)
+
+## [2026-11-20] caza-auto | ES B perforar profesiones/manuales-de-oficio/fichas-visuales-aprendia (tarde) → 0 candidatos a bandeja (AprendIA = portafolio, ningún SKU > 3 ads; Psyacademy «210 fichas» CO 0/7, re-conteo 2026-11-27)

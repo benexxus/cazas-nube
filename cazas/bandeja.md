@@ -72,6 +72,13 @@ BR 2026-11-20 (C operadores): nada que pase la vara; se barrió Packs & Moldes P
 
 <!-- TARJETAS-ES: la sesión ES inserta sus tarjetas del día justo debajo de esta línea -->
 
+ES 2026-11-20 (tarde, B perforar `fichas-visuales-aprendia`): nada que pase la vara; se barrió las 4 fanpages hermanas de AprendIA (🇲🇽), `fichas ISO 9001`, `fichas guía visual` (🇨🇴) y Psyacademy (🇨🇴 🇲🇽 🇪🇸).
+
+**Señales del día ES (tarde)**
+- Red AprendIA, perforada por página (🇲🇽, sin sumar hermanas): Aprende Hoy (page 1365055716696947) 36 / 62 por página pero ~25 SKUs distintos, ninguno con más de 3 ads (ISO 9001: 3); Guías Paso a Paso (1381808071689792) 13 / 77; Aprende Ya (1288181344388955) y Aprende Más (1390929764102651) 0 / ≥50 con todo de < 7 d (cola invisible). Sigue siendo portafolio: sin tarjeta. Re-conteo por SKU 2026-11-27.
+- Psyacademy (page 944317715424068): «210 fichas visuales de psicopatología», mismo molde que el mapa de trastornos del Este; 🇨🇴 **0 / 7** (más viejo 4,8 d), 🇲🇽🇪🇸 0 / 14 en conjunto, creativos también en FR/EN. Oferta no validada; re-conteo 2026-11-27. Embudo no verificado desde la nube.
+- 🇨🇴 `fichas guía visual`: Smartia y Sofi (WhatsApp «Chat with us», oferta no visible en el copy, todo de hoy) y Vida Saludable; no se pudo identificar qué venden. Sin tarjeta.
+
 ES 2026-11-20 (A huella): nada que pase la vara; se barrió acceso inmediato PDF, moldes imprimir PDF, plantillas editables PDF, diagnósticos manual técnico, guía PDF WhatsApp, paso a paso PDF, oposiciones temario esquemas, plantillas Excel, fichas listas docentes imprimir.
 
 **Señales del día ES**
