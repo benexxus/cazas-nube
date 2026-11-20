@@ -88,6 +88,22 @@ ES 2026-11-20 (A huella): nada que pase la vara; se barrió acceso inmediato PDF
 
 <!-- TARJETAS-EU: la sesión EU inserta sus tarjetas del día justo debajo de esta línea -->
 
+### 🎯 Concursos administrativos en mapas + quiz (105 mapas, PDF €17) — Concorsi in Mappe 🇮🇹 IT · `profesiones/examenes-y-oposiciones` · 2026-11-20 · sesión EU
+- **Qué es:** PDF de 105 mapas visuales «un tema por página» de las 5 materias comunes de concursos públicos (L.241/90, TUEL, código de conducta, principios constitucionales, trasparencia) + 160 quiz comentados + kit de preselectiva + 3 bonos e-book; **€17** pago único (tachado €106), Black Friday €29 «con 7 extras»; garantía 30 días; entrega por email, sin área de miembros.
+- **Por qué es ganador:** **pasa la vara: 25 sobrevivientes / 40 activos en IT** (un solo page_id, una oferta, 8 tandas, la más vieja 26 d; con los dos relojes ≥ 10); página fantasma (sin cara, testimonios genéricos); embudo verificado: ad → landing directa → checkout Hotmart. Salvedades: ninguno a 45+ días, hay 350 ads en `ALL` (mucho churn de creativos), checkout no recorrido, y existe una página hermana «Concorsi in Mappe» `133896043148377` (5 ads de hoy, no sumada).
+- **Qué hacer:** modelar el molde (mapa por tema + glosario + quiz comentado + flashcards, €17-29) para un concurso masivo propio · destino sugerido: 🇪🇸 ES (oposiciones de auxiliar/administrativo) o 🇫🇷 FR/🇵🇹 PT, o 🇮🇹 IT mismo · ángulo: «el manual de 600 páginas sirve para consultar, no para repasar». **Cruzar antes:** `descartados.md` tiene «Concorso Docenti in Mappe» 🔴 (IT, motivo no anotado), mismo molde; y el dominio de Black Friday dice `studioinmappe` (posible parentesco con Studio Facile).
+- **Ads Library:** 🇮🇹 https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=IT&view_all_page_id=1350053468191248&search_type=page&media_type=all
+- **Landing:** https://concorsi-in-mappe.site/ (venta directa, €17; checkout Hotmart `pay.hotmart.com/V107906944N`)
+- Score 1/4 (duplicación por título 15/25; longevidad 26 d, volumen 25 < 50, arbitraje sin medir) · Decisión: —
+- Evidencia: API; snapshot y embudo verificados vía Firecrawl (no WebFetch); checkout no recorrido, upsells no vistos.
+
+**Señales del día EU (tarde)**
+- Familia «La Mappa <concurso> <año>» (🇮🇹, fanpages por concurso: ASMEL 2026 `1476622288866758` 0 / 16, 4 ads cumplen 7 d hoy; ASL Roma 2027 `1527503950440006` y Assistente ASL 2027 `1492168480635775` todo de ≤ 7 d): una fanpage por concurso, no se suman; mismo molde de mapas. Re-conteo 2026-11-27.
+- Pflege Ausbildung / pflegelernzettel.de (`111313235043678`, 🇩🇪): 20 ads de una sola tanda a ~131 d aún activos, 29 activos, pero tienda Shopify multi-SKU (€9,99-50,99, bundle €275,99) y «Hey ich bin Laura» → marca personal (Filtro A); sin tarjeta.
+- Pilote Autrement (`107304295317415`, 🇩🇪): ATPL-Lernzettel 13 Fächer / PPL 9 Fächer, 14 activos, ≤ 4 sobrevivientes en toda la página y ofertas partidas; señal.
+- Martina Rossi (`782531528270117`, 🇮🇹): 200 mappe di infermieristica 0 / ~25 (creado hoy-ayer), multi-SKU y con «storie bibliche» (religioso, excluido); sin tarjeta. Belle Plume (🇫🇷, docentes CRPE/lecture) = portafolio, ningún SKU > 5 ads; Amélie Boissieu sin cambios.
+- 🇵🇹 `exame ordem concurso` y `mapas mentais concurso` con 0 activos (hecho de hoy, 2 keywords, sin `ALL`); 🇩🇪 `Prüfungsvorbereitung PDF Lernkarten` 0. Tramo FR/DE/PT sin cubrir del todo.
+
 <!-- TARJETAS-ESTE: la sesión ESTE inserta sus tarjetas del día justo debajo de esta línea -->
 
 ESTE 2026-11-20 (C operadores): nada que pase la vara; se barrió Mentális Zavarok Térképe (HU), Harta Tulburărilor (RO), Mapa duševních poruch (CZ), 365 Aktywności Bez Ekranu (PL), Visualia Books, Learning Fast, Illustrated SYP, Verde Guides, Studio Facile (RO PL CZ HU) y Nova Mind.
