@@ -140,6 +140,7 @@ la completa al terminar.
 
 | Fecha | Sesión | Modo | Nodo | Keywords corridas | Resultado | Nodo queda en |
 |---|---|---|---|---|---|---|
+| 2026-11-20 | BR (mañana) | C operadores | operadores BR: Packs & Moldes Pro · Arquiteta Clara Finelon · Nova Mind | en curso | en curso | — |
 | 2026-11-20 | EN (mañana, 2ª corrida del día) | B perforar | idiomas | 13 keywords (EN: spanish workbook, french grammar pdf, learn spanish pdf, french/italian/japanese/german/portuguese maps y variantes) + 9 conteos por page_id (US; GB CA AU unión) | 0 tarjetas · 3 señales (familia «mapas visuales»: Spanish Made Visual 8/23; re-conteo 2026-11-27) | `idiomas` EN pasa a profundo-parcial: hijo `idiomas/mapas-visuales` EN en vigilancia (🟡 2026-11-27) |
 | 2026-11-20 | EN (mañana) | A huella (cola vacía: B sin nodo) | — | printable planner, payhip, spreadsheet template, study guide pdf (US+GB) + 11 conteos por page_id | 1 tarjeta (Visual Guide Lab, guías de examen PDF US$27) + 3 señales | nodo nuevo `exámenes-certificaciones/guias-ilustradas` superficial |
 | | | | | | | |
