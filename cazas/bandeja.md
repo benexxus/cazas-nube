@@ -155,6 +155,15 @@ EU 2026-11-21 (mañana, C operadores): nada que pase la vara como tarjeta nueva;
 
 ESTE 2026-11-20 (C operadores): nada que pase la vara; se barrió Mentális Zavarok Térképe (HU), Harta Tulburărilor (RO), Mapa duševních poruch (CZ), 365 Aktywności Bez Ekranu (PL), Visualia Books, Learning Fast, Illustrated SYP, Verde Guides, Studio Facile (RO PL CZ HU) y Nova Mind.
 
+ESTE 2026-11-21 (A huella): nada que pase la vara; se barrió `PDF do druku`/`karty pracy PDF` (PL), `PDF de printat`/`fișe de lucru` (RO), `PDF k vytištění`/`pracovní listy hotové` (CZ), `nyomtatható PDF`/`munkalapok nyomtatásra` (HU) + 9 conteos por page_id.
+
+**Señales del día ESTE (2026-11-21, mañana)**
+- Ready Resources 🇷🇴 (`1440348585824077`, «Biologie clasa a IX-a», material docente listo, «Doar 79 de lei!»): **vigilancia / casi cerca** — 1 sobreviviente hoy de 40 activos, pero un lote de 11 ads cumple 7 d el 2026-11-23 y otro de ≈15 el 11-25 → **re-conteo 2026-11-25**. Portafolio (también «Socio-umane IX–XII»).
+- ProKit Digital 🇭🇺 (`868401433027837`): «Egész évi magyar» 5 / 5 (11 d, una tanda) y electricidad 4 / 4 (10 d, oferta distinta) = **vigilancia**; resto (fizika, kémia, matek, testnevelés) 1-3 d. Multi-SKU; re-conteo 2026-11-28.
+- Edulabs Resources 🇭🇺🇨🇿 (`1057793390758198`): 12 ads de 7+ d repartidos en 6 ofertas; «ÓVODA KÉSZ» 4 / 4 = **vigilancia**. Mismo molde que ProKit/Ready Resources (red de material docente listo en 4 idiomas, USD); re-conteo 2026-11-28.
+- Mesa Ligera 🇵🇱🇷🇴 (`1219245414615500`): PDFs médicos/oficios («Psychiatria w kartach», «Atlas punktów spustowych», «Ściąga Elektryka», «Ściąga ratownika») **0 / ≈49**, el más viejo de 4,4 d; EUR, multi-SKU; re-conteo 2026-11-28.
+- Hravá příprava 🇨🇿 (299 Kč, «5 000 aktivit»): 0 / 3 (≤ 3,4 d). Skill Hub Teachers, Easy Notes Studio 🇷🇴: 0 sobrev. (< 3 d).
+
 **Señales del día ESTE**
 - Mapa de trastornos (misma oferta «210 cartas, 40 pares, 1 PDF» en 3 países): Mentális Zavarok Térképe 🇭🇺 **0 / 8 · vara 🇭🇺 30**; Harta Tulburărilor 🇷🇴 **0 / 10 · vara 🇷🇴 30** (el más viejo, 12-nov, a 6,6 d); Mapa duševních poruch 🇨🇿 0 activos hoy (ALL ≥ 50 en tandas 04-18 nov, todo apagado). No validada; re-conteo 2026-11-27. Embudo no verificado desde la nube.
 - Visualia Books, Learning Fast, Illustrated SYP y Verde Guides (🇷🇴🇭🇺🇨🇿🇵🇱): 0 activos hoy con `ACTIVE`; con `ALL` traen ≥ 50 ads cada una (ofertas de oficios, exámenes, Hashimoto). Hecho de hoy: pausaron o apagaron; no es descarte.
