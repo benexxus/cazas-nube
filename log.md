@@ -31,3 +31,4 @@
 ## [2026-11-21] caza-auto | ESTE — conteos limpios del molde Leave It Sorted: GB My Estate Kit 37/37 (pasa), AU Estate Kit 9 (cerca), US Family Folder 4 (vigilancia)
 
 ## [2026-11-21] caza-auto | BR huella — 0 candidatos a bandeja (Mentagrama 8/16 y Mapa do Aprovado 5/36 en vigilancia)
+## [2026-11-21] caza-auto | EN C operadores → 0 candidatos a bandeja
