@@ -26,6 +26,16 @@ histórico.
 
 <!-- TARJETAS-EN: la sesión EN inserta sus tarjetas del día justo debajo de esta línea -->
 
+EN 2026-11-21 (3ª corrida, C con huellas nuevas): nada que pase la vara; se barrió instant download, digital download, workbook pdf, printable flashcards, template bundle, illustrated guide, step-by-step guide, notion template, canva templates, mini course, hvac cheat sheet, citizenship test pdf, moving checklist pdf, security guard exam, lifeguard study guide, resume template pdf, wedding planner pdf, chess openings pdf, visa checklist pdf y tattoo aftercare pdf (US GB CA AU).
+
+**Señales del día EN (21-nov, 3ª corrida)**
+- Live Well & Fully (`447372159049335`, 🇬🇧): «Love Another Way Jumpstart Guide» (familias de adictos), **≥ 50 sobrevivientes / 284 activos** en GB (piso, tope 50), pero **falla el gate**: fundadora con credencial (Barbara Decker, CFRS) vende con su historia, programa de 5 módulos «under $200» (curso/coaching). Sin tarjeta; la hermana `2025115757540683` corre el mismo copy.
+- Megan Hayes (`1462418793620408`, 🇺🇸): «Illustrated Guide to the CIA Exam Part 1», 0 / 10 (lote único del 20-nov; GB/CA/AU ~6-9 del mismo lote). Molde de examen ilustrado en PDF, página nueva: re-conteo 2026-11-28.
+- Classroom Makers (`1365252206677904`, 🇺🇸): guía de robótica para el aula «half price», 3 / 21 (18 ads del 21-nov). Speak Clearly Academy (`1295219996997308`, 🇺🇸): workbook PDF US$ 1,99, 1 / 17. Ambas vigilancia sin cohorte → re-conteo 2026-11-28.
+- Viral Content Design (`101868528855890`, 🇺🇸🇬🇧🇨🇦🇦🇺): 20-32 activos por país de «700 Canva Posts for <vertical>», todo del 20-nov y multi-vertical (portafolio de plantillas): sin cohorte.
+- Carlos Medina «VRF Field Manual for HVAC Techs» (`570406022821396`): 0 activos en GB, ~19 ads en `ALL` (GB CA AU) = oferta apagada.
+- Cero activo / ruido: `hvac cheat sheet` (solo `ALL`), `mini course` y `security guard exam` = short-dramas.
+
 EN 2026-11-21 (tarde, C con huellas nuevas): nada que pase la vara; se barrió quick reference pdf, on one page pdf, stan store pdf, systeme io pdf guide, starter kit pdf, toolkit pdf, puppy training pdf, divorce checklist pdf, family budget template y first time home buyer checklist (US GB CA AU).
 
 **Señales del día EN (21-nov, tarde)**

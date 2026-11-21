@@ -16,3 +16,23 @@ nunca se reescribe.
 | 2026-11-21 | EN (tarde) | momento de vida | divorce checklist pdf | divorce checklist pdf (US GB) | ninguna (cero activo; 12-13 en ALL) | — |
 | 2026-11-21 | EN (tarde) | molde × tema | family budget template | family budget template (US GB CA AU) | Budgetdog 552 act. (lead-gen inversión) | — |
 | 2026-11-21 | EN (tarde) | momento de vida | first time home buyer checklist | first time home buyer checklist (US GB CA AU) | ninguna (inmobiliarias, lead magnets gratis) | — |
+| 2026-11-21 | EN (3ª) | huella | instant download | instant download (US GB CA AU) | Printora (8 US, anatomía worksheets), Fotofana Studio (7 CA) | — |
+| 2026-11-21 | EN (3ª) | huella | digital download | digital download (US GB CA AU) | Fotofana Studio, Jalalsamfit 15 GB | — |
+| 2026-11-21 | EN (3ª) | huella | workbook pdf | workbook pdf (US GB CA AU) | Classroom Makers, Speak Clearly Academy | — |
+| 2026-11-21 | EN (3ª) | huella | printable flashcards | printable flashcards (US GB CA AU) | Clara Laurent, Build The Past | — |
+| 2026-11-21 | EN (3ª) | huella | template bundle | template bundle (US GB CA AU) | Viral Content Design, Jenny Hansen Lane | — |
+| 2026-11-21 | EN (3ª) | huella | illustrated guide | illustrated guide (US GB CA AU) | Megan Hayes (CIA exam), Olivia Davies (patrones: manualidades) | — |
+| 2026-11-21 | EN (3ª) | huella | step-by-step guide | step-by-step guide (US GB CA AU) | ninguna infoproducto (novelas, Live Well & Fully) | — |
+| 2026-11-21 | EN (3ª) | huella | notion template | notion template (US GB CA AU) | ninguna con 10+ (Tiny Step Studio 8) | — |
+| 2026-11-21 | EN (3ª) | huella | canva templates | canva templates (US GB CA AU) | Viral Content Design (20-32 por país) | — |
+| 2026-11-21 | EN (3ª) | huella | mini course | mini course (US GB CA AU) | ninguna (short-dramas) | — |
+| 2026-11-21 | EN (3ª) | molde × tema | hvac cheat sheet | hvac cheat sheet (US GB CA AU) | Carlos Medina (apagado) | — |
+| 2026-11-21 | EN (3ª) | momento de vida | citizenship test pdf | citizenship test pdf (US GB CA AU) | ninguna (1-3 ads) | — |
+| 2026-11-21 | EN (3ª) | momento de vida | moving checklist pdf | moving checklist pdf (US GB CA AU) | Online Packages (10, clases de equilibrio: adulto mayor, ignorada) | — |
+| 2026-11-21 | EN (3ª) | molde × tema | security guard exam | security guard exam (US GB CA AU) | ninguna (short-dramas; Grafetta 6) | — |
+| 2026-11-21 | EN (3ª) | molde × tema | lifeguard study guide | lifeguard study guide (US GB CA AU) | ninguna | — |
+| 2026-11-21 | EN (3ª) | molde × tema | resume template pdf | resume template pdf (US GB CA AU) | ninguna | — |
+| 2026-11-21 | EN (3ª) | molde × tema | wedding planner pdf | wedding planner pdf (US GB CA AU) | ninguna | — |
+| 2026-11-21 | EN (3ª) | molde × tema | chess openings pdf | chess openings pdf (US GB CA AU) | ninguna | — |
+| 2026-11-21 | EN (3ª) | momento de vida | visa checklist pdf | visa checklist pdf (US GB CA AU) | ninguna (Wherecanimove 9 en ALL) | — |
+| 2026-11-21 | EN (3ª) | molde × tema | tattoo aftercare pdf | tattoo aftercare pdf (US GB CA AU) | ninguna | — |
