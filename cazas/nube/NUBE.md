@@ -142,7 +142,10 @@ cobertura, no de minutos:** 20 keywords barridas y hasta 5 páginas verificadas.
 
 1. Juntá las tablas y agrupá por página. Sacá lo que está en `cazas/descartados.md`, en los nichos
    excluidos, en `CEREBRO.md` §7 (ya cazado) o que no es infoproducto.
-2. Elegí **hasta 5 páginas**: más ads en la respuesta y fecha de creación más vieja primero.
+2. Elegí **hasta 5 páginas, primero las que nunca vimos**: buscá cada `page_id` con
+   `grep -rl -- "<page_id>" cazas/ RAW/cazas-auto/`. Las que no aparecen en ningún lado van primero (más
+   ads en la respuesta y fecha de creación más vieja primero); una página ya vista entra solo si sobra
+   lugar o si trae una oferta que no figura en su informe anterior.
 3. Para cada una, el método completo: conteo con `page_ids` + `countries` **por país**, cohorte por oferta
    (partiendo los anunciantes multi-vertical por oferta y avatar), zombis por API (§4), gate y la landing con
    Firecrawl (§4), con marca personal en la landing.

@@ -7,11 +7,17 @@ en `cazas/semillas-usadas.md`, para no repetir.
 
 ## 0. Cómo se usa (cada corrida, en la Etapa 1 de `NUBE.md` §7)
 
-1. Abrí `cazas/semillas-usadas.md` y quedate con lo que tu sesión usó en los últimos 30 días.
-2. Elegí **10 semillas que no estén ahí**, en el idioma nativo de tu mercado:
-   - **6 huellas de formato** (§1, la lista de tu idioma), en orden: la primera que no usaste.
+1. **Solo keywords que nunca se usaron** (orden de Carlos, 2026-11-21: la idea es buscar productos y
+   nichos que no tocamos hasta ahora). Antes de elegir cada semilla, buscala en todo lo ya corrido, de
+   cualquier sesión y de cualquier fecha, también de antes de este archivo:
+   `grep -ril -- "<keyword>" cazas/cola.md cazas/semillas-usadas.md RAW/cazas-auto/`. Si aparece, ya se
+   usó: saltala y pasá a la siguiente.
+2. Elegí **10 semillas nuevas**, en el idioma nativo de tu mercado:
+   - **6 huellas de formato** (§1, la lista de tu idioma), en orden: la primera que nunca se usó.
    - **4 combinaciones** de §2 × §3 (molde × tema) o de §4 (momentos de vida). Un tema que ya es nodo
      en `cazas/cola.md` no cuenta como semilla: saltalo.
+   - Si ya no quedan huellas nuevas de tu idioma, las 10 son combinaciones (alcanzan para meses) y
+     anotás «huellas agotadas en <idioma>» en `cazas/nube/log-nube.md`, para que Carlos pida sumar más.
 3. Cada semilla se busca como **par de palabras nativas** (el buscador hace AND por palabra). Una
    combinación molde × tema se arma nativa, nunca traducida palabra por palabra del inglés.
 4. **Regla de alta.** Una página con **10+ anuncios activos** en una semilla, cuyo tema **no** está en
