@@ -89,6 +89,13 @@ BR 2026-11-20 (C operadores): nada que pase la vara; se barrió Packs & Moldes P
 
 <!-- TARJETAS-ES: la sesión ES inserta sus tarjetas del día justo debajo de esta línea -->
 
+ES 2026-11-21 (mañana, B perforar `profesiones/examenes-y-oposiciones` tramo ES): nada que pase la vara; se barrió temario oposiciones esquemas, resúmenes oposiciones PDF, psicotécnicos oposiciones PDF (ES), examen ICFES guía (CO), guía examen COMIPEMS y guía UNAM PDF (MX).
+
+**Señales del día ES**
+- FemBooks (page 1428908536975654, 🇪🇸): cuadernos de oposición por especialidad («Oposiciones de Primaria/PT/AL/Infantil · 57-59 páginas», «EIR sin farmacología»), 33 activos, **0 sobrevivientes** (todo del 19-20 nov, muchas copias por creativo); oferta no validada, re-conteo 2026-11-28. Evidencia: API; snapshot y embudo no verificados desde la nube.
+- Fichas Visuales · Administrativo del Estado (1432806236580374, 🇪🇸): «157 fichas del Administrativo C1», 5 activos, todos de hoy; misma plantilla que la red AprendIA; re-conteo 2026-11-28.
+- Matemáticas con Toxqui (325078871561169, 🇲🇽): 27 activos «Curso UNAM/IPN 2027», ≥ 18 sobrevivientes, pero es curso en vivo con profesores (verificado por Firecrawl) → Filtro D/A, sin tarjeta. Tu Examen (1095731520298677, 🇲🇽): guías COMIPEMS/UNAM/ENARM, 2 sobrevivientes → señal.
+
 ES 2026-11-20 (tarde, B perforar `fichas-visuales-aprendia`): nada que pase la vara; se barrió las 4 fanpages hermanas de AprendIA (🇲🇽), `fichas ISO 9001`, `fichas guía visual` (🇨🇴) y Psyacademy (🇨🇴 🇲🇽 🇪🇸).
 
 **Señales del día ES (tarde)**

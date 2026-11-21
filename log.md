@@ -32,3 +32,5 @@
 
 ## [2026-11-21] caza-auto | BR huella — 0 candidatos a bandeja (Mentagrama 8/16 y Mapa do Aprovado 5/36 en vigilancia)
 ## [2026-11-21] caza-auto | EN C operadores → 0 candidatos a bandeja
+
+## [2026-11-21] caza-auto | ES B perforar examenes-y-oposiciones (tramo ES) → 0 candidatos a bandeja
