@@ -23,3 +23,5 @@
 ## [2026-11-20] caza-auto | ESTE perforar herencia-y-papeles (tarde) → 1 candidato a bandeja
 
 ## [2026-11-21] caza-auto | ESTE — landing de Dosarul Familiei verificada por Firecrawl (PDF, 89 lei); regla «siempre buscar la landing» agregada a NUBE.md §4
+
+## [2026-11-21] caza-auto | ESTE — Dosarul Familiei confirmado como edición RO de Leave It Sorted (leaveitsorted.com)
