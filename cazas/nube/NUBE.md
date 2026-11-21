@@ -139,7 +139,7 @@ ni recuentos repetidos.
 2. Repartilas en **4 subagentes de 10 keywords cada uno**, con `Agent`, `model: "haiku"`, **lanzados todos
    en el mismo mensaje**. Son de solo lectura. El prompt de cada uno le pide:
    - usar `ads_library_search` (cargarla con `ToolSearch` «select:<nombre completo>»), con
-     `ad_active_status: "ACTIVE"`, `limit: 50`, **un país por llamada** (los de tu sesión) y el mismo
+     `ad_active_status: "ACTIVE"`, `limit: 50`, **un país por llamada**, solo en los países del idioma de esa keyword (EN, BR y ES: todos los de la sesión; EU y ESTE: la tabla idioma → países de tu prompt; nunca una keyword italiana en Alemania) y el mismo
      `client_conversation_id` en todas;
    - ante un cero, repetir esa keyword con `ad_active_status: "ALL"` y marcarla «cero activo»;
    - devolver **solo una tabla**, sin veredictos ni conteos de cohorte: keyword · país · page_id · página ·

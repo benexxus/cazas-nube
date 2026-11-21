@@ -22,7 +22,7 @@ en `cazas/semillas-usadas.md`, para no repetir.
      las de 7+ días, la más vieja primero.
    - **8 combinaciones** de §2 × §3 (molde × tema) o de §4 (momentos de vida), con la misma regla. Un tema
      que ya es nodo en `cazas/cola.md` no cuenta como semilla: saltalo.
-   - En las sesiones de varios idiomas (EU: IT, FR, DE, PT; ESTE: RO, PL, CZ, HU), repartí las 20 parejo
+   - En las sesiones de varios idiomas (EU: IT, FR, DE, PT, NL; ESTE: RO, PL, CZ, HU), repartí las 20 parejo
      entre los idiomas: unas 3 huellas y 2 combinaciones por idioma.
    - Si ya no quedan huellas nunca usadas de tu idioma, anotá «huellas nuevas agotadas en <idioma>» en
      `cazas/nube/log-nube.md` (una sola vez), para que Carlos pida sumar más.
@@ -58,13 +58,13 @@ Pares de palabras que delatan un infoproducto sin decir de qué tema es. El tema
 `toolkit pdf` · `30-day plan` · `printable planner` · `printable journal` · `only $7` · `only $9` ·
 `just $17` · `$27 today` · `£9 today` · `£17 only`
 
-**Español (ES: CO, MX, ES)**
+**Español (ES: CO, MX, ES, CL, PE)**
 `descarga inmediata` · `acceso inmediato` · `pdf descargable` · `guía pdf` · `guía práctica` ·
 `plantillas editables` · `plantilla excel` · `cuaderno de trabajo` · `fichas imprimibles` ·
 `mapas mentales` · `resumen visual` · `láminas ilustradas` · `checklist pdf` · `paso a paso` ·
 `curso grabado` · `minicurso` · `acceso de por vida` · `te llega al correo` · `por WhatsApp` ·
 `hotmart` · `kit digital` · `pack de plantillas` · `guía ilustrada` · `en imágenes` ·
-`explicado fácil` · `en una página` · `solo hoy` · `$199 MXN` · `$19.900` · `9,90 €` · `17 €`
+`explicado fácil` · `en una página` · `solo hoy` · `$199 MXN` · `$19.900` · `$9.990` · `S/ 29.90` · `S/ 39` · `9,90 €` · `17 €`
 
 **Portugués de Brasil (BR) — y de Portugal (EU/PT, con precios en €)**
 `acesso imediato` · `pdf completo` · `apostila pdf` · `guia prático` · `planilha pronta` ·
@@ -74,19 +74,19 @@ Pares de palabras que delatan un infoproducto sin decir de qué tema es. El tema
 `templates canva` · `manual ilustrado` · `guia ilustrado` · `numa página` · `R$ 19,90` · `R$ 27` ·
 `R$ 37` · `R$ 47` · `por apenas` · `9,90 €`
 
-**Italiano (EU: IT)**
+**Italiano (EU: IT, CH)**
 `download immediato` · `pdf scaricabile` · `guida pratica` · `mappe concettuali` ·
 `schemi riassuntivi` · `eserciziario pdf` · `modelli pronti` · `foglio excel` · `accesso immediato` ·
 `accesso a vita` · `corso registrato` · `manuale illustrato` · `checklist pdf` · `kit digitale` ·
 `quiz commentati` · `in una pagina` · `ricevi via email` · `solo 9,90` · `19 €`
 
-**Francés (EU: FR)**
+**Francés (EU: FR, BE, CH)**
 `téléchargement immédiat` · `pdf à télécharger` · `guide pratique` · `fiches de révision` ·
 `cartes mentales` · `modèles prêts` · `tableau excel` · `accès immédiat` · `accès à vie` ·
 `formation vidéo` · `guide illustré` · `checklist pdf` · `kit numérique` · `cahier d'exercices` ·
 `en images` · `en une page` · `reçu par email` · `seulement 17 €`
 
-**Alemán (EU: DE)**
+**Alemán (EU: DE, AT, CH)**
 `sofort download` · `pdf download` · `praxis leitfaden` · `lernkarten pdf` · `mindmaps pdf` ·
 `vorlagen paket` · `excel vorlage` · `sofortiger zugriff` · `lebenslanger zugriff` · `videokurs` ·
 `schritt für schritt` · `checkliste pdf` · `arbeitsbuch pdf` · `zusammenfassung pdf` ·
