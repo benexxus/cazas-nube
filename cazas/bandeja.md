@@ -107,13 +107,13 @@ ES 2026-11-20 (A huella): nada que pase la vara; se barrió acceso inmediato PDF
 <!-- TARJETAS-ESTE: la sesión ESTE inserta sus tarjetas del día justo debajo de esta línea -->
 
 ### 🎯 «Dosarul Familiei» (carpeta de papeles para la familia: banco, contraseñas, quién llama a quién) — Mente que sana 🇷🇴 RO · `herencia-y-papeles` · 2026-11-20 · sesión ESTE
-- **Qué es:** carpeta/dosar «Dosarul Familiei» (~60 págs + 3 bonos según su clon CZ; formato PDF vs físico **no verificado**), ángulo «el cuaderno vacío / 5 llamadas que harán tus hijos / qué hace el banco al saber del deceso»; precio no verificado.
+- **Qué es:** «Dosarul Familiei» (ediție România): **PDF por e-mail para imprimir** (ghid ~30 págs + 10 fișe con 87 preguntas + lista de 26 documentos + 8 cartas de aviso de deceso + mapa digital + ficha «Dacă mi s-ar întâmpla ceva»), plan 48 h-30 días-6 meses; **89 lei** pago único (tachado 259), garantía 14 días; ángulo «el cuaderno vacío / 5 llamadas que harán tus hijos / qué hace el banco al saber del deceso».
 - **Por qué es ganador:** ≥ 11 sobrevivientes / 59 activos (piso; limit 50 lleno), 7,2-8,6 d, dos tandas (12 y 13-nov), un solo `page_id`, página fantasma. Salvedad: el margen sobre la vara es de 1 y todo lo demás es de < 7 d; el mismo operador ya probó la oferta en CZ y HU y la apagó.
 - **Qué hacer:** modelar la carpeta digital + hooks «llamadas en orden / qué pide el banco» · destino: 🇷🇴 RO ya vivo; 🇮🇹/🇩🇪 (herencia ya validada en el cerebro) · ángulo: «el cuaderno está vacío, esto no».
 - **Ads Library:** 🇷🇴 https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=RO&view_all_page_id=1090738757452147&search_type=page&media_type=all
-- **Landing:** no verificada desde la nube (el copy no trae URL).
+- **Landing:** https://productsgitals.store/pages/dosarul-familiei (advertorial de 7 motivos «Totul la zi» → botón a `productsgitals.store/go/ro-dosar`; Shopify, tienda «Digital Boost»; checkout y upsells no recorridos).
 - Score ≤1/4 (longevidad 8 d, volumen 11, duplicación media, hueco sin barrer) · Decisión: —
-- Evidencia: API; snapshot y embudo no verificados desde la nube: verificar en la PC (landing, precio, si es PDF o carpeta física → Filtro D) antes de decidir.
+- Evidencia: API; snapshot y landing verificados vía Firecrawl (no WebFetch; el snapshot cargó con `firecrawl_scrape`, `maxAge: 0`); checkout no recorrido, upsells no vistos. Es PDF → no cae por Filtro D.
 
 **Señales del día ESTE (tarde)**
 - Klidné předání (page 1251607391377130, 🇨🇿): «Celá složka: 60 stran a 3 dárky», plan 5-30-6, mismo ángulo; ALL ≈ 130, `ACTIVE` 2 (6,3 d) → 0 sobrevivientes, apagó casi todo. Querida Familia (1337262539475727, 🇭🇺): mismo molde, ALL 48, 0 activos. Probaron y apagaron; re-conteo 2026-11-27.

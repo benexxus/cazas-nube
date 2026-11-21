@@ -61,6 +61,7 @@ navegador; acá no hay navegador y el disco es un clon de git.
   se reemplazan por: la página tiene **≥ 3 ads creados en fechas distintas** y **≥ 1 creado en los últimos
   30 días** (operador vivo). Una página que solo tiene ads viejos y ninguno nuevo se marca «posible zombi» y
   no pasa a tarjeta.
+- **Siempre buscar la landing (orden de Carlos, 2026-11-21).** La API no trae la URL de destino, pero `firecrawl_scrape` sí abre el `ad_snapshot_url` (con `maxAge: 0`) y devuelve copy completo, precio y link de la landing; después `firecrawl_scrape` de la landing. Hacelo para **todo candidato que llegue a tarjeta o a «cerca»**, antes de escribir «no verificado». Solo si Firecrawl falla se anota «embudo no verificado» y por qué.
 - **Embudo (Filtro B):** si el copy del ad trae la URL de la landing, probá leerla con `WebFetch`; si carga,
   anotá qué vende, el precio y el tipo (checkout / VSL / WhatsApp). Si no hay URL o no carga, la tarjeta dice
   «embudo no verificado desde la nube: verificar en la PC antes de decidir». Nunca se inventa.

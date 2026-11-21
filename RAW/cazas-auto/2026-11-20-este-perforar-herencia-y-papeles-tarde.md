@@ -37,3 +37,6 @@ Trampas nuevas: (1) `ALL` con `page_ids` en CZ/PL de Mente que sana trae 228 ads
 
 ## Lo que no se pudo verificar
 Landing y precio de «Dosarul Familiei» (sin URL en el copy; snapshots 403 desde la nube); si es PDF o carpeta física; los ≥ 9 sobrevivientes cortados por el tope de 50; el conteo CZ real de la página Mente que sana.
+
+## Actualización 2026-11-21 — landing verificada (Firecrawl)
+Snapshot del ad `1148100024861027` abierto con `firecrawl_scrape`: «Dosarul Familiei este un fișier pe care îl primiți pe e-mail și îl tipăriți acasă», 89 lei, garantía 14 días, Ediția pentru România. Landing `productsgitals.store/pages/dosarul-familiei` (Shopify «Digital Boost», marca «Totul la zi»): advertorial de 7 motivos → CTA a `/go/ro-dosar`; oferta tachada 259 → 89 lei (−66 %); entregable 100 % digital (ghid ~30 págs, 10 fișe, 87 preguntas, 26 documentos, 8 cartas, mapa digital, ficha «Dacă mi s-ar întâmpla ceva»); ayuda por e-mail. Sin cara de dueño. Resuelve la duda de Filtro D: es PDF. Pendiente: checkout y upsells. La primera redacción decía «no verificado» por no haber probado Firecrawl.
