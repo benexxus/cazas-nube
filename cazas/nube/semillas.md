@@ -92,28 +92,54 @@ Pares de palabras que delatan un infoproducto sin decir de qué tema es. El tema
 `schritt für schritt` · `checkliste pdf` · `arbeitsbuch pdf` · `zusammenfassung pdf` ·
 `ratgeber pdf` · `digitales paket` · `auf einer seite` · `nur 19 €`
 
-**Rumano (ESTE: RO)**
+**Rumano (ESTE: RO)** — revisadas por el agente revisor-traducciones el 2026-11-21
 `descărcare imediată` · `ghid pdf` · `ghid practic` · `fișe de lucru` · `hărți mentale` ·
 `modele editabile` · `tabel excel` · `acces imediat` · `acces pe viață` · `curs video` ·
-`ghid ilustrat` · `checklist pdf` · `carte digitală` · `pachet digital` · `primești pe email` · `lei`
+`ghid ilustrat` · `checklist pdf` · `carte digitală` · `pachet digital` · `primești pe email` ·
+`ghid complet` · `ghid pas cu pas` · `manual practic` · `curs înregistrat` · `minicurs` · `mini-curs` ·
+`șabloane editabile` · `planner printabil` · `fișiere printabile` · `caiet de exerciții` ·
+`fișe de recapitulare` · `rezumat pdf` · `notițe pdf` · `ebook complet` · `kit digital` ·
+`descarcă ghidul` · `livrare instant pe email` · `doar 39 lei` · `doar 59 lei` · `doar 99 lei` ·
+`preț de lansare` · `format pdf` · `imediat după plată` · `lei în loc de` · `printezi acasă` ·
+`descarcare imediata` · `fise de lucru`
 
-**Polaco (ESTE: PL)**
-`natychmiastowe pobranie` · `poradnik pdf` · `e-book pdf` · `praktyczny przewodnik` · `karty pracy` ·
-`mapy myśli` · `gotowe szablony` · `arkusz excel` · `natychmiastowy dostęp` · `dostęp dożywotni` ·
-`kurs wideo` · `ilustrowany poradnik` · `checklista pdf` · `pakiet cyfrowy` · `otrzymasz mailem` · `zł`
+**Polaco (ESTE: PL)** — revisadas el 2026-11-21
+`natychmiastowe pobranie` · `poradnik pdf` · `e-book pdf` · `praktyczny poradnik` · `karty pracy` ·
+`mapy myśli` · `gotowe szablony` · `arkusz excel` · `arkusz w excelu` · `natychmiastowy dostęp` ·
+`dostęp dożywotni` · `kurs wideo` · `ilustrowany poradnik` · `checklista pdf` · `produkt cyfrowy` ·
+`otrzymasz mailem` · `poradnik krok po kroku` · `kompletny poradnik` · `nagrany kurs` · `minikurs` ·
+`planer do druku` · `do wydruku` · `szablony canva` · `ćwiczenia pdf` · `fiszki do druku` ·
+`notatki pdf` · `ściąga pdf` · `ebook poradnik` · `pobierz poradnik` · `dostęp od ręki` ·
+`tylko 49 zł` · `materiały do pobrania` · `zestaw szablonów` · `gotowy plan` · `w formacie pdf` ·
+`natychmiast po zakupie` · `zł zamiast` · `poradnik do pobrania`
 
-**Checo (ESTE: CZ)**
+**Checo (ESTE: CZ)** — revisadas el 2026-11-21
 `okamžité stažení` · `průvodce pdf` · `e-kniha pdf` · `praktický průvodce` · `pracovní listy` ·
-`myšlenkové mapy` · `hotové šablony` · `tabulka excel` · `okamžitý přístup` · `doživotní přístup` ·
-`videokurz` · `ilustrovaný průvodce` · `kontrolní seznam` · `digitální balíček` · `pošleme e-mailem` · `Kč`
+`myšlenkové mapy` · `hotové šablony` · `tabulka v excelu` · `excelová tabulka` · `okamžitý přístup` ·
+`doživotní přístup` · `videokurz` · `ilustrovaný průvodce` · `checklist pdf` · `digitální balíček` ·
+`pošleme e-mailem` · `průvodce krok za krokem` · `kompletní průvodce` · `kurz ze záznamu` · `minikurz` ·
+`e-book ke stažení` · `plánovač k tisku` · `k vytištění` · `šablony canva` · `šablony v canvě` ·
+`pracovní sešit` · `kartičky k tisku` · `výpisky pdf` · `tahák pdf` · `e-book průvodce` ·
+`stáhněte si e-book` · `stáhni si e-book` · `hotový plán` · `jen 299 Kč` · `sada šablon` ·
+`materiály ke stažení` · `ve formátu pdf` · `ihned po zaplacení` · `Kč místo` · `příručka pdf`
 
-**Húngaro (ESTE: HU)**
-`azonnali letöltés` · `pdf útmutató` · `e-könyv pdf` · `gyakorlati útmutató` · `munkalapok` ·
-`gondolattérképek` · `kész sablonok` · `excel táblázat` · `azonnali hozzáférés` ·
-`örökös hozzáférés` · `videótanfolyam` · `illusztrált útmutató` · `ellenőrzőlista` ·
-`digitális csomag` · `e-mailben küldjük` · `Ft`
+**Húngaro (ESTE: HU)** — revisadas el 2026-11-21
+`azonnali letöltés` · `pdf útmutató` · `e-könyv pdf` · `gyakorlati útmutató` · `feladatlapok` ·
+`gondolattérképek` · `kész sablonok` · `excel táblázat` · `azonnali hozzáférés` · `örökös hozzáférés` ·
+`videótanfolyam` · `illusztrált útmutató` · `checklist pdf` · `e-mailben küldjük` ·
+`lépésről lépésre útmutató` · `teljes útmutató` · `videós kurzus` · `minikurzus` · `nyomtatható pdf` ·
+`nyomtatható planner` · `canva sablonok` · `munkafüzet pdf` · `tanulókártyák` · `jegyzetek pdf` ·
+`tételek pdf` · `puska pdf` · `e-könyv útmutató` · `letölthető pdf` · `azonnal letölthető` ·
+`csak 4990 Ft` · `csak 4.990 Ft` · `sabloncsomag` · `étrend pdf` · `edzésterv pdf` · `digitális termék` ·
+`pdf formátumban` · `vásárlás után azonnal` · `Ft helyett` · `nyomtatható feladatlapok`
 
-> Las huellas de precio y de plataforma (`hotmart`, `R$ 27`, `lei`) son anchas: sirven para leer
+> **Diacríticos y flexión (RO, PL, CZ, HU).** No está comprobado si el buscador de la Biblioteca ignora los
+> diacríticos o reconoce las formas flexionadas (`Excelu`, `jegyzetek`). Si una huella con diacríticos da
+> cero, probá antes la variante sin diacríticos (`descarcare imediata`) y anotá en `cazas/nube/log-nube.md`
+> qué pasó, una sola vez por idioma: así queda resuelto para las próximas corridas.
+
+
+> Las huellas de precio y de plataforma (`hotmart`, `R$ 27`, `doar 39 lei`) son anchas: sirven para leer
 > nombres de página, no para medir. Se cuentan después con `page_ids` + `countries`.
 
 ## 2. Moldes que ya ganaron (estructura del producto)
