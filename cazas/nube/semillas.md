@@ -17,11 +17,13 @@ en `cazas/semillas-usadas.md`, para no repetir.
    - **Última vez hace 7+ días** → se puede volver a usar, pero solo cuando no quedan nunca usadas de
      ese tipo. Al repetirla, mirá sobre todo las páginas que no salieron la vez anterior.
    - **Última vez hace menos de 7 días** → saltala.
-2. Elegí **10 semillas**, en el idioma nativo de tu mercado:
-   - **6 huellas de formato** (§1, la lista de tu idioma), en orden: primero las nunca usadas, después
+2. Elegí **20 semillas** (desde el 2026-11-22, con una sola corrida por día), en el idioma nativo de tu mercado:
+   - **12 huellas de formato** (§1, la lista de tu idioma), en orden: primero las nunca usadas, después
      las de 7+ días, la más vieja primero.
-   - **4 combinaciones** de §2 × §3 (molde × tema) o de §4 (momentos de vida), con la misma regla. Un tema
+   - **8 combinaciones** de §2 × §3 (molde × tema) o de §4 (momentos de vida), con la misma regla. Un tema
      que ya es nodo en `cazas/cola.md` no cuenta como semilla: saltalo.
+   - En las sesiones de varios idiomas (EU: IT, FR, DE, PT; ESTE: RO, PL, CZ, HU), repartí las 20 parejo
+     entre los idiomas: unas 3 huellas y 2 combinaciones por idioma.
    - Si ya no quedan huellas nunca usadas de tu idioma, anotá «huellas nuevas agotadas en <idioma>» en
      `cazas/nube/log-nube.md` (una sola vez), para que Carlos pida sumar más.
 3. Cada semilla se busca como **par de palabras nativas** (el buscador hace AND por palabra). Una
@@ -32,8 +34,8 @@ en `cazas/semillas-usadas.md`, para no repetir.
      les agregó «pdf» y varias dieron 0 o 1 resultado.)
 4. **Regla de alta.** Una página con **10+ anuncios activos** en una semilla, cuyo tema **no** está en
    `cazas/cola.md`, ni en `cazas/descartados.md`, ni en los nichos excluidos, entra a la cola como nodo
-   `virgen` con la nota «apareció por semilla «<semilla>» el <fecha> (<sesión>)». La corrida de la
-   tarde (modo B) lo perfora.
+   `virgen` con la nota «apareció por semilla «<semilla>» el <fecha> (<sesión>)». La próxima corrida de tu sesión lo perfora
+   dentro de sus 20 keywords propias (`NUBE.md` §5).
 5. **Catálogo de operadores.** Cuando un operador de la tabla «Operadores a seguir» lanza un producto
    de un tema que no está en la cola, ese tema entra igual, como `virgen` con «apareció en el catálogo
    de <operador>».

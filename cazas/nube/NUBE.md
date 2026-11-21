@@ -79,16 +79,19 @@ navegador; acá no hay navegador y el disco es un clon de git.
   `cohorte / activos`. `limit: 50` es el tope de la API y no hay paginado: si una página tiene más de 50, la
   cohorte es **un piso** y se dice.
 
-## 5. Dos corridas por día y el modo de cada una
+## 5. Una corrida por día y su modo
 
-- Hay una corrida a la **mañana** y otra a la **tarde** (06:30 y 18:30 Europe/Madrid). La de la mañana hace el modo del
-  día de la tabla «Rotación vigente» de `cazas/cola.md` (columna de tu sesión). La de la tarde hace **B
-  perforar** sobre el siguiente nodo `virgen`/`superficial` de tu mercado que ninguna sesión tocó en 7 días;
-  si no hay nodo, repite el modo de la mañana con huellas distintas. Si solo hay una corrida por día (lo dice
-  tu prompt), hacés la de la mañana.
+- **Desde el 2026-11-22 hay una sola corrida por día**, de madrugada (03:00 a 05:00 Europe/Madrid, una
+  sesión cada 30 minutos; ver `cazas/nube/rutinas.md`). La corrida de la tarde ya no existe. Hace el modo del
+  día de la tabla «Rotación vigente» de `cazas/cola.md` (columna de tu sesión).
+- **Lo que hacía la corrida de la tarde entra en la única:** si hay nodos `virgen` de tu mercado que entraron
+  a la cola en los últimos días (por semilla o por catálogo de operador) y que ninguna sesión tocó en 7 días,
+  sus keywords de perforar (4-5 nativas por subnicho) van **dentro de las 20 propias del modo** (§7), aunque el
+  modo del día sea A o C.
 - Domingo: **lint de la cola** de tu mercado (nodos sin tocar > 30 días, 🟡 vencidos, re-mediciones con fecha
-  cumplida) y nada más; se cierra igual con git.
-- **Cualquier modo se corre con el embudo de dos etapas de §7**, y la Etapa 1 lleva siempre 10 semillas de
+  cumplida) y, después, el embudo de §7 **solo con semillas** (las 40 keywords salen de `semillas.md`); se
+  cierra igual con git.
+- **Cualquier modo se corre con el embudo de dos etapas de §7**, y la Etapa 1 lleva siempre 20 semillas de
   `cazas/nube/semillas.md`, aunque el modo del día sea B o C: así cada corrida mira nichos nuevos.
 - Presupuesto por corrida: 45-60 minutos. Si te quedás sin tiempo, cerrá con lo que tengas: un informe parcial
   pusheado vale más que uno completo perdido.
@@ -103,8 +106,7 @@ navegador; acá no hay navegador y el disco es un clon de git.
   línea por ítem.
 - Si nadie pasa la vara: **una sola línea** («<XX> <fecha>: nada que pase la vara; se barrió X, Y, Z»). Nunca
   rellenar.
-- Informe completo en `RAW/cazas-auto/YYYY-MM-DD-<xx>-<modo>-<nodo>.md` (mañana) o `...-<nodo>-tarde.md`
-  (tarde), con la sección «Cobertura». Actualizá tu nodo, tu bitácora y las trampas nuevas en `cazas/cola.md`.
+- Informe completo en `RAW/cazas-auto/YYYY-MM-DD-<xx>-<modo>-<nodo>.md`, con la sección «Cobertura». Actualizá tu nodo, tu bitácora y las trampas nuevas en `cazas/cola.md`.
   Una línea en `log.md`: `## [YYYY-MM-DD] caza-auto | <XX> <modo> <nodo> → <n> candidatos a bandeja`. Una
   línea en `cazas/nube/log-nube.md` si algo técnico falló (conector, 403, conflicto de git, tiempo).
 - Lo que **nunca** hace una rutina: crear fichas de producto en `wiki/productos/`, escribir 🔴 en
@@ -116,24 +118,26 @@ navegador; acá no hay navegador y el disco es un clon de git.
 
 Lo caro es pensar y verificar, no buscar. Por eso la corrida se parte en dos: un barrido ancho y barato
 que mira muchas keywords, y una verificación a fondo solo sobre lo mejor del barrido. **Hay piso de
-cobertura, no de minutos:** 20 keywords barridas y hasta 5 páginas verificadas.
+cobertura, no de minutos:** 40 keywords barridas y hasta 10 páginas verificadas (desde el 2026-11-22, con
+una sola corrida por día). No hay tiempo mínimo: si cumplís el piso antes, cerrá; no rellenes con esperas
+ni recuentos repetidos.
 
 ### Etapa 1 — barrido ancho (subagentes Haiku)
 
-1. Armá la lista de **20-30 keywords** de la corrida. **La Etapa 1 no arranca con menos de 20** (la prueba
-   del 2026-11-21 barrió solo 10 y fue poco):
-   - **10 propias del modo del día** (B: 4-5 nativas por subnicho; A: huellas; C: keywords del tema de los
-     operadores y de la agenda vencida; los conteos por `page_ids` del modo C los hacés vos en la Etapa 2);
-   - **siempre 10 semillas** de `cazas/nube/semillas.md` (§0 de ese archivo dice cuáles);
-   - si el modo no da 10 propias, completá con más semillas hasta llegar a 20.
+1. Armá la lista de **40 keywords** de la corrida. **La Etapa 1 no arranca con menos de 40:**
+   - **20 propias del modo del día** (B: 4-5 nativas por subnicho; A: huellas; C: keywords del tema de los
+     operadores y de la agenda vencida; los conteos por `page_ids` del modo C los hacés vos en la Etapa 2),
+     **más las de perforar los nodos `virgen` nuevos** de tu mercado (§5);
+   - **siempre 20 semillas** de `cazas/nube/semillas.md` (§0 de ese archivo dice cuáles);
+   - si el modo no da 20 propias, completá con más semillas hasta llegar a 40.
    - **Las semillas van tal cual están escritas.** No les agregues palabras (`pdf`, `guide`, `template`): el
      buscador exige todas las palabras, y una keyword de 4-5 palabras da casi cero. Las propias del modo,
      de 2 o 3 palabras como máximo.
    - **Las combinaciones molde × tema que armás vos, sin palabras de formato de más**: `visa checklist`,
      `chess openings`, nunca `visa checklist pdf`. `pdf`, `guide`, `download` o `template` van solo si son
      parte del molde (`<tema> mind maps`, `<tema> in pictures`). Ver `semillas.md` §0.3.
-2. Repartilas en **2-3 subagentes, nunca uno solo**, con `Agent`, `model: "haiku"`, de 8-12 keywords cada
-   uno, **lanzados todos en el mismo mensaje**. Son de solo lectura. El prompt de cada uno le pide:
+2. Repartilas en **4 subagentes de 10 keywords cada uno**, con `Agent`, `model: "haiku"`, **lanzados todos
+   en el mismo mensaje**. Son de solo lectura. El prompt de cada uno le pide:
    - usar `ads_library_search` (cargarla con `ToolSearch` «select:<nombre completo>»), con
      `ad_active_status: "ACTIVE"`, `limit: 50`, **un país por llamada** (los de tu sesión) y el mismo
      `client_conversation_id` en todas;
@@ -158,11 +162,18 @@ cobertura, no de minutos:** 20 keywords barridas y hasta 5 páginas verificadas.
 
 1. Juntá las tablas y agrupá por página. Sacá lo que está en `cazas/descartados.md`, en los nichos
    excluidos, en `CEREBRO.md` §7 (ya cazado) o que no es infoproducto.
-2. Elegí **hasta 5 páginas, primero las que nunca vimos**: buscá cada `page_id` con
+2. Elegí **hasta 10 páginas, primero las que nunca vimos**: buscá cada `page_id` con
    `grep -rl -- "<page_id>" cazas/ RAW/cazas-auto/`. Las que no aparecen en ningún lado van primero (más
    ads en la respuesta y fecha de creación más vieja primero); una página ya vista entra solo si sobra
    lugar o si trae una oferta que no figura en su informe anterior.
-3. Para cada una, el método completo: conteo con `page_ids` + `countries` **en cada país de tu sesión donde
+3. **Verificación en dos pasos**, para que 10 páginas no cuesten el doble que 5:
+   - **Paso rápido (las 10):** una sola búsqueda con `page_ids` + `countries` en el país donde la página
+     tuvo más ads en las tablas. Contá la cohorte de su oferta principal. Con **menos de 4 sobrevivientes**
+     queda ahí: una línea en el informe («paso rápido: <n> / <activos> en <país>») y no se gasta más.
+     Excepción: si devolvió el tope de 50 con casi todo nuevo, es «indeterminada» (ver abajo), no «menos de 4».
+   - **Paso completo (solo las de 4 o más):** el método entero que sigue. Las de 4-6 van a vigilancia y las
+     de 7 o más a «cerca» o «pasa»; Firecrawl solo para las de 7 o más.
+   El paso completo de cada página: conteo con `page_ids` + `countries` **en cada país de tu sesión donde
    la página apareció en las tablas** (no solo en el primero; la prueba del 2026-11-21 contó solo US), cohorte por oferta
    (partiendo los anunciantes multi-vertical por oferta y avatar), zombis por API (§4), gate y la landing con
    Firecrawl (§4), con marca personal en la landing.
