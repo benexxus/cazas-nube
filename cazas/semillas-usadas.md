@@ -36,3 +36,43 @@ nunca se reescribe.
 | 2026-11-21 | EN (3ª) | molde × tema | chess openings pdf | chess openings pdf (US GB CA AU) | ninguna | — |
 | 2026-11-21 | EN (3ª) | momento de vida | visa checklist pdf | visa checklist pdf (US GB CA AU) | ninguna (Wherecanimove 9 en ALL) | — |
 | 2026-11-21 | EN (3ª) | molde × tema | tattoo aftercare pdf | tattoo aftercare pdf (US GB CA AU) | ninguna | — |
+| 2026-11-21 | ESTE (sáb 14:12) | huella | ghid pdf | ghid pdf (RO) | Fenix Library (15), Digital Books (recetario) | — |
+| 2026-11-21 | ESTE (sáb 14:12) | huella | ghid practic | ghid practic (RO) | Coach Eva Natural 20 | — |
+| 2026-11-21 | ESTE (sáb 14:12) | huella | ghid ilustrat | ghid ilustrat (RO) | Digital Books 20, Știința Bunicilor 11 | — |
+| 2026-11-21 | ESTE (sáb 14:12) | huella | hărți mentale | hărți mentale (RO) | Atlas Terapeutic Vizual (14), Ready Resources (23) | salud-mental-visual |
+| 2026-11-21 | ESTE (sáb 14:12) | huella | acces imediat | acces imediat (RO) | ninguna infoproducto clara (Vivia 7) | — |
+| 2026-11-21 | ESTE (sáb 14:12) | huella | caiet de exerciții | caiet de exerciții (RO) | Studio Facile 12 y 6 (ya cazado) | — |
+| 2026-11-21 | ESTE (sáb 14:12) | huella | rezumat pdf | rezumat pdf (RO) | ninguna con 10+ ni infoproducto | — |
+| 2026-11-21 | ESTE (sáb 14:12) | huella | tabel excel | tabel excel (RO) | ninguna con 10+ ni infoproducto | — |
+| 2026-11-21 | ESTE (sáb 14:12) | combinación (molde × tema) | hărți mentale anatomie | hărți mentale anatomie (RO) | ninguna con 10+ ni infoproducto | — |
+| 2026-11-21 | ESTE (sáb 14:12) | combinación (molde × tema) | ghid divorț | ghid divorț (RO) | ninguna con 10+ ni infoproducto | — |
+| 2026-11-21 | ESTE (sáb 14:12) | huella | poradnik pdf | poradnik pdf (PL) | Next Skill Studio 12, Printora 12 | — |
+| 2026-11-21 | ESTE (sáb 14:12) | huella | mapy myśli | mapy myśli (PL) | short-dramas; Fiona Bramley 6 | — |
+| 2026-11-21 | ESTE (sáb 14:12) | huella | natychmiastowy dostęp | natychmiastowy dostęp (PL) | Anna Majewska 16, Zaginione Umiejętności 9 | profesiones/material-de-clase-listo/educacion-especial |
+| 2026-11-21 | ESTE (sáb 14:12) | huella | arkusz excel | arkusz excel (PL) | ninguna con 10+ ni infoproducto | — |
+| 2026-11-21 | ESTE (sáb 14:12) | huella | ilustrowany poradnik | ilustrowany poradnik (PL) | Next Skill Studio 25 | — |
+| 2026-11-21 | ESTE (sáb 14:12) | huella | ściąga pdf | ściąga pdf (PL) | Mesa Ligera 5, Joanna Zawadzka 14 | — |
+| 2026-11-21 | ESTE (sáb 14:12) | huella | notatki pdf | notatki pdf (PL) | ninguna con 10+ (Kit Online 5, Clearpage 3) | — |
+| 2026-11-21 | ESTE (sáb 14:12) | huella | fiszki do druku | fiszki do druku (PL) | Pobawmy się 9 (actividades niños, no) | — |
+| 2026-11-21 | ESTE (sáb 14:12) | combinación (molde × tema) | elektryk poradnik | elektryk poradnik (PL) | ninguna con 10+ ni infoproducto | — |
+| 2026-11-21 | ESTE (sáb 14:12) | combinación (molde × tema) | szkolenie psa poradnik | szkolenie psa poradnik (PL) | ninguna con 10+ ni infoproducto | — |
+| 2026-11-21 | ESTE (sáb 14:12) | huella | průvodce pdf | průvodce pdf (CZ) | Adam Smith 8 (app) | — |
+| 2026-11-21 | ESTE (sáb 14:12) | huella | myšlenkové mapy | myšlenkové mapy (CZ) | ninguna con 10+ ni infoproducto | — |
+| 2026-11-21 | ESTE (sáb 14:12) | huella | okamžitý přístup | okamžitý přístup (CZ) | AI Sports 25 (canal de tips) | — |
+| 2026-11-21 | ESTE (sáb 14:12) | huella | excelová tabulka | excelová tabulka (CZ) | ninguna con 10+ ni infoproducto | — |
+| 2026-11-21 | ESTE (sáb 14:12) | huella | ilustrovaný průvodce | ilustrovaný průvodce (CZ) | Nora Holm 14 (físico), ConocimientoDigital 10 | — |
+| 2026-11-21 | ESTE (sáb 14:12) | huella | tahák pdf | tahák pdf (CZ) | Mesa Ligera 22, Handy Ebooks 12 (crochet) | — |
+| 2026-11-21 | ESTE (sáb 14:12) | huella | výpisky pdf | výpisky pdf (CZ) | ninguna con 10+ ni infoproducto | — |
+| 2026-11-21 | ESTE (sáb 14:12) | huella | kartičky k tisku | kartičky k tisku (CZ) | ninguna con 10+ ni infoproducto | — |
+| 2026-11-21 | ESTE (sáb 14:12) | combinación (molde × tema) | autoškola testy | autoškola testy (CZ) | ninguna con 10+ ni infoproducto | — |
+| 2026-11-21 | ESTE (sáb 14:12) | combinación (molde × tema) | elektrikář příručka | elektrikář příručka (CZ) | ninguna con 10+ ni infoproducto | — |
+| 2026-11-21 | ESTE (sáb 14:12) | huella | pdf útmutató | pdf útmutató (HU) | Escuela Saludable 30, Digital Master 10, Fenix Library 9 | salud-mental-visual |
+| 2026-11-21 | ESTE (sáb 14:12) | huella | gondolattérképek | gondolattérképek (HU) | Jogi Füzet 5, AlgoGrind 8 | — |
+| 2026-11-21 | ESTE (sáb 14:12) | huella | azonnali hozzáférés | azonnali hozzáférés (HU) | Margit Kovács 8 (crochet), Kati néni 7 | — |
+| 2026-11-21 | ESTE (sáb 14:12) | huella | excel táblázat | excel táblázat (HU) | ninguna con 10+ ni infoproducto | — |
+| 2026-11-21 | ESTE (sáb 14:12) | huella | illusztrált útmutató | illusztrált útmutató (HU) | Escuela Saludable 30, Nora Holm 9 | — |
+| 2026-11-21 | ESTE (sáb 14:12) | huella | puska pdf | puska pdf (HU) | Fotó Puska 15 | fotografia-celular |
+| 2026-11-21 | ESTE (sáb 14:12) | huella | jegyzetek pdf | jegyzetek pdf (HU) | ninguna con 10+ ni infoproducto | — |
+| 2026-11-21 | ESTE (sáb 14:12) | huella | tanulókártyák | tanulókártyák (HU) | ninguna con 10+ ni infoproducto | — |
+| 2026-11-21 | ESTE (sáb 14:12) | combinación (molde × tema) | jogosítvány tételek | jogosítvány tételek (HU) | ninguna con 10+ ni infoproducto | — |
+| 2026-11-21 | ESTE (sáb 14:12) | combinación (molde × tema) | villanyszerelő útmutató | villanyszerelő útmutató (HU) | ninguna con 10+ ni infoproducto | — |
