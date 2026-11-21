@@ -43,3 +43,16 @@ Snapshot del ad `1148100024861027` abierto con `firecrawl_scrape`: «Dosarul Fam
 
 ## Actualización 2026-11-21 (2) — mismo producto que Leave It Sorted
 Carlos confirmó que Dosarul Familiei = Leave It Sorted. Verificado con `firecrawl_scrape` de https://leaveitsorted.com/ (Shopify): mismo advertorial «7 reasons», mismo plan 48-30-6, checklist de 26 documentos, carta «In Case Something Happens», soporte por e-mail; edición US 57 págs / 21 secciones / US$ 53 (98 tachado); la tienda lista también una edición alemana (Der Notfallordner, US$ 39) y la marca declara ediciones British/American/Australian. El operador localiza el mismo kit por país; RO (89 lei) es otra localización. La búsqueda por texto «Leave It Sorted» en `ads_library_search` (GB, CH) devolvió ruido (matcher por token): hay que buscar por page_id de la marca, que no tengo.
+
+## Actualización 2026-11-21 (3) — dónde corre el molde Leave It Sorted (conteos ACTIVE por API)
+Corte 7 d ≈ epoch 1794620000. Hecho de hoy, no veredicto.
+| Página (page_id) | País | Activos | Edad | Nota |
+|---|---|---|---|---|
+| My Estate Kit (1091977304009213) | 🇬🇧 GB | 37 (todos ≥ 7 d, exacto < 50) | de jun-2026 a 31-oct | «5-28-6»/«8-28-6», «Scottish family», USD → **sobrevivientes ≥ 37** |
+| Plainleaf Publishing (1391989857327505) | 🇨🇭 CH | 33 | todos de 17-18 nov (≤ 4 d) | «Notfallordner zum Ausfüllen», CHF; 0 sobrev., recién lanzado |
+| Leave It Sorted (1273987602462473) | 20 países en una consulta | 7 | 5 de ≤ 4 d, 2 de ≈ 43 d | no desglosado por país (EUR) |
+| The Family Folder (487465484456721) | US (sin desglose) | ≥ 6 | hasta 3 semanas | «48-30-6 plan» |
+| The Estate Kit (1215301468337012) | AU (sin desglose) | ≥ 5 | ago-2026 | «Australian family» |
+| unterlagio.privat (1452299261289834) · Wichtige Sachen (1564720296718249) | 🇩🇪 DE | 1 / 1 | ≤ 3 d | Notfallordner |
+| Mente que sana (1090738757452147) | 🇷🇴 RO | 59 | ≥ 11 de ≥ 7 d | Dosarul Familiei; CZ/HU/PL = 0 hoy |
+Otros operadores del molde: The Estate Folder (1341538612387056, US), Joan Pruitt (1343705248835882, US). Nota: la API no desglosa país en consultas multi-país; el GB sale de una consulta por `page_id` + `GB`.

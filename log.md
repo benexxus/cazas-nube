@@ -25,3 +25,5 @@
 ## [2026-11-21] caza-auto | ESTE — landing de Dosarul Familiei verificada por Firecrawl (PDF, 89 lei); regla «siempre buscar la landing» agregada a NUBE.md §4
 
 ## [2026-11-21] caza-auto | ESTE — Dosarul Familiei confirmado como edición RO de Leave It Sorted (leaveitsorted.com)
+
+## [2026-11-21] caza-auto | ESTE — mapa de dónde corre el molde Leave It Sorted (GB 37 My Estate Kit, CH 33 nuevos Plainleaf, RO 59 Mente que sana)
