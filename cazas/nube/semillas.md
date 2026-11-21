@@ -26,6 +26,10 @@ en `cazas/semillas-usadas.md`, para no repetir.
      `cazas/nube/log-nube.md` (una sola vez), para que Carlos pida sumar más.
 3. Cada semilla se busca como **par de palabras nativas** (el buscador hace AND por palabra). Una
    combinación molde × tema se arma nativa, nunca traducida palabra por palabra del inglés.
+   - Una combinación es **molde + tema y nada más**: `visa checklist`, `chess openings`, `tattoo aftercare`.
+     Nunca `visa checklist pdf`. Las palabras de formato (`pdf`, `guide`, `download`, `template`) van solo
+     si son parte del molde, como en `<tema> mind maps` o `<tema> in pictures`. (La prueba del 2026-11-21
+     les agregó «pdf» y varias dieron 0 o 1 resultado.)
 4. **Regla de alta.** Una página con **10+ anuncios activos** en una semilla, cuyo tema **no** está en
    `cazas/cola.md`, ni en `cazas/descartados.md`, ni en los nichos excluidos, entra a la cola como nodo
    `virgen` con la nota «apareció por semilla «<semilla>» el <fecha> (<sesión>)». La corrida de la

@@ -129,6 +129,9 @@ cobertura, no de minutos:** 20 keywords barridas y hasta 5 páginas verificadas.
    - **Las semillas van tal cual están escritas.** No les agregues palabras (`pdf`, `guide`, `template`): el
      buscador exige todas las palabras, y una keyword de 4-5 palabras da casi cero. Las propias del modo,
      de 2 o 3 palabras como máximo.
+   - **Las combinaciones molde × tema que armás vos, sin palabras de formato de más**: `visa checklist`,
+     `chess openings`, nunca `visa checklist pdf`. `pdf`, `guide`, `download` o `template` van solo si son
+     parte del molde (`<tema> mind maps`, `<tema> in pictures`). Ver `semillas.md` §0.3.
 2. Repartilas en **2-3 subagentes, nunca uno solo**, con `Agent`, `model: "haiku"`, de 8-12 keywords cada
    uno, **lanzados todos en el mismo mensaje**. Son de solo lectura. El prompt de cada uno le pide:
    - usar `ads_library_search` (cargarla con `ToolSearch` «select:<nombre completo>»), con
@@ -163,6 +166,9 @@ cobertura, no de minutos:** 20 keywords barridas y hasta 5 páginas verificadas.
    la página apareció en las tablas** (no solo en el primero; la prueba del 2026-11-21 contó solo US), cohorte por oferta
    (partiendo los anunciantes multi-vertical por oferta y avatar), zombis por API (§4), gate y la landing con
    Firecrawl (§4), con marca personal en la landing.
+   - **En el informe de RAW, cada página verificada lleva una fila por país:** en qué países apareció en las
+     tablas de los subagentes y el conteo `cohorte / activos` de cada uno. Si apareció en un solo país, se
+     escribe «solo apareció en <país>», para que se vea que no se salteó ninguno.
    - **Tope de 50 = cohorte indeterminada, no cero.** La API devuelve como máximo 50 anuncios, los más
      nuevos primero. Si una página devuelve 50 y casi todos los visibles tienen menos de 7 días, los viejos
      quedan ocultos y no se sabe cuántos sobreviven. Esa página **no** se anota «0 sobrevivientes»: va a las
