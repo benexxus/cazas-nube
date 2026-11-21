@@ -94,6 +94,7 @@ Cada sesión la lee antes de generar keywords y **agrega** las que descubre.
 | `riassunti concorso pdf` / `mappe concettuali concorso` (IT) | el primero es angosto y limpio (6); el segundo arrastra portafolios (Martina Rossi, «La Mappa <concurso> <año>» = una fanpage por concurso) | contar por oferta + `page_ids` + IT; no sumar fanpages hermanas |
 | `Prüfungsvorbereitung PDF Lernkarten` (DE) · `exame ordem concurso pdf` / `mapas mentais concurso` (PT) | cero con `ACTIVE` (paso 1) | DE: `Lernzettel Prüfung`; PT: probar `ALL` y `concurso público resumo` antes de hablar de mercado |
 | red AprendIA: `page_id` de «Guías profesionales» (ES) | en la cola figura `1319574141233447` pero la API devolvió `1322875314251329` con ese nombre | confirmar el id antes de contar |
+| `ebook completo pdf` · `guia prático pdf` (BR) | ruido: velas/bordado (manualidades excluido), Autor.ia (software), marcas personales, Black Friday | `mapas mentais` + tema de concurso, `planilha pronta` + oficio; contar por `page_id` |
 
 ## Operadores a seguir (modo C)
 
@@ -154,7 +155,7 @@ la completa al terminar.
 
 | Fecha | Sesión | Modo | Nodo | Keywords corridas | Resultado | Nodo queda en |
 |---|---|---|---|---|---|---|
-| 2026-11-21 | BR (mañana) | A huella | — | en curso | en curso | en curso |
+| 2026-11-21 | BR (mañana) | A huella | — | 5 huellas (guia prático pdf, planilha pronta, material digital, mapas mentais, ebook completo pdf) + 7 conteos por page_id | 0 tarjetas · 4 señales (Mentagrama 8/16 una tanda, ≤5 por oferta = vigilancia; Mapa do Aprovado «R$10» 5/36 = vigilancia; Vistoria Pro 3 sobrev. en 3 ofertas; Descomplica em Mapas 0/4) | sin nodo nuevo: Mentagrama y Mapa do Aprovado entran como operadores en `profesiones/examenes-y-oposiciones` (BR); re-conteo 2026-11-28 |
 | 2026-11-21 | EN (mañana) | C agenda/operadores | operadores EN (Energy Profitable, Nara Costa, James Carter, Markus Schneider, Rowan House, Diagram Books, Fernanda Oller) + re-conteos Visual Journeyman Style / Spanish Made Visual | en curso | en curso | en curso |
 | 2026-11-20 | ESTE (tarde) | B perforar | herencia-y-papeles (tramo Este: RO PL CZ HU) | 13 keywords nativas (PL ×4, RO ×4, CZ ×3, HU ×4) + 12 conteos por page_id | 1 tarjeta (Mente que sana «Dosarul Familiei» RO ≥ 11 / 59, embudo no verificado; el mismo operador la probó y apagó en CZ y HU) + 2 señales (Klidné předání CZ / Querida Familia HU apagados; Dobrze Wiedzieć PL 0 sobrev.) | `herencia-y-papeles` tramo Este pasa a `superficial`: faltan PL (sin operador PDF vivo) y re-conteo de Mente que sana 2026-11-27 |
 | 2026-11-20 | EU (tarde) | B perforar | profesiones/examenes-y-oposiciones (tramo EU: IT concorsi, DE Prüfung, FR concours, PT exame) | 9 keywords nativas (IT ×2, DE ×3, FR ×2, PT ×2) + 8 conteos por page_id | 1 tarjeta (Concorsi in Mappe IT, 25 / 40, €17, Hotmart; score 1/4; cruzar con «Concorso Docenti in Mappe» 🔴) + 5 señales (red «La Mappa <concurso>» IT, Pflege Ausbildung DE = marca personal, Pilote Autrement DE ≤ 4, Martina Rossi, Belle Plume FR) | `examenes-y-oposiciones` sigue superficial (tramo EU: FR y DE con 2-3 keywords, PT en cero sin `ALL`; faltan Beamtenprüfung, concours cat. C, concurso público PT) |

@@ -56,6 +56,14 @@ EN 2026-11-20 (2ª corrida, B perforar `idiomas`): nada que pase la vara; se bar
 
 <!-- TARJETAS-BR: la sesión BR inserta sus tarjetas del día justo debajo de esta línea -->
 
+BR 2026-11-21 (A huella): nada que pase la vara; se barrió guia prático pdf, planilha pronta, material digital, mapas mentais, ebook completo pdf (todas con `countries: BR`) y 7 conteos por page_id.
+
+**Señales del día BR (A huella)**
+- Mentagrama Mapas Mentais (page 395083497020515, 🇧🇷): cards ilustrados para concursos a R$ 10 («INSS: 800 cards ilustrados», «800 Cards Banestes»); **8 / 16 por creación (7 por entrega)** pero **una sola tanda (2026-11-13)** y mezcla 2 ofertas (INSS 5 + «Apenas R$10» 3) → por oferta ≤ 5 = **vigilancia**; re-conteo 2026-11-28. Evidencia: API; snapshot y embudo no verificados desde la nube.
+- Mapa do Aprovado (1188080441064364): «Por Apenas R$10,00» **5 / 36 · vigilancia** (tandas 10-09, 10-16, 11-08); los 28 ads «200 Mapas Mentais para o TJSP» son una sola tanda de ayer (0 sobrev.). Re-conteo 2026-11-28.
+- Vistoria Pro (874002919132130): «+290 ferramentas para inspeção predial» (checklists/laudo) 0 / 8 en la oferta actual; la línea anterior «+300» 1 sobrev. (09-22); 3 sobrev. en toda la página, 3 ofertas distintas → señal.
+- Descomplica em Mapas (1348952658292622): «Revise cada tema em 5 minutos», 0 / 4, nacido ayer. Lucro Certo (planilha R$ 37), Garimpo Digital (orquídeas), Luiz Tenório (Kit R$ 47): 0 sobrev., todo de ≥ 11-18.
+
 BR 2026-11-20 (tarde, B perforar `profesiones/examenes-y-oposiciones`): nada que pase la vara; se barrió resumo OAB pdf, mapas mentais concurso, prova CNH simulado pdf y resumos enfermagem pdf.
 
 **Señales del día BR (tarde)**
