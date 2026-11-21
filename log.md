@@ -29,3 +29,4 @@
 ## [2026-11-21] caza-auto | ESTE — mapa de dónde corre el molde Leave It Sorted (GB 37 My Estate Kit, CH 33 nuevos Plainleaf, RO 59 Mente que sana)
 
 ## [2026-11-21] caza-auto | ESTE — conteos limpios del molde Leave It Sorted: GB My Estate Kit 37/37 (pasa), AU Estate Kit 9 (cerca), US Family Folder 4 (vigilancia)
+## [2026-11-21] caza-auto | EN C operadores → 0 candidatos a bandeja

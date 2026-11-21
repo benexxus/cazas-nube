@@ -26,6 +26,15 @@ histórico.
 
 <!-- TARJETAS-EN: la sesión EN inserta sus tarjetas del día justo debajo de esta línea -->
 
+EN 2026-11-21 (C operadores/agenda): nada que pase la vara; se barrió Visual Journeyman Style, Energy Profitable, Spanish Made Visual, Nara Costa, James Carter, Markus Schneider, Fernanda Oller, Rowan House Press y Diagram Books.
+
+**Señales del día EN (21-nov)**
+- Visual Journeyman Style (page 1517462271441246, 🇺🇸): «Journeyman Exam Made Visual» US$ 19, **10 / 10 por API → cerca, no tarjeta**: 8 ads creados en 3 minutos del 9-nov + 2 del 11-nov (solo 2 fechas distintas, falla el filtro de ≥ 3 fechas de NUBE §4) y el 20-nov un ad tenía < 100 impresiones (9 con esa regla; gana el reloj que lo deja afuera). `ALL` = `ACTIVE` = 10, 0 en 🇬🇧🇨🇦🇦🇺. Embudo verificado el 20-nov. Re-conteo 2026-11-28.
+- Energy Profitable (ya en el cerebro, 720903437767543): un solo creativo «Wire any control circuit», **🇺🇸 ≥ 30 / 50 (est. 101 activos) y 🇬🇧 ≥ 33 / 50 (est. 92)**, 4-5 fechas de creación, desde el 11-12 nov; sin oferta nueva. Pasaría la vara en conteo, pero es operador ya cazado (ficha «observar»): sin tarjeta. Sin snapshot ni embudo re-verificados.
+- Fernanda Oller (ya en el cerebro, 1262265860313000): oferta nueva «The Wiring Regs in Pictures» (UK) **15 / 15 en 🇬🇧**, 4 fechas, desde el 4-nov; 🇺🇸 «84 Sheets» 3 / 6. Building Defects Atlas sigue en 3 ads de 17-nov (0 sobrev.). Operador ya cazado: señal, embudo no verificado desde la nube; candidata a ficha propia si Carlos lo pide.
+- Spanish Made Visual (1456443927546734, 🇺🇸): 19 / 24 (el 20-nov: 8 / 23), pero la página migró a **francés** («The French past on one page», «102 French rules») + kit español; 2 ads por título como máximo → portafolio, no una oferta. Re-conteo 2026-11-28.
+- Lanzamientos sin cohorte: Rowan House Press 🇬🇧 15 ads del 17-nov (≥ 4 productos, 0 sobrev.); Diagram Books 🇬🇧 0 con `ACTIVE`, 50 en `ALL` (≥ 11 productos de examen, todos del 17-nov); Markus Schneider 🇬🇧 7 / 0; James Carter 🇺🇸 «Cybersecurity Mind Maps» 4 / 0; Nara Costa 🇺🇸 2 / 7 en 3 productos (linfático nuevo del 17-nov, radiografía y aviación con 1 sobreviviente c/u).
+
 EN 2026-11-20 (tarde, B perforar `exámenes-certificaciones/guias-ilustradas`): nada que pase la vara; se barrió pilot exam study guide, NCLEX study guide pdf, electrician exam visual y real estate exam cheat sheet.
 
 **Señales del día EN (tarde)**
