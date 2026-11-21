@@ -56,3 +56,16 @@ Corte 7 d ≈ epoch 1794620000. Hecho de hoy, no veredicto.
 | unterlagio.privat (1452299261289834) · Wichtige Sachen (1564720296718249) | 🇩🇪 DE | 1 / 1 | ≤ 3 d | Notfallordner |
 | Mente que sana (1090738757452147) | 🇷🇴 RO | 59 | ≥ 11 de ≥ 7 d | Dosarul Familiei; CZ/HU/PL = 0 hoy |
 Otros operadores del molde: The Estate Folder (1341538612387056, US), Joan Pruitt (1343705248835882, US). Nota: la API no desglosa país en consultas multi-país; el GB sale de una consulta por `page_id` + `GB`.
+
+## Actualización 2026-11-21 (4) — conteos limpios por `page_id` + país (ACTIVE, corte 7 d ≈ epoch 1794620000)
+| Página | País | Activos | Sobrevivientes (≥ 7 d) | Veredicto |
+|---|---|---|---|---|
+| My Estate Kit (1091977304009213) | 🇬🇧 GB | 37 (< 50, exacto) | 37 (de jun a 29-oct) | **pasa** (≥ 10), un solo page_id |
+| My Estate Kit | 🇺🇸 US · 🇦🇺 AU | 0 · 0 | 0 | solo corre en GB |
+| The Estate Kit (1215301468337012) | 🇦🇺 AU | 9 | 9 (todos de ago-sep, 80+ d) | **cerca** (7-9), re-conteo 2026-11-28 |
+| The Family Folder (487465484456721) | 🇺🇸 US | 13 | 4 (el resto de 3-4 d) | vigilancia, re-conteo 2026-11-28 |
+| Leave It Sorted (1273987602462473) | 🇺🇸 🇬🇧 🇦🇺 (y al menos uno de CA/IE/NZ) | 7 (la misma lista en cada país) | 2 (de ≈ 43 d: «What My Advisor Won't Tell You») | señal; 0 en DE/CH/AT; 5 anuncios nuevos de ≤ 4 d |
+| Plainleaf Publishing (1391989857327505) | 🇨🇭 CH | 33 | 0 (todos del 17-18-nov) | recién lanzado; re-conteo 2026-11-28 |
+| unterlagio.privat (1452299261289834) · Wichtige Sachen (1564720296718249) | 🇩🇪 🇨🇭 🇦🇹 (sin separar) | 7 (portafolio: Nebenkosten, Steuerbelege) · 1 | 0 | señal; Notfallordner = 1 ad de ≤ 4 d |
+| Joan Pruitt (1343705248835882) | 🇺🇸 US | 3 | 0 (6 d) | señal |
+Conclusión: el molde está **probado en 🇬🇧 GB (My Estate Kit 37/37)**; AU en «cerca»; US en vigilancia; DE/CH recién lanzados (≤ 4 d) por operadores distintos; RO es la edición de Mente que sana (≥ 11/59). Las consultas multi-país de la API no separan país: el US/GB/AU de Leave It Sorted devolvió la misma lista de 7. Pendiente: GB para The Family Folder y The Estate Kit, IE/NZ/CA sueltos, y landing de My Estate Kit.
