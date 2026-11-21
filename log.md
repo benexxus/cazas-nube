@@ -34,3 +34,5 @@
 ## [2026-11-21] caza-auto | EN C operadores → 0 candidatos a bandeja
 
 ## [2026-11-21] caza-auto | ES B perforar examenes-y-oposiciones (tramo ES) → 0 candidatos a bandeja
+
+## [2026-11-21] caza-auto | EU C operadores → 0 candidatos a bandeja
