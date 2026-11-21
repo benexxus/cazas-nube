@@ -26,6 +26,15 @@ histórico.
 
 <!-- TARJETAS-EN: la sesión EN inserta sus tarjetas del día justo debajo de esta línea -->
 
+EN 2026-11-21 (tarde, C con huellas nuevas): nada que pase la vara; se barrió quick reference pdf, on one page pdf, stan store pdf, systeme io pdf guide, starter kit pdf, toolkit pdf, puppy training pdf, divorce checklist pdf, family budget template y first time home buyer checklist (US GB CA AU).
+
+**Señales del día EN (21-nov, tarde)**
+- Central Pack (page 1178523422005192, 🇺🇸): fábrica de «<tema> — Professional Edition» / «Master <tema> Visually — 6 Volumes + 5 Bonuses» (carnicería, náutica eléctrica, BMS, pizza, sailing, gelato, aquarium, floristería, cerámica…), ~124 activos estimados en US, **0 sobrevivientes en los 50 visibles** (creados 18-21 nov, ≥ 15 temas, 2-4 ads por tema). Páginas hermanas del mismo molde con dominio `*.shopsmartdigital.com`: Smart Digital `1383014634885117`, Kit Online `694829257056991`. Portafolio, no una oferta; vigilancia sin cohorte → re-conteo 2026-11-28. Embudo no verificado (no se scrapeó). Alta a la cola como nodo `virgen`.
+- Business Explained (`105964635528739`, 🇺🇸): ~104 activos estimados, 70 productos de negocio con «Black Friday 70 % off» + «Instant PDF Download»; 0 sobrevivientes visibles (todo del 20-21 nov). Promo de temporada; re-conteo 2026-11-28.
+- Skillsbeyondschool.com (`370943336753200`, 🇺🇸): «Pass the NREMT» 3 libros (guía + 245 preguntas + memory pack), 12 ads del 21-nov = 0 sobrevivientes; 3 ads de plantillas de cerámica del 18-nov (manualidades, se ignora). Molde de examen en PDF, oferta de hoy.
+- Budgetdog (`103422968063947`, 🇺🇸): 552 activos pero es lead-gen de inversión/retiro (workshop gratis), no infoproducto; Aportino Puppy Training (`1427212830477353`): 12 ads de «Free SOS cheat sheet» del 17-nov, lead magnet gratis (PLN) = 0 sobrevivientes y sin oferta paga visible.
+- Cero activo con `ALL`: `divorce checklist pdf` US/GB (12-13 ads solo en `ALL`, páginas de personas) — sin hallazgo; `first time home buyer checklist` solo inmobiliarias con lead magnets gratis.
+
 EN 2026-11-21 (C operadores/agenda): nada que pase la vara; se barrió Visual Journeyman Style, Energy Profitable, Spanish Made Visual, Nara Costa, James Carter, Markus Schneider, Fernanda Oller, Rowan House Press y Diagram Books.
 
 **Señales del día EN (21-nov)**

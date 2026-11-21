@@ -38,3 +38,4 @@
 ## [2026-11-21] caza-auto | EU C operadores → 0 candidatos a bandeja
 
 ## [2026-11-21] caza-auto | ESTE A huella → 0 candidatos a bandeja
+## [2026-11-21] caza-auto | EN C huellas nuevas (tarde) → 0 candidatos a bandeja
