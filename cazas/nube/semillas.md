@@ -92,6 +92,22 @@ Pares de palabras que delatan un infoproducto sin decir de qué tema es. El tema
 `schritt für schritt` · `checkliste pdf` · `arbeitsbuch pdf` · `zusammenfassung pdf` ·
 `ratgeber pdf` · `digitales paket` · `auf einer seite` · `nur 19 €`
 
+**Neerlandés (EU: NL, BE)** — sumadas el 2026-11-21 y revisadas por revisor-traducciones
+`direct downloaden` · `pdf downloaden` · `e-book pdf` · `ebook pdf` · `downloadbare pdf` · `digitale download` ·
+`praktische gids` · `complete gids` · `visuele gids` · `stappenplan pdf` · `stap-voor-stapgids` ·
+`printbare werkbladen` · `werkbladen pdf` · `mindmaps` · `kant-en-klare sjablonen` · `kant-en-klare templates` ·
+`excel template` · `direct toegang` · `meteen toegang` · `onmiddellijk toegang` · `levenslange toegang` ·
+`videocursus` · `in je eigen tempo` · `opgenomen lessen` · `minicursus` · `mini-cursus` · `checklist pdf` ·
+`digitaal product` · `geen fysiek product` · `printbare planner` · `printables` · `canva templates` ·
+`werkboek pdf` · `samenvatting pdf` · `oefenvragen pdf` · `direct in je mailbox` · `direct in je inbox` ·
+`slechts €9` · `voor maar €19` · `slechts 9 euro` · `tijdelijke introductieprijs` · `e-book handleiding` ·
+`op één pagina` · `op 1 pagina` · `in pdf-formaat` · `direct na betaling` · `direct na aankoop` ·
+`eenmalige betaling` · `i.p.v.` · `nu voor`
+
+> En Flandes se usa más `meteen` u `onmiddellijk` que `direct`. Sin comprobar cómo parte el buscador los
+> guiones, el `€` y las tildes: si una huella da cero, probá la variante sin guion o sin tilde y anotalo en
+> `cazas/nube/log-nube.md`.
+
 **Rumano (ESTE: RO)** — revisadas por el agente revisor-traducciones el 2026-11-21
 `descărcare imediată` · `ghid pdf` · `ghid practic` · `fișe de lucru` · `hărți mentale` ·
 `modele editabile` · `tabel excel` · `acces imediat` · `acces pe viață` · `curs video` ·
