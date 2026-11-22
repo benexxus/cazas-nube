@@ -196,3 +196,43 @@ nunca se reescribe.
 | 2026-11-22 | ES (dom 04:04) | molde × tema | plantillas currículum | plantillas currículum (CO MX ES CL PE) | ninguna | — |
 | 2026-11-22 | ES (dom 04:04) | molde × tema | guiones whatsapp ventas | guiones whatsapp ventas (CO MX ES CL PE) | ninguna infoproducto (agencias) | — |
 | 2026-11-22 | ES (dom 04:04) | molde × tema | excel pymes | excel pymes (CO MX ES CL PE) | ninguna (SaaS) | — |
+| 2026-11-22 | EU (dom 05:40) | huella | download immediato | download immediato (IT CH) | Download Studio ~12 CH (multi-SKU, indeterminada) | — |
+| 2026-11-22 | EU (dom 05:40) | huella | pdf scaricabile | pdf scaricabile (IT CH) | Studio Facile 50 (ya cazado) | — |
+| 2026-11-22 | EU (dom 05:40) | huella | guida pratica | guida pratica (IT CH) | ninguna infoproducto con 10+ | — |
+| 2026-11-22 | EU (dom 05:40) | huella | mappe concettuali | mappe concettuali (IT CH) | Bibbia Vet 10 (casos clínicos), La Mappa ASMEL/ASL 5 | — |
+| 2026-11-22 | EU (dom 05:40) | huella | schemi riassuntivi | schemi riassuntivi (IT CH) | ninguna (Amonteiro, físico) | — |
+| 2026-11-22 | EU (dom 05:40) | molde × tema | checklist trasloco | checklist trasloco (IT CH) | ninguna | — |
+| 2026-11-22 | EU (dom 05:40) | molde × tema | addestramento cuccioli | addestramento cuccioli (IT CH) | ninguna (apps y servicios) | — |
+| 2026-11-22 | EU (dom 05:40) | molde × tema | quiz patente | quiz patente (IT CH) | ninguna (autoescuelas; Fenix Library 2) | — |
+| 2026-11-22 | EU (dom 05:40) | huella | téléchargement immédiat | téléchargement immédiat (FR BE CH) | Bibliodor ~20 (0 sobrev.), Table File ~20 (0 sobrev.) | — |
+| 2026-11-22 | EU (dom 05:40) | huella | pdf à télécharger | pdf à télécharger (FR BE CH) | Studio Facile (ya cazado) | — |
+| 2026-11-22 | EU (dom 05:40) | huella | fiches de révision | fiches de révision (FR BE CH) | Esprit Académique ≥ 50 CH; Camille Laurent ≥ 18 BE | salud/fichas-visuales-psicologia-medicina · salud/biologia-medica-visual |
+| 2026-11-22 | EU (dom 05:40) | huella | cartes mentales | cartes mentales (FR BE CH) | Camille Dubois ≥ 14 FR / ≥ 24 BE; Céline Moreau 3-5 / 27 | — |
+| 2026-11-22 | EU (dom 05:40) | huella | cahier d'exercices | cahier d'exercices (FR BE CH) | Exercices Sensoriels Prêts ~7 (neurokids) | — |
+| 2026-11-22 | EU (dom 05:40) | molde × tema | check-list déménagement | check-list déménagement (FR BE CH) | ninguna | — |
+| 2026-11-22 | EU (dom 05:40) | molde × tema | dressage chiot | dressage chiot (FR BE CH) | ninguna (apps, físico) | — |
+| 2026-11-22 | EU (dom 05:40) | molde × tema | fiches permis | fiches permis (FR BE CH) | Fenix Library 5 (ya cazada) | — |
+| 2026-11-22 | EU (dom 05:40) | huella | sofort download | sofort download (DE AT CH) | ninguna con 10+ (Griffbereit, Studio Facile ya cazados) | — |
+| 2026-11-22 | EU (dom 05:40) | huella | lernkarten pdf | lernkarten pdf (DE AT CH) | Dra Laura Martin 5 / 5, Sofía Herrera 6 / 6 (vigilancia) | — |
+| 2026-11-22 | EU (dom 05:40) | huella | vorlagen paket | vorlagen paket (DE AT CH) | ninguna con 10+ | — |
+| 2026-11-22 | EU (dom 05:40) | huella | arbeitsbuch pdf | arbeitsbuch pdf (DE AT CH) | ninguna (Meine Elemente curso, Mundo Digital CH ~10 nuevo) | — |
+| 2026-11-22 | EU (dom 05:40) | huella | zusammenfassung pdf | zusammenfassung pdf (DE AT CH) | ruido (software) | — |
+| 2026-11-22 | EU (dom 05:40) | molde × tema | Umzug Checkliste | Umzug Checkliste (DE AT CH) | ninguna | — |
+| 2026-11-22 | EU (dom 05:40) | molde × tema | Welpentraining | Welpentraining (DE AT CH) | ninguna (apps, servicios) | — |
+| 2026-11-22 | EU (dom 05:40) | molde × tema | Haushaltsbuch Vorlage | Haushaltsbuch Vorlage (DE AT CH) | ninguna (Geldverdienen24 2) | — |
+| 2026-11-22 | EU (dom 05:40) | huella | acesso vitalício | acesso vitalício (PT) | Cursos de Terapias Naturais 22 (curso), Miguel Ferreira 9 | — |
+| 2026-11-22 | EU (dom 05:40) | huella | receba no e-mail | receba no e-mail (PT) | ficción (Romance Novel 11), Mundo Digital 3 | — |
+| 2026-11-22 | EU (dom 05:40) | huella | 9,90 € | 9,90 € (PT) | ruido (Alibaba, retail) | — |
+| 2026-11-22 | EU (dom 05:40) | huella | numa página | numa página (PT) | Broto de Fé 21 (religioso, ignorado) | — |
+| 2026-11-22 | EU (dom 05:40) | huella | templates canva | templates canva (PT) | Viral Content Design 16 (templates Canva EN) | — |
+| 2026-11-22 | EU (dom 05:40) | molde × tema | carta de condução | carta de condução (PT) | ninguna (autoescuelas) | — |
+| 2026-11-22 | EU (dom 05:40) | molde × tema | exame código | exame código (PT) | ninguna (tests/servicio) | — |
+| 2026-11-22 | EU (dom 05:40) | molde × tema | ração natural cães | ração natural cães (PT) | ninguna (físico) | — |
+| 2026-11-22 | EU (dom 05:40) | huella | direct downloaden | direct downloaden (NL BE) | Gymspiratie 19 BE (0 sobrev. 20-nov) | — |
+| 2026-11-22 | EU (dom 05:40) | huella | praktische gids | praktische gids (NL BE) | ninguna (Charlotte Miller 18 BE: recetario excluido) | — |
+| 2026-11-22 | EU (dom 05:40) | huella | werkbladen pdf | werkbladen pdf (NL BE) | ninguna con 10+ | — |
+| 2026-11-22 | EU (dom 05:40) | huella | kant-en-klare sjablonen | kant-en-klare sjablonen (NL BE) | ninguna | — |
+| 2026-11-22 | EU (dom 05:40) | huella | stappenplan pdf | stappenplan pdf (NL BE) | Kennis Formule 16 (19-nov, 0 sobrev.) | — |
+| 2026-11-22 | EU (dom 05:40) | molde × tema | verhuizing checklist | verhuizing checklist (NL BE) | ninguna | — |
+| 2026-11-22 | EU (dom 05:40) | molde × tema | puppytraining | puppytraining (NL BE) | ninguna | — |
+| 2026-11-22 | EU (dom 05:40) | molde × tema | huishoudboekje | huishoudboekje (NL BE) | ninguna | — |
