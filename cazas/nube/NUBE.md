@@ -246,6 +246,7 @@ subagentes de la Etapa 1** (es el trabajo útil de §7.3).
    la cola → nodo `virgen`).
 6. Al cerrar: una línea por semilla en `cazas/semillas-usadas.md` —y en su columna «Páginas con 10+ activos»
    cada página lleva **su veredicto entre corchetes**: `[pasa]`, `[cerca]`, `[vigilancia]`, `[<4]`,
-   `[recontar PC]`, `[gate: <filtro>]` o `[no verificada]` (desde el 2026-11-23). Es el dato con el que
-   Carlos decide, a los 60 días (2027-01-21), qué tipos de huella se podan; **no se poda nada antes**— y, en el informe de `RAW/cazas-auto/`, una
+   `[recontar PC]`, `[gate: <filtro>]` o `[no verificada]` (desde el 2026-11-23). Es el dato del **análisis de
+   huellas cada 60 días** (el primero el 2027-01-21): qué tipos de huella traen páginas que pasan y cuáles
+   no, para que Carlos tome decisiones. Una rutina nunca cambia las huellas por su cuenta— y, en el informe de `RAW/cazas-auto/`, una
    sección «Embudo» con cuántas keywords barrió la Etapa 1, cuántas páginas salieron y cuáles verificaste.
