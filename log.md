@@ -53,3 +53,5 @@
 ## [2026-11-22] caza-auto | ES lint + embudo con semillas → 1 candidato a bandeja
 
 ## [2026-11-22] caza-auto | EU lint + embudo con semillas → 2 candidatos a bandeja
+
+## [2026-11-22] caza-auto | ESTE lint + embudo con semillas → 2 candidatos a bandeja

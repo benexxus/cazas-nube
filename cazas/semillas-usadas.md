@@ -236,3 +236,43 @@ nunca se reescribe.
 | 2026-11-22 | EU (dom 05:40) | molde × tema | verhuizing checklist | verhuizing checklist (NL BE) | ninguna | — |
 | 2026-11-22 | EU (dom 05:40) | molde × tema | puppytraining | puppytraining (NL BE) | ninguna | — |
 | 2026-11-22 | EU (dom 05:40) | molde × tema | huishoudboekje | huishoudboekje (NL BE) | ninguna | — |
+| 2026-11-22 | ESTE (dom 06:10) | huella | descărcare imediată | descărcare imediată (RO) | Edu Digital 5 (→ HU CZ RO 10+), Ready Resources 5, Escuela Saludable 20 | filosofia-psicoanalisis-pdf |
+| 2026-11-22 | ESTE (dom 06:10) | huella | modele editabile | modele editabile (RO) | ninguna con 10+ (Training & Teaching Center 1) | — |
+| 2026-11-22 | ESTE (dom 06:10) | huella | pachet digital | pachet digital (RO) | ruido (autos usados); Base Digital 3 | — |
+| 2026-11-22 | ESTE (dom 06:10) | huella | fișe de recapitulare | fișe de recapitulare (RO) | ninguna con 10+ (Clearpage 5, In pictures books 5) | — |
+| 2026-11-22 | ESTE (dom 06:10) | huella | șabloane editabile | șabloane editabile (RO) | Ioana Radu 10 (dislexia infantil, ignorada) | — |
+| 2026-11-22 | ESTE (dom 06:10) | huella | planner printabil | planner printabil (RO) | ninguna (cero activo) | — |
+| 2026-11-22 | ESTE (dom 06:10) | molde × tema | checklist mutare | checklist mutare (RO) | ninguna (servicio de mudanzas) | — |
+| 2026-11-22 | ESTE (dom 06:10) | molde × tema | dresaj cățeluș | dresaj cățeluș (RO) | ninguna (app Pupora 15) | — |
+| 2026-11-22 | ESTE (dom 06:10) | molde × tema | buget familial | buget familial (RO) | Alma Artesana 9 (planner 79 lei, cero activo) | — |
+| 2026-11-22 | ESTE (dom 06:10) | molde × tema | ghid acvariu | ghid acvariu (RO) | ruido (viajes) | — |
+| 2026-11-22 | ESTE (dom 06:10) | huella | gotowe szablony | gotowe szablony (PL) | Dojrzała Miłość 21 (coaching), Miłosz Sadowski 5 | — |
+| 2026-11-22 | ESTE (dom 06:10) | huella | planer do druku | planer do druku (PL) | Spokojny Dom 3 (ADHD, ignorada), Edulabs 2 | — |
+| 2026-11-22 | ESTE (dom 06:10) | huella | szablony canva | szablony canva (PL) | So Follow 14 (0 sobrev.), BrandNova 4 | — |
+| 2026-11-22 | ESTE (dom 06:10) | huella | ćwiczenia pdf | ćwiczenia pdf (PL) | Escuela Saludable 19, DomoweStory 7 | — |
+| 2026-11-22 | ESTE (dom 06:10) | huella | zestaw szablonów | zestaw szablonów (PL) | ninguna con 10+ infoproducto | — |
+| 2026-11-22 | ESTE (dom 06:10) | huella | kompletny poradnik | kompletny poradnik (PL) | Charlotte Miller 15 (ya visto), Maxvero 4 | — |
+| 2026-11-22 | ESTE (dom 06:10) | molde × tema | checklista przeprowadzka | checklista przeprowadzka (PL) | ninguna (cero activo) | — |
+| 2026-11-22 | ESTE (dom 06:10) | molde × tema | tresura szczeniaka | tresura szczeniaka (PL) | ninguna | — |
+| 2026-11-22 | ESTE (dom 06:10) | molde × tema | budżet domowy | budżet domowy (PL) | Złoty Tydzień 3 (0 / 8) | — |
+| 2026-11-22 | ESTE (dom 06:10) | molde × tema | akwarystyka poradnik | akwarystyka poradnik (PL) | ninguna (cero activo) | — |
+| 2026-11-22 | ESTE (dom 06:10) | huella | hotové šablony | hotové šablony (CZ) | ninguna con 10+ (Prodejní akademie 5) | — |
+| 2026-11-22 | ESTE (dom 06:10) | huella | pracovní sešit | pracovní sešit (CZ) | Double Academy 28 (servicio) | — |
+| 2026-11-22 | ESTE (dom 06:10) | huella | plánovač k tisku | plánovač k tisku (CZ) | ninguna | — |
+| 2026-11-22 | ESTE (dom 06:10) | huella | digitální balíček | digitální balíček (CZ) | ruido (soplador de nieve, 24) | — |
+| 2026-11-22 | ESTE (dom 06:10) | huella | sada šablon | sada šablon (CZ) | ninguna | — |
+| 2026-11-22 | ESTE (dom 06:10) | huella | příručka pdf | příručka pdf (CZ) | Paul Miller 14 (→ CZ 14 / 28, tarjeta) | supervivencia-autosuficiencia |
+| 2026-11-22 | ESTE (dom 06:10) | molde × tema | checklist stěhování | checklist stěhování (CZ) | ninguna (cero activo) | — |
+| 2026-11-22 | ESTE (dom 06:10) | molde × tema | výcvik štěněte | výcvik štěněte (CZ) | ninguna (cero activo; Klub moderního psa 20 curso) | — |
+| 2026-11-22 | ESTE (dom 06:10) | molde × tema | rodinný rozpočet | rodinný rozpočet (CZ) | ninguna (finanzas, seguros) | — |
+| 2026-11-22 | ESTE (dom 06:10) | molde × tema | akvaristika průvodce | akvaristika průvodce (CZ) | ninguna (cero también con ALL) | — |
+| 2026-11-22 | ESTE (dom 06:10) | huella | kész sablonok | kész sablonok (HU) | Eszter tanító néni 17 (dislexia, ignorada), Veronica Rose 11 | — |
+| 2026-11-22 | ESTE (dom 06:10) | huella | feladatlapok | feladatlapok (HU) | Trade Pro Kit 6 (0 / 17), ProKit 4, Lovely Crafts (manualidades) | — |
+| 2026-11-22 | ESTE (dom 06:10) | huella | munkafüzet pdf | munkafüzet pdf (HU) | ninguna con 10+ (Studio Facile 4) | — |
+| 2026-11-22 | ESTE (dom 06:10) | huella | nyomtatható planner | nyomtatható planner (HU) | ninguna (cero activo) | — |
+| 2026-11-22 | ESTE (dom 06:10) | huella | sabloncsomag | sabloncsomag (HU) | ninguna | — |
+| 2026-11-22 | ESTE (dom 06:10) | huella | letölthető pdf | letölthető pdf (HU) | Escuela Saludable 30 (ya visto) | — |
+| 2026-11-22 | ESTE (dom 06:10) | molde × tema | költözés checklist | költözés checklist (HU) | ninguna (cero activo) | — |
+| 2026-11-22 | ESTE (dom 06:10) | molde × tema | kiskutya nevelés | kiskutya nevelés (HU) | Budai Alfa Kennel 47 (criadero, cero activo) | — |
+| 2026-11-22 | ESTE (dom 06:10) | molde × tema | családi költségvetés | családi költségvetés (HU) | ninguna (construcción, seguros) | — |
+| 2026-11-22 | ESTE (dom 06:10) | molde × tema | akvárium útmutató | akvárium útmutató (HU) | ninguna (tiendas, cero activo) | — |
