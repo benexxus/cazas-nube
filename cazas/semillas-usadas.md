@@ -76,3 +76,43 @@ nunca se reescribe.
 | 2026-11-21 | ESTE (sáb 14:12) | huella | tanulókártyák | tanulókártyák (HU) | ninguna con 10+ ni infoproducto | — |
 | 2026-11-21 | ESTE (sáb 14:12) | combinación (molde × tema) | jogosítvány tételek | jogosítvány tételek (HU) | ninguna con 10+ ni infoproducto | — |
 | 2026-11-21 | ESTE (sáb 14:12) | combinación (molde × tema) | villanyszerelő útmutató | villanyszerelő útmutató (HU) | ninguna con 10+ ni infoproducto | — |
+| 2026-11-22 | EN (dom 03:10) | huella | instant access | instant access (US GB CA AU) | ninguna con 10+ ni infoproducto | — |
+| 2026-11-22 | EN (dom 03:10) | huella | emailed instantly | emailed instantly (US GB CA AU) | ninguna con 10+ ni infoproducto | — |
+| 2026-11-22 | EN (dom 03:10) | huella | gumroad | gumroad (US GB CA AU) | ninguna (Plum & Pencil 2, Visuals Loop 3) | — |
+| 2026-11-22 | EN (dom 03:10) | huella | etsy digital | etsy digital (US GB CA AU) | ninguna (≤ 3 ads) | — |
+| 2026-11-22 | EN (dom 03:10) | huella | video course | video course (US GB CA AU) | ninguna con 10+ ni infoproducto | — |
+| 2026-11-22 | EN (dom 03:10) | huella | 30-day plan | 30-day plan (US GB CA AU) | ninguna con 10+ ni infoproducto | — |
+| 2026-11-22 | EN (dom 03:10) | huella | printable journal | printable journal (US GB CA AU) | ninguna con 10+ ni infoproducto | — |
+| 2026-11-22 | EN (dom 03:10) | huella | only $7 | only $7 (US GB CA AU) | ninguna con 10+ ni infoproducto | — |
+| 2026-11-22 | EN (dom 03:10) | huella | only $9 | only $9 (US GB CA AU) | ninguna con 10+ ni infoproducto | — |
+| 2026-11-22 | EN (dom 03:10) | huella | just $17 | just $17 (US GB CA AU) | ninguna con 10+ ni infoproducto | — |
+| 2026-11-22 | EN (dom 03:10) | huella | $27 today | $27 today (US GB CA AU) | ninguna con 10+ ni infoproducto | — |
+| 2026-11-22 | EN (dom 03:10) | huella | £9 today | £9 today (US GB CA AU) | ninguna con 10+ ni infoproducto | — |
+| 2026-11-22 | EN (dom 03:10) | huella | £17 only | £17 only (US GB CA AU) | ninguna con 10+ ni infoproducto | — |
+| 2026-11-22 | EN (dom 03:10) | molde × tema | plumbing cheat sheet | plumbing cheat sheet (US GB CA AU) | ninguna con 10+ ni infoproducto | — |
+| 2026-11-22 | EN (dom 03:10) | molde × tema | welding cheat sheet | welding cheat sheet (US GB CA AU) | Quinn Morrissette 50+ (curso en video, A/D) | — |
+| 2026-11-22 | EN (dom 03:10) | molde × tema | pharmacy technician study guide | pharmacy technician study guide (US GB CA AU) | Harrington Academy 43 (guía gratis, lead magnet) | — |
+| 2026-11-22 | EN (dom 03:10) | molde × tema | phlebotomy study guide | phlebotomy study guide (US GB CA AU) | ninguna con 10+ ni infoproducto | — |
+| 2026-11-22 | EN (dom 03:10) | molde × tema | insurance license exam | insurance license exam (US GB CA AU) | ninguna con 10+ ni infoproducto | — |
+| 2026-11-22 | EN (dom 03:10) | molde × tema | part 107 study guide | part 107 study guide (US GB CA AU) | Visual Guide Lab 7 (ya con tarjeta) | — |
+| 2026-11-22 | EN (dom 03:10) | molde × tema | roofing estimate template | roofing estimate template (US GB CA AU) | ninguna con 10+ ni infoproducto | — |
+| 2026-11-22 | EN (dom 03:10) | molde × tema | esthetician templates | esthetician templates (US GB CA AU) | ninguna con 10+ ni infoproducto | — |
+| 2026-11-22 | EN (dom 03:10) | momento de vida | newborn schedule | newborn schedule (US GB CA AU) | ninguna con 10+ ni infoproducto | — |
+| 2026-11-22 | EN (dom 03:10) | momento de vida | pregnancy checklist | pregnancy checklist (US GB CA AU) | ninguna con 10+ ni infoproducto | — |
+| 2026-11-22 | EN (dom 03:10) | momento de vida | breastfeeding checklist | breastfeeding checklist (US GB CA AU) | ninguna con 10+ ni infoproducto | — |
+| 2026-11-22 | EN (dom 03:10) | momento de vida | debt payoff planner | debt payoff planner (US GB CA AU) | Ultimate Budget Planner 28 (13/13 y 11/15), Upleaf 6 | finanzas-personales/planillas |
+| 2026-11-22 | EN (dom 03:10) | molde × tema | freelance invoice template | freelance invoice template (US GB CA AU) | ninguna con 10+ ni infoproducto | — |
+| 2026-11-22 | EN (dom 03:10) | molde × tema | linkedin profile templates | linkedin profile templates (US GB CA AU) | ninguna con 10+ ni infoproducto | — |
+| 2026-11-22 | EN (dom 03:10) | molde × tema | interview questions answers | interview questions answers (US GB CA AU) | ninguna con 10+ ni infoproducto | — |
+| 2026-11-22 | EN (dom 03:10) | molde × tema | guitar chords chart | guitar chords chart (US GB CA AU) | ninguna con 10+ ni infoproducto | — |
+| 2026-11-22 | EN (dom 03:10) | molde × tema | fishing knots | fishing knots (US GB CA AU) | ninguna con 10+ ni infoproducto | — |
+| 2026-11-22 | EN (dom 03:10) | molde × tema | camping checklist | camping checklist (US GB CA AU) | Ready Nation 23 (libros de supervivencia) | — |
+| 2026-11-22 | EN (dom 03:10) | molde × tema | yoga sequences | yoga sequences (US GB CA AU) | ninguna con 10+ ni infoproducto | — |
+| 2026-11-22 | EN (dom 03:10) | molde × tema | aquarium cycling guide | aquarium cycling guide (US GB CA AU) | ninguna con 10+ ni infoproducto | — |
+| 2026-11-22 | EN (dom 03:10) | molde × tema | dog grooming guide | dog grooming guide (US GB CA AU) | ninguna con 10+ ni infoproducto | — |
+| 2026-11-22 | EN (dom 03:10) | momento de vida | funeral planning checklist | funeral planning checklist (US GB CA AU) | ninguna con 10+ ni infoproducto | — |
+| 2026-11-22 | EN (dom 03:10) | momento de vida | layoff severance guide | layoff severance guide (US GB CA AU) | ninguna con 10+ ni infoproducto | — |
+| 2026-11-22 | EN (dom 03:10) | momento de vida | first apartment checklist | first apartment checklist (US GB CA AU) | ninguna con 10+ ni infoproducto | — |
+| 2026-11-22 | EN (dom 03:10) | momento de vida | college dorm checklist | college dorm checklist (US GB CA AU) | ninguna con 10+ ni infoproducto | — |
+| 2026-11-22 | EN (dom 03:10) | momento de vida | car accident checklist | car accident checklist (US GB CA AU) | ninguna con 10+ ni infoproducto | — |
+| 2026-11-22 | EN (dom 03:10) | momento de vida | identity theft recovery | identity theft recovery (US GB CA AU) | ninguna con 10+ ni infoproducto | — |

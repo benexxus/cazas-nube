@@ -43,3 +43,5 @@
 ## [2026-11-21] caza-auto | EN C huellas nuevas (3ª corrida) → 0 candidatos a bandeja
 
 ## [2026-11-21] caza-auto | ESTE A huella (sáb 14:12) → 2 candidatos a bandeja
+
+## [2026-11-22] caza-auto | EN lint + embudo con semillas → 1 candidato a bandeja
