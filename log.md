@@ -57,3 +57,5 @@
 ## [2026-11-22] caza-auto | ESTE lint + embudo con semillas → 2 candidatos a bandeja
 
 ## [2026-11-22] informe-opus | Re-conteo en la Library web de las 5 corridas → 14 ofertas pasan; Paul Miller cae (anuncios apagados); Pautas Listas mal descartado; 4 tarjetas nuevas de corrección
+
+## [2026-11-22] mejora | Conteo por oferta con cortes (sin «indeterminada»), sin tope de tarjetas, gate solo con landing, alerta de relanzamiento, ronda diaria de operadores, veredicto por semilla; correcciones de versiones en la bandeja

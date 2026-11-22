@@ -129,6 +129,27 @@ Cada sesión la lee antes de generar keywords y **agrega** las que descubre.
 | `dresaj cățeluș` · `tresura szczeniaka` · `kiskutya nevelés` · `výcvik štěněte` (ESTE) | apps, criaderos y servicios; el único PDF (Budai Alfa Kennel HU, 47 ads) es gancho de un criadero | no volver sin un entregable concreto |
 | `planner printabil` (RO) · `nyomtatható planner` (HU) | cero activo; solo hay ads viejos de Etsy | probar `planer do druku` (PL) o `plánovač k tisku` (CZ) con `ALL` |
 
+## Ronda diaria de operadores (Etapa 0, cada corrida)
+
+Operadores con al menos una oferta que pasó la vara o quedó cerca (7+). Cada corrida mira las 5 filas de su sesión con el chequeo
+más viejo, una consulta por fila (`NUBE.md` §7, Etapa 0). Las sesiones actualizan «Último chequeo» y agregan
+títulos nuevos a «Ofertas conocidas»; las páginas que reciben tarjeta entran solas.
+
+| Sesión | Operador | page_id | Países | Ofertas conocidas | Último chequeo |
+|---|---|---|---|---|---|
+| EN | Ultimate Budget Planner (Cosmo Suite Limited) | `485276957995076` | US GB CA AU | Debt Snowball Avalanche (`debtpayoffplanner.site`) · Ultimate Budget Planner (`ultimatebudgetplanner.site`) | 2026-11-22 |
+| EN | Visual Guide Lab | `1467890346400480` | US CA AU | Part 107 · Private Pilot · Sport Pilot · Amateur Extra · Knots, rigs and reels | 2026-11-22 |
+| BR | Packs & Moldes Pro | `1227856100409706` | BR | Manual do Eletricista Residencial (app Lovable) | 2026-11-21 |
+| BR | Guedes Serviços | `1315091175012794` | BR | Apostila Ar-Condicionado Split (WhatsApp) | 2026-11-22 |
+| ES | Estudia Sencillo (Farmácia Mapeada) | `113453315134646` | CO MX | Urgencias y Emergencias · Farmacología Ilustrada · GLP-1 en Consulta · Bioquímica Ilustrada (`es.farmaciamapeada.com.br/*`) | 2026-11-22 |
+| ES | Pautas Listas para Urgencias | `1358096157393957` | ES | Pautas Listas para Urgencias (`urgencias.ebookky.com`) | 2026-11-22 |
+| ES | Digi Aprende | `308598599011471` | PE | +350 mapas de farmacología (WhatsApp) | 2026-11-22 |
+| EU | Esprit Académique | `1229441186928180` | FR BE CH | 210 Fiches Visuelles · Troubles Mentaux (`visuelles.lovable.app`) | 2026-11-22 |
+| EU | Axon Academy (página «Camille Dubois») | `1077014278820945` | FR BE | La Carte de l'Anglais · La Carte de l'Espagnol (`academyaxon.com/*`) | 2026-11-22 |
+| EU | Camille Laurent | `1407481519105013` | BE FR CH | Bibliothèque de Biologie Médicale · 150 fiches d'anatomie (`*.online/fr`) | 2026-11-22 |
+| EU | Download Studio | `1344017652136102` | CH | packs de coaching: gimnasia (FR EN IT), preparación física, patinaje, strength, pilates (`*.downloadstudio.online`) | 2026-11-22 |
+| ESTE | Edu Digital (Mentis Classics) | `100629922105479` | HU CZ RO PL | Mintea celor 6 mari genii (`edudigital-*.impultienda.ar`) · estrategas · estoicos (`*.mentisclassics.com`) | 2026-11-22 |
+
 ## Operadores a seguir (modo C)
 
 Fábricas multi-SKU y whales que muestran el próximo producto antes de que aparezca por keyword. Se
@@ -168,7 +189,6 @@ enumeran con `page_ids` + `countries`, siempre con el país. Cadencia: quincenal
 | George Windsor | `1059809390547396` | 15 países | lanzó 148 anuncios en 14 idiomas el 18-nov: experimento multi-idioma |
 | Biblioteca Profesional | `948030185069933` | ES | multi-vertical (pádel, boxeo, fisio, electricidad) |
 | AprendIA (red de fanpages) | `1453826204471738 · 1347816741752269 · 1372902832576549` (+ `1288181344388955 · 1365055716696947 · 1381808071689792 · 1390929764102651 · 1319574141233447`) | MX | tienda `aprendia.shop`: 826 guías PDF ~US$ 19,90, venta por WhatsApp `wa.me/12137860982`; Guías Oficiales 49/55 (33 d); seguir si una oferta suelta cruza 30 |
-| Edu Digital | `100629922105479` | HU CZ RO PL | 6 PDF de filosofía y psicoanálisis, lotes de 10 ads por fecha traducidos por idioma; HU 27 / 28 |
 | Paul Miller (Příručka ztracených dovedností) | `547086365144888` | CZ RO HU | manual de 246 habilidades de autosuficiencia, 449 Kč; lotes de 6-8 ads cada 4 días |
 
 ## Rotación vigente

@@ -1,7 +1,7 @@
 # Bandeja — los ganadores del día, en tarjetas
 
-Salida del programa de caza ([[automatizar-la-caza-de-winners]]). **Cada sesión deja acá como máximo
-2 tarjetas por día**, una por producto ganador. Diez líneas cada una, nada más. La evidencia
+Salida del programa de caza ([[automatizar-la-caza-de-winners]]). **Cada sesión deja acá una tarjeta por
+cada página que pasa la vara** (sin tope desde el 2026-11-22; una línea por oferta si la página tiene varias). Diez líneas cada una, nada más. La evidencia
 completa (keywords, conteos, descartes) queda en `RAW/cazas-auto/` y **no se le muestra a Carlos**
 salvo que la pida.
 
@@ -24,14 +24,20 @@ histórico.
 
 ## Pendientes de revisión
 
+### 🔎 Para re-contar en la PC
+Lo que la API no puede cerrar: tope de 50 tras 3 cortes con piso < 10, alerta de relanzamiento o landing que
+Firecrawl no abrió. **El re-conteo de la PC hace solo esta lista y las tarjetas nuevas** (script
+`reconteo-library.js` de la skill `cazar`), no el día entero.
+<!-- RECONTAR: cada sesión agrega acá una línea por página: fecha · sesión · página · page_id · países · motivo · search_terms usados · links por país -->
+
 ### 🔎 Correcciones del informe Opus 2026-11-22 (Library web, a pedido de Carlos)
-Re-conteo de las 6 tarjetas y de las señales del día en la Library web ordenada por impresiones, con las versiones agrupadas contadas. Informe completo en el cerebro (`RAW/cazas/2026-11-22-cazas-nube-informe.md`). Tarjetas nuevas que salen de ahí:
+Re-conteo de las 6 tarjetas y de las señales del día en la Library web ordenada por impresiones, con las versiones agrupadas contadas. Informe completo en el cerebro (`RAW/cazas/2026-11-22-cazas-nube-informe.md`). Tarjetas nuevas que salen de ahí (corregidas el mismo día: los conteos de la web con versiones agrupadas inflaban; donde la página tiene < 50 manda la API):
 
 ### 🎯 Pautas Listas para Urgencias (guía PDF de 288 págs + app de bono, 19,99 €) 🇪🇸 ES · `salud/urgencias-guias` · 2026-11-22 · corrección Opus
 - **Qué es:** guía digital de urgencias ordenada por motivo de consulta (Método 3P, genérico y marca española) + 5 bonos; la app en el móvil es un bono, el producto es el PDF. 19,99 € (tachado 98 €), Impultienda.
-- **Por qué es ganador:** **52 / 143** sobrevivientes en 🇪🇸, más viejo 25-oct (28 d), 16 fechas de creación. **La sesión ES lo había tirado por «app» (Filtro D): mal descartado.**
+- **Por qué es ganador:** **≥ 29 sobrevivientes** en 🇪🇸 (piso: tarjetas de la web sin contar versiones; 52 contándolas), ~130 activos, más viejo 25-oct (28 d), 16 fechas de creación. Por API no se puede: con «Pautas Listas» sigue en 50, todo del 19-21 nov. **La sesión ES lo había tirado por «app» (Filtro D): mal descartado.**
 - **Ads Library:** [🇪🇸](https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ES&view_all_page_id=1358096157393957&search_type=page&media_type=all) · **Landing:** [urgencias.ebookky.com](https://urgencias.ebookky.com/)
-- Gate: A sin persona (solo testimonios con inicial) · B ✅ · D ✅ PDF · Score 1/4 (② 52) · Decisión: —
+- Gate: A sin persona (solo testimonios con inicial) · B ✅ · D ✅ PDF · Score 0-1/4 (② sin confirmar) · Decisión: —
 
 ### 🎯 Farmácia Mapeada en español — 4 ofertas que pasan (PDF US$ 13-15, Hotmart) — Estudia Sencillo 🇨🇴🇲🇽 · `salud-farmacologia-mapas` · 2026-11-22 · corrección Opus
 - **Qué es:** guías PDF ilustradas para estudiantes y profesionales de salud: Urgencias y Emergencias para Enfermería (US$ 13), Kit Farmacología Ilustrada (US$ 13), GLP-1 en Consulta (guía de 149 págs, US$ 15), Bioquímica Ilustrada (US$ 13). Operador brasileño (`es.farmaciamapeada.com.br`, CNPJ 47.918.823/0001-64).
@@ -39,17 +45,12 @@ Re-conteo de las 6 tarjetas y de las señales del día en la Library web ordenad
 - **Ads Library:** [🇨🇴](https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=CO&view_all_page_id=113453315134646&search_type=page&media_type=all) · [🇲🇽](https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=MX&view_all_page_id=113453315134646&search_type=page&media_type=all) · **Landings:** [Urgencias](https://es.farmaciamapeada.com.br/urgencias-enfermeria/) · [Farmacología](https://es.farmaciamapeada.com.br/farmacologia-v2/) · [GLP-1](https://es.farmaciamapeada.com.br/glp1/) · [Bioquímica](https://es.farmaciamapeada.com.br/bioquimica/)
 - Gate: A ✅ con salvedad (en Brasil la marca tiene ~300 k seguidores en una cuenta de marca; el fundador Moisés Santos es marketero, 1,5 k) · D ✅ PDF · Score 1/4 (① 45+ d en Farmacología; ninguna oferta llega a 50 en un país) · Decisión: —
 
-### 🎯 Anglais Visuel (300+ cartes mentales, US$ 17) — Céline Moreau 🇫🇷 FR · `idiomas` · 2026-11-22 · corrección Opus
-- **Por qué:** **10 / 26** en 🇫🇷 (la sesión EU la dejó en 3-5, vigilancia). Mismo molde que La Carte de l'Anglais.
-- **Ads Library:** [🇫🇷](https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=FR&view_all_page_id=1367953336410558&search_type=page&media_type=all) · **Landing:** [anglaisvisuel.site](https://anglaisvisuel.site/) (Impultienda)
-- Gate: **A por verificar** (la landing muestra a «Céline Moreau, professeure d'anglais» con foto y sin redes: posible falsa marca) · Decisión: —
-
 ### 🎯 La Bibliothèque de Biologie Médicale (PDF + app, 9 € / 17 € + upsell 8 €) — Camille Laurent 🇧🇪 BE · `salud/biologia-medica-visual` · 2026-11-22 · corrección Opus
 - **Por qué:** **22 / 22** en 🇧🇪, una sola tanda del 31-oct (22 d). Misma página corre ofertas religiosas (excluidas) y «150 fiches d'anatomie» 13 / 22 todo del 15-16 nov (al borde de los 7 d, re-conteo 2026-11-25).
 - **Ads Library:** [🇧🇪](https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BE&view_all_page_id=1407481519105013&search_type=page&media_type=all) · **Landing:** [clinical-laboratory-library.online](https://clinical-laboratory-library.online/fr/) (snappcheckout)
 - Gate: **A por verificar** («Élise Varenne» con foto, sin redes ni fechas) · Decisión: —
 
-**Señales corregidas por Opus (22-nov):** Dra Laura Martin 🇩🇪 sube a 8 / 8 (cerca, [landing](https://pflegehilfe.map-visio.com/), PDF 9,95 / 14,95 €, sin persona) · Sofía Herrera 🇩🇪 6 / 12 (vigilancia, [landing](https://kita.map-visio.com/), mismo operador `map-visio.com`) · Download Studio 🇨🇭 portafolio, máx. 9 por landing (gimnasia FR 9 / 19, prépa physique 9 / 22): cerca · Fer Rendon 🇲🇽 0 / 160, todo lote nuevo · Facilitaê 🇧🇷 «Guia Reforma» 6 / 18 vigilancia · Aprovados Enem 🇧🇷 0 en la web = zombi confirmado.
+**Señales corregidas por Opus (22-nov):** Céline Moreau 🇫🇷 «Anglais Visuel» **5 / 26 por API → vigilancia** (la web daba 10 contando versiones agrupadas con la fecha del anuncio que las agrupa: infla; Sonnet tenía razón), [landing](https://anglaisvisuel.site/), US$ 17, re-conteo 2026-11-29 · Dra Laura Martin 🇩🇪 **5 / 8 por API → vigilancia** (mismo error de versiones), [landing](https://pflegehilfe.map-visio.com/), PDF 9,95 / 14,95 € · Sofía Herrera 🇩🇪 6 / 12 (vigilancia, [landing](https://kita.map-visio.com/), mismo operador `map-visio.com`) · Download Studio 🇨🇭 portafolio, máx. 9 por landing (gimnasia FR 9 / 19, prépa physique 9 / 22): cerca · Fer Rendon 🇲🇽 0 / 160, todo lote nuevo · Facilitaê 🇧🇷 «Guia Reforma» 6 / 18 vigilancia · Aprovados Enem 🇧🇷 0 en la web = zombi confirmado.
 
 
 <!-- TARJETAS-EN: la sesión EN inserta sus tarjetas del día justo debajo de esta línea -->
@@ -177,7 +178,7 @@ BR 2026-11-20 (C operadores): nada que pase la vara; se barrió Packs & Moldes P
 - **Landing:** WA: ficha reconstruida (vende pack PDF de mapas · bonos sin nombrar · mensaje prellenado no visible) · no se sabe: precio, contenido exacto, escalera, garantía.
 - Score 1/4 (③ duplicación) · escalera n/e · Decisión: —
 - Evidencia: API; snapshot verificado por Firecrawl (2 ads); landing de WhatsApp no abre desde la nube, embudo = ficha WA del copy.
-- **Re-conteo Opus 22-nov:** 🇵🇪 **21 / 40** contando versiones (dos tarjetas agrupan 11 y 8 anuncios del 22-oct). Todo va a WhatsApp; el precio solo sale escribiendo al chat (no se hizo). ✅ pasa.
+- **Re-conteo Opus 22-nov:** 🇵🇪 **19 / 39 por API** (el número de Sonnet es el bueno; la web con versiones daba 21). Todo va a WhatsApp; el precio solo sale escribiendo al chat (no se hizo). ✅ pasa.
 
 **Señales del día ES (22-nov, dom — lint + semillas)**
 - Lint de la cola ES: sin hallazgos. Embudo: 40 semillas nunca usadas (24 huellas + 16 molde × tema) × CO MX ES CL PE, 10 páginas nuevas pasadas por paso rápido, 1 paso completo.
@@ -275,7 +276,7 @@ EU 2026-11-21 (mañana, C operadores): nada que pase la vara como tarjeta nueva;
 - **Landing:** https://edudigital-ro.impultienda.ar/ (checkout `/checkout`; sin persona, rostro ni firma; `noindex`).
 - Score ≤ 2/4 (longevidad 17 d, volumen 27 en HU, duplicación sí, hueco sin medir) · Decisión: —
 - Evidencia: API; snapshot y landing verificados vía Firecrawl (`maxAge: 0`); checkout no recorrido. Es PDF → no cae por Filtro D. Contenido de divulgación sobre autores de dominio público: ver cómo trata cada autor antes de modelar.
-- **Re-conteo Opus 22-nov:** 🇭🇺 **32 / 41** (landing `edudigital-hu.impultienda.ar`) · 🇷🇴 21 / 21 · 🇨🇿 20 / 20. La misma página lanzó «estrategas» y «estoicos» (`mentisclassics.com`) el 18-20 nov: 0 sobrevivientes. Sin persona. ✅ pasa.
+- **Re-conteo Opus 22-nov:** 🇭🇺 **26 / 37 por API** (landing `edudigital-hu.impultienda.ar`) · 🇷🇴 21 / 21 · 🇨🇿 20 / 20. La misma página lanzó «estrategas» y «estoicos» (`mentisclassics.com`) el 18-20 nov: 0 sobrevivientes. Sin persona. ✅ pasa.
 
 ### 🎯 «Příručka ztracených dovedností» (manual ilustrado de 246 habilidades de autosuficiencia, PDF + 2 libros de regalo, 449 Kč) — Paul Miller 🇨🇿 CZ · `supervivencia-autosuficiencia` · 2026-11-22 · sesión ESTE
 - **Qué es:** manual en **PDF** de «habilidades perdidas» (246 según el anuncio, «220+» según la landing), cada una ilustrada en una página vertical con material, tiempo, dificultad y error común: agua, fuego, comida sin heladera, primeros auxilios, reparaciones, huerta en balcón, ahorro; paquete **3 en 1** con «Spíž, která se nikdy nevyprázdní» (60 técnicas de conservación) y «Amišské tajemství» (60 recetas de pan, manteca y queso); **449 Kč** pago único (tachado 1 499 Kč), PDF por e-mail, garantía 7 días «Dědovo slovo».

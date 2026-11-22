@@ -76,8 +76,20 @@ navegador; acá no hay navegador y el disco es un clon de git.
   real que vende con su nombre o su cara, no clasifica. **Nunca escribirle a un vendedor** (ni WhatsApp, ni
   Messenger, ni formulario).
 - `page_ids` siempre con `countries`. Cohorte = ads creados hace 7+ días y todavía activos, reportada como
-  `cohorte / activos`. `limit: 50` es el tope de la API y no hay paginado: si una página tiene más de 50, la
-  cohorte es **un piso** y se dice.
+  `cohorte / activos`. `limit: 50` es el tope de la API y no hay paginado: si una página devuelve 50, **se corta por
+  oferta hasta bajar de 50** (§7, Etapa 2.3); lo que no baja va a «Para re-contar en la PC» de la bandeja.
+  Nunca se escribe «cohorte indeterminada».
+- **La API no ve los anuncios apagados** (caso Paul Miller 🇨🇿, 2026-11-22): con `ACTIVE` devuelve también
+  anuncios que la web muestra «Inactivo» (sus 14 «sobrevivientes» estaban apagados desde el 17-19 nov) y con
+  `INACTIVE` devuelve 0. Desde la nube no se puede confirmar. **Alerta de relanzamiento:** si en los últimos
+  5 días apareció una tanda nueva con el mismo título y su tamaño es ≥ 70 % de la cohorte de sobrevivientes
+  (apagan lo viejo y suben copias), la página igual va a tarjeta si pasa, pero con «⚠️ posible
+  relanzamiento» en la línea Evidencia y una línea en «Para re-contar en la PC».
+- **Ningún descarte por gate sin la landing abierta** (caso Pautas Listas 🇪🇸, 2026-11-22: se tiró como
+  «app» por el copy «Búscalo en la app» y era una guía PDF de 288 páginas con la app de bono, 52 sobrevivientes).
+  Los Filtros A, C y D se cierran con la landing de Firecrawl, nunca con el texto del anuncio, que solo sirve
+  para sospechar. Si Firecrawl no abre la landing, la página va a «Para re-contar en la PC» con el motivo, no
+  a descarte.
 
 ## 5. Una corrida por día y su modo
 
@@ -98,7 +110,11 @@ navegador; acá no hay navegador y el disco es un clon de git.
 
 ## 6. La salida (lo único que Carlos lee)
 
-- **Máximo 2 tarjetas por corrida.** Vara: pasa el gate (no marca personal, embudo verificado o
+- **Todas las páginas que pasan llevan tarjeta** (desde el 2026-11-22; con el tope de 2 quedó afuera un
+  ganador, Camille Laurent 🇧🇪 22 / 22). **Una tarjeta por página**: si tiene varias ofertas que pasan, una
+  línea por oferta en «Por qué es ganador», con su conteo por país y su landing. Orden: más sobrevivientes
+  primero. El techo práctico son las páginas verificadas (§7, hasta 10 + las de la ronda de operadores).
+  Vara: pasa el gate (no marca personal, embudo verificado o
   WhatsApp con la oferta en el copy, no excluido) **y** la vara de `cazas/nube/CEREBRO.md` §1 — **10+ sobrevivientes**, contados por oferta y por país, igual en todos los mercados; no se piden tandas.
 - Formato exacto: §5 de `skills/cazar/referencias/modos-y-bandeja.md`, diez líneas, en español, más la línea
   «Evidencia: API; snapshot y embudo <verificado por WebFetch | no verificados desde la nube>». Se inserta
@@ -121,6 +137,29 @@ que mira muchas keywords, y una verificación a fondo solo sobre lo mejor del ba
 cobertura, no de minutos:** 40 keywords barridas y hasta 10 páginas verificadas (desde el 2026-11-22, con
 una sola corrida por día). No hay tiempo mínimo: si cumplís el piso antes, cerrá; no rellenes con esperas
 ni recuentos repetidos.
+
+### Etapa 0 — ronda de operadores (cada corrida, sea cual sea el modo; desde el 2026-11-22)
+
+Los ganadores comparten molde y los operadores que ya pasaron la vara lanzan SKUs nuevos seguido (Edu
+Digital sacó «estoicos» y «estrategas» a los 10 días; map-visio corre Pflege y Kita). Mirar una página
+conocida cuesta **una consulta** y rinde más que una keyword al azar. Se hace **mientras corren los
+subagentes de la Etapa 1** (es el trabajo útil de §7.3).
+
+1. Tabla «Ronda diaria de operadores» de `cazas/cola.md`, filas de tu sesión, **las 5 con «Último chequeo»
+   más viejo** (si hay menos de 5, todas).
+2. Una consulta por operador: `page_ids` + `countries: [su país principal]` + `ACTIVE` + `limit: 50`.
+   Juntá los títulos distintos (`ad_creative_link_title`) y compará con «Ofertas conocidas».
+3. **Título nuevo con 10+ activos** → entra a la Etapa 2 como una página más (cuenta dentro de las 10;
+   va primero). **Título nuevo con 3-9 activos** → señal «SKU nuevo de <operador>: <título> <n> activos,
+   más viejo <fecha>», con re-conteo a +7 d. **Oferta conocida** → no se re-cuenta acá (eso es del
+   re-conteo de la PC), salvo que haya bajado a < 5 activos: señal «<oferta> bajó a <n> activos».
+4. Actualizá la fila: «Último chequeo» = hoy y el título nuevo en «Ofertas conocidas».
+5. **Alta automática:** toda página que hoy lleva tarjeta entra a la ronda en tu sesión (si no está),
+   con sus ofertas que pasan. **Baja:** 3 chequeos seguidos sin SKU nuevo y con la oferta que pasaba por
+   debajo de 5 activos → la fila pasa a la tabla quincenal «Operadores a seguir (modo C)».
+6. Al verificar la landing de un ganador, si sus anuncios llevan a **otros subdominios o rutas del mismo
+   dominio** (`*.map-visio.com`, `*.downloadstudio.online`, `*.mentisclassics.com`), anotalos en «Ofertas
+   conocidas»: son SKUs hermanos.
 
 ### Etapa 1 — barrido ancho (subagentes Haiku)
 
@@ -170,7 +209,8 @@ ni recuentos repetidos.
    - **Paso rápido (las 10):** una sola búsqueda con `page_ids` + `countries` en el país donde la página
      tuvo más ads en las tablas. Contá la cohorte de su oferta principal. Con **menos de 4 sobrevivientes**
      queda ahí: una línea en el informe («paso rápido: <n> / <activos> en <país>») y no se gasta más.
-     Excepción: si devolvió el tope de 50 con casi todo nuevo, es «indeterminada» (ver abajo), no «menos de 4».
+     Excepción: si devolvió el tope de 50, no se decide nada antes de cortar (ver «Tope de 50» abajo); el corte
+     por oferta es parte del paso rápido.
    - **Paso completo (solo las de 4 o más):** el método entero que sigue. Las de 4-6 van a vigilancia y las
      de 7 o más a «cerca» o «pasa»; Firecrawl solo para las de 7 o más.
    El paso completo de cada página: conteo con `page_ids` + `countries` **en cada país de tu sesión donde
@@ -180,15 +220,32 @@ ni recuentos repetidos.
    - **En el informe de RAW, cada página verificada lleva una fila por país:** en qué países apareció en las
      tablas de los subagentes y el conteo `cohorte / activos` de cada uno. Si apareció en un solo país, se
      escribe «solo apareció en <país>», para que se vea que no se salteó ninguno.
-   - **Tope de 50 = cohorte indeterminada, no cero.** La API devuelve como máximo 50 anuncios, los más
-     nuevos primero. Si una página devuelve 50 y casi todos los visibles tienen menos de 7 días, los viejos
-     quedan ocultos y no se sabe cuántos sobreviven. Esa página **no** se anota «0 sobrevivientes»: va a las
-     Señales como «cohorte indeterminada (tope 50, solo se ven los nuevos): verificar en la PC», con el link
-     de la Biblioteca de anuncios de cada país, para que Carlos la mire en Chrome.
+   - **Tope de 50 → cortar hasta bajar de 50** (desde el 2026-11-22; reemplaza la «cohorte indeterminada»).
+     La API devuelve como máximo 50 anuncios, los más nuevos primero y sin paginado: con 50, los viejos —que
+     son los sobrevivientes— quedan ocultos. Nunca se anota «indeterminada» ni «0». Se corta así:
+     1. Agrupá los 50 visibles por oferta (`ad_creative_link_title` y el nombre del producto en el texto).
+     2. Por cada oferta, una consulta `page_ids` + `countries: [un país]` + `search_terms: "<2-3 palabras
+        del nombre del producto>"`: el nombre que se repite en todos sus anuncios («Pautas Listas»,
+        «Farmacología Ilustrada», «cartes mentales»), nunca una frase del gancho, que cambia de anuncio a
+        anuncio.
+     3. Si el corte sigue en 50: sumá una palabra más del nombre, o cortá cada país de la sesión por separado
+        y uní las listas sin repetir `id`. Máximo 3 cortes por oferta.
+     4. Si tras 3 cortes sigue en 50, la cohorte visible es un **piso** (`≥`). Si el piso ya da 10+, **pasa**
+        y va a tarjeta. Si no, la oferta va a **«Para re-contar en la PC»** de la bandeja (no a Señales), con
+        el link por país y los `search_terms` usados.
+     5. La línea «Evidencia» de la tarjeta y el informe de RAW llevan los `search_terms` de cada corte, para
+        que el re-conteo de la PC repita lo mismo.
+     Caso que lo motivó (2026-11-22): Estudia Sencillo 🇨🇴🇲🇽 (130-140 activos, 7 landings) quedó
+     «indeterminada» y tenía 4 ofertas con 12-44 sobrevivientes cada una; Pautas Listas 🇪🇸 (130) también.
+   - **Página multi-oferta:** cada landing o título distinto es una oferta y se cuenta aparte (Estudia
+     Sencillo: Urgencias, Farmacología, GLP-1, Bioquímica). Pasa la página si pasa al menos una oferta.
 4. **Molde en otros mercados.** Si una página **pasa** (10+), buscá el mismo molde (entregable + tema) en los
    otros países de tu sesión y con 2 keywords nativas en 2 idiomas más de la whitelist. Lo que asome va como
    señal «molde en <país>: <página> <n> activos», no como tarjeta.
 5. **Altas a la cola** con la regla de `semillas.md` §0.4-5 (página con 10+ activos de un tema que no está en
    la cola → nodo `virgen`).
-6. Al cerrar: una línea por semilla en `cazas/semillas-usadas.md` y, en el informe de `RAW/cazas-auto/`, una
+6. Al cerrar: una línea por semilla en `cazas/semillas-usadas.md` —y en su columna «Páginas con 10+ activos»
+   cada página lleva **su veredicto entre corchetes**: `[pasa]`, `[cerca]`, `[vigilancia]`, `[<4]`,
+   `[recontar PC]`, `[gate: <filtro>]` o `[no verificada]` (desde el 2026-11-23). Es el dato con el que
+   Carlos decide, a los 60 días (2027-01-21), qué tipos de huella se podan; **no se poda nada antes**— y, en el informe de `RAW/cazas-auto/`, una
    sección «Embudo» con cuántas keywords barrió la Etapa 1, cuántas páginas salieron y cuáles verificaste.

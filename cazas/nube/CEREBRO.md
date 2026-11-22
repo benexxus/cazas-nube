@@ -65,6 +65,14 @@ evidencia.
 8. **El dominio raíz vacío no prueba que no haya landing** (Shopify esconde `/pages/`). La
    landing se saca **siguiendo el link del anuncio**. El handle de la tienda no es marca
    personal: decide quién cobra.
+9. **La API no ve los apagados; la web infla con versiones** (2026-11-22). Con `ACTIVE`, la API devuelve
+   anuncios que la web ya muestra «Inactivo» (Paul Miller 🇨🇿: 14 «sobrevivientes», todos apagados). La web,
+   a su vez, agrupa versiones («N anuncios usan este contenido») bajo la fecha del anuncio más viejo, y
+   contarlas con esa fecha infla (Céline Moreau 🇫🇷: 10 en la web, 5 por API). Regla: **página × país con
+   menos de 50 → manda la API, anuncio por anuncio**; con 50 o más → la web, contando cada tarjeta una vez
+   (piso) y las versiones solo como techo. Los apagados solo se confirman en la web.
+10. **Tope de 50: se corta, no se declara indeterminada** (`NUBE.md` §7, Etapa 2.3): `search_terms` con el
+   nombre del producto, por oferta y por país, hasta bajar de 50.
 
 ## 3. El gate — cinco filtros eliminatorios
 
