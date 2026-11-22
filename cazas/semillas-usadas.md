@@ -156,3 +156,43 @@ nunca se reescribe.
 | 2026-11-22 | BR (dom 03:30) | momento de vida | imposto de renda | imposto de renda (BR) | Grana Capital 19 (software/curso) | — |
 | 2026-11-22 | BR (dom 03:30) | momento de vida | aposentadoria INSS | aposentadoria INSS (BR) | vanessa.santos.adv 12 (abogada) | — |
 | 2026-11-22 | BR (dom 03:30) | molde × tema | treino casa | treino casa (BR) | ninguna infoproducto | — |
+| 2026-11-22 | ES (dom 04:04) | huella | descarga inmediata | descarga inmediata (CO MX ES CL PE) | ninguna con 10+ infoproducto (Proyecto Ingresos 6) | — |
+| 2026-11-22 | ES (dom 04:04) | huella | pdf descargable | pdf descargable (CO MX ES CL PE) | Digi Aprende 16+ (PE) | salud-farmacologia-mapas |
+| 2026-11-22 | ES (dom 04:04) | huella | guía práctica | guía práctica (CO MX ES CL PE) | ninguna con 10+ infoproducto | — |
+| 2026-11-22 | ES (dom 04:04) | huella | plantilla excel | plantilla excel (CO MX ES CL PE) | Fer Rendon ~15 (MX) | plantillas-excel-negocio |
+| 2026-11-22 | ES (dom 04:04) | huella | cuaderno de trabajo | cuaderno de trabajo (CO MX ES CL PE) | Estudio Contable Online 18 | contabilidad-cuadernos |
+| 2026-11-22 | ES (dom 04:04) | huella | fichas imprimibles | fichas imprimibles (CO MX ES CL PE) | ninguna (Aprendia/Aprende Ya portafolio) | — |
+| 2026-11-22 | ES (dom 04:04) | huella | mapas mentales | mapas mentales (CO MX ES CL PE) | Inglés en Mapas ~25 (idiomas/mapas-visuales ya en cola) | — |
+| 2026-11-22 | ES (dom 04:04) | huella | resumen visual | resumen visual (CO MX ES CL PE) | ninguna con 10+ | — |
+| 2026-11-22 | ES (dom 04:04) | huella | láminas ilustradas | láminas ilustradas (CO MX ES CL PE) | ninguna (decoración física) | — |
+| 2026-11-22 | ES (dom 04:04) | huella | checklist pdf | checklist pdf (CO MX ES CL PE) | Negocio en Regla ~13, Cocina en Regla ~15 (MX) | seguridad-higiene-carpetas |
+| 2026-11-22 | ES (dom 04:04) | huella | curso grabado | curso grabado (CO MX ES CL PE) | ninguna (cursos en video) | — |
+| 2026-11-22 | ES (dom 04:04) | huella | minicurso | minicurso (CO MX ES CL PE) | Juanimporta 23 (curso) | — |
+| 2026-11-22 | ES (dom 04:04) | huella | te llega al correo | te llega al correo (CO MX ES CL PE) | ninguna con 10+ (Pautas Listas 9) | — |
+| 2026-11-22 | ES (dom 04:04) | huella | kit digital | kit digital (CO MX ES CL PE) | Lectoescritura ya ~15 (neurokids, ignorado) | — |
+| 2026-11-22 | ES (dom 04:04) | huella | pack de plantillas | pack de plantillas (CO MX ES CL PE) | ninguna con 10+ (Canva packs ≤7) | — |
+| 2026-11-22 | ES (dom 04:04) | huella | guía ilustrada | guía ilustrada (CO MX ES CL PE) | ninguna con 10+ (Digital Guides ~7) | — |
+| 2026-11-22 | ES (dom 04:04) | huella | en imágenes | en imágenes (CO MX ES CL PE) | ruido (Puntada Maestra: manualidades) | — |
+| 2026-11-22 | ES (dom 04:04) | huella | explicado fácil | explicado fácil (CO MX ES CL PE) | ninguna con 10+ | — |
+| 2026-11-22 | ES (dom 04:04) | huella | en una página | en una página (CO MX ES CL PE) | ninguna con 10+ | — |
+| 2026-11-22 | ES (dom 04:04) | huella | acceso de por vida | acceso de por vida (CO MX ES CL PE) | Mundo AutoCad ~11 (software) | — |
+| 2026-11-22 | ES (dom 04:04) | huella | $19.900 | $19.900 (CO MX ES CL PE) | ninguna con 10+ infoproducto | — |
+| 2026-11-22 | ES (dom 04:04) | huella | S/ 29.90 | S/ 29.90 (CO MX ES CL PE) | ruido (100-200 k resultados) | — |
+| 2026-11-22 | ES (dom 04:04) | huella | 9,90 € | 9,90 € (CO MX ES CL PE) | ruido | — |
+| 2026-11-22 | ES (dom 04:04) | huella | $199 MXN | $199 MXN (CO MX ES CL PE) | ninguna con 10+ (Vida Práctica 4) | — |
+| 2026-11-22 | ES (dom 04:04) | molde × tema | atlas anatomía | atlas anatomía (CO MX ES CL PE) | ninguna con 10+ (AnatoAtlas ~10) | — |
+| 2026-11-22 | ES (dom 04:04) | molde × tema | plantillas barbería | plantillas barbería (CO MX ES CL PE) | ninguna | — |
+| 2026-11-22 | ES (dom 04:04) | molde × tema | cuidados tatuaje | cuidados tatuaje (CO MX ES CL PE) | ninguna infoproducto | — |
+| 2026-11-22 | ES (dom 04:04) | momento de vida | checklist mudanza | checklist mudanza (CO MX ES CL PE) | ninguna (cero activo) | — |
+| 2026-11-22 | ES (dom 04:04) | momento de vida | trámites divorcio | trámites divorcio (CO MX ES CL PE) | ninguna infoproducto (servicios legales) | — |
+| 2026-11-22 | ES (dom 04:04) | molde × tema | presupuesto familiar | presupuesto familiar (CO MX ES CL PE) | ninguna con 10+ infoproducto (apps) | — |
+| 2026-11-22 | ES (dom 04:04) | molde × tema | plantilla facturas | plantilla facturas (CO MX ES CL PE) | ninguna (SaaS) | — |
+| 2026-11-22 | ES (dom 04:04) | molde × tema | adiestramiento cachorros | adiestramiento cachorros (CO MX ES CL PE) | ninguna con 10+ | — |
+| 2026-11-22 | ES (dom 04:04) | molde × tema | ajedrez aperturas | ajedrez aperturas (CO MX ES CL PE) | ninguna con 10+ | — |
+| 2026-11-22 | ES (dom 04:04) | molde × tema | acordes guitarra | acordes guitarra (CO MX ES CL PE) | ninguna con 10+ infoproducto | — |
+| 2026-11-22 | ES (dom 04:04) | momento de vida | test autoescuela | test autoescuela (CO MX ES CL PE) | Amezti Academia 10 (ES, academia) | — |
+| 2026-11-22 | ES (dom 04:04) | momento de vida | calendario embarazo | calendario embarazo (CO MX ES CL PE) | ninguna infoproducto | — |
+| 2026-11-22 | ES (dom 04:04) | molde × tema | acuario principiantes | acuario principiantes (CO MX ES CL PE) | Ana Laura 13 (CO MX CL PE) / 9 ES | mascotas/acuario-guias-visuales |
+| 2026-11-22 | ES (dom 04:04) | molde × tema | plantillas currículum | plantillas currículum (CO MX ES CL PE) | ninguna | — |
+| 2026-11-22 | ES (dom 04:04) | molde × tema | guiones whatsapp ventas | guiones whatsapp ventas (CO MX ES CL PE) | ninguna infoproducto (agencias) | — |
+| 2026-11-22 | ES (dom 04:04) | molde × tema | excel pymes | excel pymes (CO MX ES CL PE) | ninguna (SaaS) | — |

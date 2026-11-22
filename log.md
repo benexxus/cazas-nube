@@ -49,3 +49,5 @@
 ## [2026-11-22] caza-auto | BR lint + embudo con semillas → 0 candidatos a bandeja
 
 ## [2026-11-22] caza-auto | BR 2ª corrida (duplicada) lint + semillas → 0 candidatos a bandeja
+
+## [2026-11-22] caza-auto | ES lint + embudo con semillas → 1 candidato a bandeja

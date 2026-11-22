@@ -10,3 +10,5 @@
 - 2026-11-22 BR (dom 03:30): sin fallas de conector ni de git. `firecrawl_scrape` abre ad_snapshot_url (maxAge 0, waitFor 4000) y landings; la landing de Metaleitura (VSL) trae casi solo JSON del player. Los lotes 1-4 de Haiku devolvieron la tabla sin repetir; dos keywords (`passo a passo`, `receba no e-mail`) con asignación por orden (baja confianza).
 
 - 2026-11-22 BR (2ª corrida del mismo día, dom ~03:36): la rutina BR se disparó dos veces y la primera ya había empujado el informe y la bandeja con las mismas 40 semillas; esta corrida solo aportó Aprovados Enem 2026 (9/9, posible zombi) y Ana Julia (8/31 portafolio, ya señalada). Sin fallas de conector ni de git.
+
+- 2026-11-22 ES (dom 04:04): lint + semillas sin fallas de conector. Aviso técnico: los 4 subagentes Haiku reportaron que la atribución país/keyword de algunos bloques sale del orden de las llamadas (la respuesta no repite el input) y que el buscador no respeta símbolos de precio (`S/ 29.90`, `9,90 €`); las páginas verificadas se contaron por `page_ids` + país. `page_id` de Inglés en Mapas y Digital Guides (tomados de las tablas) devolvieron 0 con ACTIVE.

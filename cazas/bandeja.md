@@ -140,6 +140,25 @@ BR 2026-11-20 (C operadores): nada que pase la vara; se barrió Packs & Moldes P
 
 <!-- TARJETAS-ES: la sesión ES inserta sus tarjetas del día justo debajo de esta línea -->
 
+### 🎯 +350 mapas mentales de farmacología ilustrada (PDF por WhatsApp) — Digi Aprende 🇵🇪 PE · `salud-farmacologia-mapas` · 2026-11-22 · sesión ES
+- **Qué es:** pack PDF a color, descargable e imprimible, de +350 mapas mentales ilustrados de farmacología (mecanismos, indicaciones, efectos adversos, dosis, antibióticos, antihipertensivos…) para estudiantes de Farmacia, Medicina, Enfermería y Nutrición, con 3 bonos; entrega por WhatsApp «en 2 minutos». Precio no dicho en el copy (piso n/e).
+- **Por qué es ganador:** **19 / 39 sobrevivientes en 🇵🇪** (ACTIVE = ALL = 39, ninguna oferta apagada); cinco fechas de creación (11-oct, 22-oct, 4-nov, 19-nov, 21/22-nov), ad más viejo ~41 d; el mismo creativo «Descárgalo HOY / en 2 minutos» repetido ~29 veces; sin marca personal (solo logo de página); el molde también lo corren Estudia Sencillo (CO/MX), Vitus y Salud en un Minuto (MX) y Farmacología Esencial/Simone Longo/FarmMaps (BR).
+- **Qué hacer:** modelar tal cual (cuaderno ilustrado de mapas, formato que ya rinde en el cerebro) · WA: arbitraje de embudo (landing con checkout a 3-4× el piso) · destino sugerido 🇲🇽 🇨🇴 y, por ticket, 🇺🇸 🇪🇸 🇮🇹 🇧🇷 🇵🇹 (IT/PT comparten la keyword: leer el idioma del creativo) · ángulo «farmacología sin memorizar».
+- **Ads Library:** 🇵🇪 https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=PE&view_all_page_id=308598599011471
+- **Landing:** WA: ficha reconstruida (vende pack PDF de mapas · bonos sin nombrar · mensaje prellenado no visible) · no se sabe: precio, contenido exacto, escalera, garantía.
+- Score 1/4 (③ duplicación) · escalera n/e · Decisión: —
+- Evidencia: API; snapshot verificado por Firecrawl (2 ads); landing de WhatsApp no abre desde la nube, embudo = ficha WA del copy.
+
+**Señales del día ES (22-nov, dom — lint + semillas)**
+- Lint de la cola ES: sin hallazgos. Embudo: 40 semillas nunca usadas (24 huellas + 16 molde × tema) × CO MX ES CL PE, 10 páginas nuevas pasadas por paso rápido, 1 paso completo.
+- **Estudia Sencillo** (page 113453315134646, molde farmacología, USD): 🇨🇴 130 y 🇲🇽 138 activos, tope 50 con la cola vieja oculta (7 ads de farmacología de 18 d visibles); mezcla con guía GLP-1 clínica → cohorte indeterminada (tope 50, solo se ven los nuevos): verificar en la PC, 🇨🇴 https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=CO&view_all_page_id=113453315134646 · 🇲🇽 https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=MX&view_all_page_id=113453315134646
+- **Fer Rendon** (1977647735819349, 🇲🇽): plantilla Excel «Costeo de Menú» y «Finanzas Constructoras» (MXN), 159 activos, 0 / ≥ 50 visibles todo < 2 d → cohorte indeterminada (tope 50); nombre de persona, posible marca personal; re-conteo 2026-11-29.
+- **Estudio Contable Online** (1216662331539709, 🇨🇴🇲🇽🇨🇱): «Método Contabilidad Práctica · 7 cuadernos + 8 bonos» (US$), 0 / 12 en CO, todo del 20-nov; oferta no validada, re-conteo 2026-11-29.
+- **Ana Laura** (114860084961404): «10 guías visuales» de acuario, 13 activos en CO/MX/CL/PE y 9 en ES, 0 / 13 en CO (4 d); oferta no validada, re-conteo 2026-11-29.
+- Negocio en Regla (1382378091630921, 🇲🇽) «Carpeta de Seguridad e Higiene» 0 / 21 · Cocina en Regla (1516759901509982, 🇲🇽) «+50 documentos para tu cocina» 2 / 30: vigilancia ninguna, re-conteo 2026-11-29 (mismo operador, USD).
+- Pautas Listas para Urgencias (1358096157393957, 🇪🇸): 134 activos, 0 / ≥ 50, los ads mandan «Búscalo en la app» → Filtro D (app), sin tarjeta.
+- Veterinario Lucas (🇨🇱) «180 mapas de emergencias equinas» US$ 12,90 0 / 4. `test autoescuela` = cero activo en CO/MX/PE (también con ALL); solo 🇪🇸 tiene activos (Amezti Academia 10, academia online).
+
 ES 2026-11-21 (mañana, B perforar `profesiones/examenes-y-oposiciones` tramo ES): nada que pase la vara; se barrió temario oposiciones esquemas, resúmenes oposiciones PDF, psicotécnicos oposiciones PDF (ES), examen ICFES guía (CO), guía examen COMIPEMS y guía UNAM PDF (MX).
 
 **Señales del día ES**
