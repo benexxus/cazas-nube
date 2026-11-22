@@ -45,3 +45,5 @@
 ## [2026-11-21] caza-auto | ESTE A huella (sáb 14:12) → 2 candidatos a bandeja
 
 ## [2026-11-22] caza-auto | EN lint + embudo con semillas → 1 candidato a bandeja
+
+## [2026-11-22] caza-auto | BR lint + embudo con semillas → 0 candidatos a bandeja

@@ -116,3 +116,43 @@ nunca se reescribe.
 | 2026-11-22 | EN (dom 03:10) | momento de vida | college dorm checklist | college dorm checklist (US GB CA AU) | ninguna con 10+ ni infoproducto | — |
 | 2026-11-22 | EN (dom 03:10) | momento de vida | car accident checklist | car accident checklist (US GB CA AU) | ninguna con 10+ ni infoproducto | — |
 | 2026-11-22 | EN (dom 03:10) | momento de vida | identity theft recovery | identity theft recovery (US GB CA AU) | ninguna con 10+ ni infoproducto | — |
+| 2026-11-22 | BR (dom 03:30) | huella | pdf completo | pdf completo (BR) | Atlas residente 8 (hoy) | — |
+| 2026-11-22 | BR (dom 03:30) | huella | apostila pdf | apostila pdf (BR) | ninguna con 10+ | — |
+| 2026-11-22 | BR (dom 03:30) | huella | resumo visual | resumo visual (BR) | Bruna Duarte 16 (físico) | — |
+| 2026-11-22 | BR (dom 03:30) | huella | e-book completo | e-book completo (BR) | ninguna infoproducto con 10+ | — |
+| 2026-11-22 | BR (dom 03:30) | huella | passo a passo | passo a passo (BR) | ruido (novelas) | — |
+| 2026-11-22 | BR (dom 03:30) | huella | curso gravado | curso gravado (BR) | Júlio de Lima 16 (curso) | — |
+| 2026-11-22 | BR (dom 03:30) | huella | minicurso | minicurso (BR) | ninguna con 10+ infoproducto | — |
+| 2026-11-22 | BR (dom 03:30) | huella | acesso vitalício | acesso vitalício (BR) | Cursos de Terapias Naturais ≈43 (cursos) | — |
+| 2026-11-22 | BR (dom 03:30) | huella | receba no e-mail | receba no e-mail (BR) | ruido | — |
+| 2026-11-22 | BR (dom 03:30) | huella | fichas para imprimir | fichas para imprimir (BR) | Forçа Ocullta 18 (recetario), PaceRun 11 | — |
+| 2026-11-22 | BR (dom 03:30) | huella | checklist completo | checklist completo (BR) | ninguna con 10+ | — |
+| 2026-11-22 | BR (dom 03:30) | huella | modelo pronto | modelo pronto (BR) | ninguna (DramaBox) | — |
+| 2026-11-22 | BR (dom 03:30) | huella | templates canva | templates canva (BR) | Ingriddomkt 20 (0 sobrev.) | — |
+| 2026-11-22 | BR (dom 03:30) | huella | manual ilustrado | manual ilustrado (BR) | ninguna con 10+ | — |
+| 2026-11-22 | BR (dom 03:30) | huella | guia ilustrado | guia ilustrado (BR) | Fórça Ocullta 20 (recetario) | — |
+| 2026-11-22 | BR (dom 03:30) | huella | numa página | numa página (BR) | ninguna con 10+ infoproducto | — |
+| 2026-11-22 | BR (dom 03:30) | huella | R$ 19,90 | R$ 19,90 (BR) | ninguna infoproducto | — |
+| 2026-11-22 | BR (dom 03:30) | huella | R$ 37 | R$ 37 (BR) | ninguna infoproducto | — |
+| 2026-11-22 | BR (dom 03:30) | molde × tema | adestramento filhote | adestramento filhote (BR) | Colzani Dog Training 11, Alexandre Rossi 10 (marca personal) | — |
+| 2026-11-22 | BR (dom 03:30) | molde × tema | aquarismo iniciante | aquarismo iniciante (BR) | ninguna | — |
+| 2026-11-22 | BR (dom 03:30) | molde × tema | fotografia celular | fotografia celular (BR) | ninguna infoproducto | — |
+| 2026-11-22 | BR (dom 03:30) | molde × tema | xadrez aberturas | xadrez aberturas (BR) | GM Evandro Barbosa 41 (curso) | — |
+| 2026-11-22 | BR (dom 03:30) | molde × tema | violão cifras | violão cifras (BR) | ninguna con 10+ | — |
+| 2026-11-22 | BR (dom 03:30) | molde × tema | nós de pesca | nós de pesca (BR) | ninguna (short-dramas) | — |
+| 2026-11-22 | BR (dom 03:30) | momento de vida | checklist mudança | checklist mudança (BR) | Facilitaê 13 (reforma tributária) | reforma-tributaria-visual |
+| 2026-11-22 | BR (dom 03:30) | momento de vida | checklist casamento | checklist casamento (BR) | Chuva de Papel 10 (planner físico) | — |
+| 2026-11-22 | BR (dom 03:30) | momento de vida | enxoval bebê | enxoval bebê (BR) | ninguna infoproducto | — |
+| 2026-11-22 | BR (dom 03:30) | molde × tema | apostila soldador | apostila soldador (BR) | ninguna con 10+ | — |
+| 2026-11-22 | BR (dom 03:30) | molde × tema | apostila refrigeração | apostila refrigeração (BR) | Fundação Refrigeração 22, Guedes Serviços 13 | profesiones/manuales-de-oficio/ar-condicionado-whatsapp |
+| 2026-11-22 | BR (dom 03:30) | molde × tema | apostila energia solar | apostila energia solar (BR) | ninguna con 10+ | — |
+| 2026-11-22 | BR (dom 03:30) | molde × tema | apostila mecânica automotiva | apostila mecânica automotiva (BR) | Fabricio Junior 21 (curso), Fernanda Alves 14 | — |
+| 2026-11-22 | BR (dom 03:30) | molde × tema | banho tosa | banho tosa (BR) | ninguna infoproducto | — |
+| 2026-11-22 | BR (dom 03:30) | molde × tema | design sobrancelha | design sobrancelha (BR) | FUNDEB 8 (curso) | — |
+| 2026-11-22 | BR (dom 03:30) | molde × tema | oratória guia | oratória guia (BR) | ninguna con 10+ | — |
+| 2026-11-22 | BR (dom 03:30) | molde × tema | leitura dinâmica | leitura dinâmica (BR) | Metaleitura 13 (curso en video) | — |
+| 2026-11-22 | BR (dom 03:30) | molde × tema | primeiros socorros | primeiros socorros (BR) | ninguna (short-dramas) | — |
+| 2026-11-22 | BR (dom 03:30) | momento de vida | abrir MEI | abrir MEI (BR) | ninguna con 10+ | — |
+| 2026-11-22 | BR (dom 03:30) | momento de vida | imposto de renda | imposto de renda (BR) | Grana Capital 19 (software/curso) | — |
+| 2026-11-22 | BR (dom 03:30) | momento de vida | aposentadoria INSS | aposentadoria INSS (BR) | vanessa.santos.adv 12 (abogada) | — |
+| 2026-11-22 | BR (dom 03:30) | molde × tema | treino casa | treino casa (BR) | ninguna infoproducto | — |
