@@ -24,6 +24,34 @@ histórico.
 
 ## Pendientes de revisión
 
+### 🔎 Correcciones del informe Opus 2026-11-22 (Library web, a pedido de Carlos)
+Re-conteo de las 6 tarjetas y de las señales del día en la Library web ordenada por impresiones, con las versiones agrupadas contadas. Informe completo en el cerebro (`RAW/cazas/2026-11-22-cazas-nube-informe.md`). Tarjetas nuevas que salen de ahí:
+
+### 🎯 Pautas Listas para Urgencias (guía PDF de 288 págs + app de bono, 19,99 €) 🇪🇸 ES · `salud/urgencias-guias` · 2026-11-22 · corrección Opus
+- **Qué es:** guía digital de urgencias ordenada por motivo de consulta (Método 3P, genérico y marca española) + 5 bonos; la app en el móvil es un bono, el producto es el PDF. 19,99 € (tachado 98 €), Impultienda.
+- **Por qué es ganador:** **52 / 143** sobrevivientes en 🇪🇸, más viejo 25-oct (28 d), 16 fechas de creación. **La sesión ES lo había tirado por «app» (Filtro D): mal descartado.**
+- **Ads Library:** [🇪🇸](https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ES&view_all_page_id=1358096157393957&search_type=page&media_type=all) · **Landing:** [urgencias.ebookky.com](https://urgencias.ebookky.com/)
+- Gate: A sin persona (solo testimonios con inicial) · B ✅ · D ✅ PDF · Score 1/4 (② 52) · Decisión: —
+
+### 🎯 Farmácia Mapeada en español — 4 ofertas que pasan (PDF US$ 13-15, Hotmart) — Estudia Sencillo 🇨🇴🇲🇽 · `salud-farmacologia-mapas` · 2026-11-22 · corrección Opus
+- **Qué es:** guías PDF ilustradas para estudiantes y profesionales de salud: Urgencias y Emergencias para Enfermería (US$ 13), Kit Farmacología Ilustrada (US$ 13), GLP-1 en Consulta (guía de 149 págs, US$ 15), Bioquímica Ilustrada (US$ 13). Operador brasileño (`es.farmaciamapeada.com.br`, CNPJ 47.918.823/0001-64).
+- **Por qué es ganador (por oferta):** Urgencias 🇨🇴 33 / 33 · 🇲🇽 32 / 33 · Farmacología 🇨🇴 31 / 38 · 🇲🇽 33 / 41 (más viejo 24-jul) · GLP-1 🇨🇴 42 / 50 · 🇲🇽 44 / 54 · Bioquímica 🇲🇽 12 / 12 · 🇨🇴 9 / 9. La sesión ES lo dejó «cohorte indeterminada».
+- **Ads Library:** [🇨🇴](https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=CO&view_all_page_id=113453315134646&search_type=page&media_type=all) · [🇲🇽](https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=MX&view_all_page_id=113453315134646&search_type=page&media_type=all) · **Landings:** [Urgencias](https://es.farmaciamapeada.com.br/urgencias-enfermeria/) · [Farmacología](https://es.farmaciamapeada.com.br/farmacologia-v2/) · [GLP-1](https://es.farmaciamapeada.com.br/glp1/) · [Bioquímica](https://es.farmaciamapeada.com.br/bioquimica/)
+- Gate: A ✅ con salvedad (en Brasil la marca tiene ~300 k seguidores en una cuenta de marca; el fundador Moisés Santos es marketero, 1,5 k) · D ✅ PDF · Score 1/4 (① 45+ d en Farmacología; ninguna oferta llega a 50 en un país) · Decisión: —
+
+### 🎯 Anglais Visuel (300+ cartes mentales, US$ 17) — Céline Moreau 🇫🇷 FR · `idiomas` · 2026-11-22 · corrección Opus
+- **Por qué:** **10 / 26** en 🇫🇷 (la sesión EU la dejó en 3-5, vigilancia). Mismo molde que La Carte de l'Anglais.
+- **Ads Library:** [🇫🇷](https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=FR&view_all_page_id=1367953336410558&search_type=page&media_type=all) · **Landing:** [anglaisvisuel.site](https://anglaisvisuel.site/) (Impultienda)
+- Gate: **A por verificar** (la landing muestra a «Céline Moreau, professeure d'anglais» con foto y sin redes: posible falsa marca) · Decisión: —
+
+### 🎯 La Bibliothèque de Biologie Médicale (PDF + app, 9 € / 17 € + upsell 8 €) — Camille Laurent 🇧🇪 BE · `salud/biologia-medica-visual` · 2026-11-22 · corrección Opus
+- **Por qué:** **22 / 22** en 🇧🇪, una sola tanda del 31-oct (22 d). Misma página corre ofertas religiosas (excluidas) y «150 fiches d'anatomie» 13 / 22 todo del 15-16 nov (al borde de los 7 d, re-conteo 2026-11-25).
+- **Ads Library:** [🇧🇪](https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BE&view_all_page_id=1407481519105013&search_type=page&media_type=all) · **Landing:** [clinical-laboratory-library.online](https://clinical-laboratory-library.online/fr/) (snappcheckout)
+- Gate: **A por verificar** («Élise Varenne» con foto, sin redes ni fechas) · Decisión: —
+
+**Señales corregidas por Opus (22-nov):** Dra Laura Martin 🇩🇪 sube a 8 / 8 (cerca, [landing](https://pflegehilfe.map-visio.com/), PDF 9,95 / 14,95 €, sin persona) · Sofía Herrera 🇩🇪 6 / 12 (vigilancia, [landing](https://kita.map-visio.com/), mismo operador `map-visio.com`) · Download Studio 🇨🇭 portafolio, máx. 9 por landing (gimnasia FR 9 / 19, prépa physique 9 / 22): cerca · Fer Rendon 🇲🇽 0 / 160, todo lote nuevo · Facilitaê 🇧🇷 «Guia Reforma» 6 / 18 vigilancia · Aprovados Enem 🇧🇷 0 en la web = zombi confirmado.
+
+
 <!-- TARJETAS-EN: la sesión EN inserta sus tarjetas del día justo debajo de esta línea -->
 
 ### 🎯 Planillas de finanzas personales en Excel + Google Sheets (US$ 9, dos ofertas) — Ultimate Budget Planner 🇺🇸 US · `finanzas-personales/planillas` · 2026-11-22 · sesión EN
@@ -34,6 +62,7 @@ histórico.
 - **Landing:** https://www.debtpayoffplanner.site/ (US$ 9, venta directa) · https://www.ultimatebudgetplanner.site/ (US$ 9, venta directa)
 - Score 1/4 (longevidad 70 d ✓; volumen 13-15 < 50; duplicación baja; arbitraje sin medir) · Decisión: —
 - Evidencia: API; snapshot (no abierto) y landings verificadas vía Firecrawl (no WebFetch); checkout no recorrido, upsells no vistos; longevidad por API, snapshot no verificado desde la nube.
+- **Re-conteo Opus 22-nov (Library web, por impresiones):** confirmado sin zombis — Debt Snowball 🇺🇸 13 / 13 · 🇬🇧 11 / 11; Budget Planner 🇺🇸 11 / 15 · 🇬🇧 11 / 13. Checkout propio recorrido hasta el precio (`/checkout/`, US$ 9, sin bump). Gate 5/5 · score 1/4 (① 71 d). ✅ pasa.
 
 EN 2026-11-22 (dom, lint de la cola + 40 semillas): una tarjeta (arriba); se barrió instant access, emailed instantly, gumroad, etsy digital, video course, 30-day plan, printable journal, only $7, only $9, just $17, $27 today, £9 today, £17 only, plumbing cheat sheet, welding cheat sheet, pharmacy technician study guide, phlebotomy study guide, insurance license exam, part 107 study guide, roofing estimate template, esthetician templates, newborn schedule, pregnancy checklist, breastfeeding checklist, debt payoff planner, freelance invoice template, linkedin profile templates, interview questions answers, guitar chords chart, fishing knots, camping checklist, yoga sequences, aquarium cycling guide, dog grooming guide, funeral planning checklist, layoff severance guide, first apartment checklist, college dorm checklist, car accident checklist e identity theft recovery (US GB CA AU).
 
@@ -148,6 +177,7 @@ BR 2026-11-20 (C operadores): nada que pase la vara; se barrió Packs & Moldes P
 - **Landing:** WA: ficha reconstruida (vende pack PDF de mapas · bonos sin nombrar · mensaje prellenado no visible) · no se sabe: precio, contenido exacto, escalera, garantía.
 - Score 1/4 (③ duplicación) · escalera n/e · Decisión: —
 - Evidencia: API; snapshot verificado por Firecrawl (2 ads); landing de WhatsApp no abre desde la nube, embudo = ficha WA del copy.
+- **Re-conteo Opus 22-nov:** 🇵🇪 **21 / 40** contando versiones (dos tarjetas agrupan 11 y 8 anuncios del 22-oct). Todo va a WhatsApp; el precio solo sale escribiendo al chat (no se hizo). ✅ pasa.
 
 **Señales del día ES (22-nov, dom — lint + semillas)**
 - Lint de la cola ES: sin hallazgos. Embudo: 40 semillas nunca usadas (24 huellas + 16 molde × tema) × CO MX ES CL PE, 10 páginas nuevas pasadas por paso rápido, 1 paso completo.
@@ -190,6 +220,7 @@ ES 2026-11-20 (A huella): nada que pase la vara; se barrió acceso inmediato PDF
 - **Landing:** `visuelles.lovable.app` (página Lovable de una pieza) · 9,99 € único, garantía 7 d, CTA a `pay.hotmart.com/X107945722F` · sin nombre propio ni redes · no se sabe: formato exacto (PDF vs app: la FAQ no abrió), contenido de las fichas, upsell.
 - Score 2/4 (② 50+ en un país, ③ duplicación; ① a 1 d de los 45) · Filtros A (sin persona), B (checkout Hotmart), D (entregable «fichas»): confirmar formato PDF en la PC · Decisión: —
 - Evidencia: API; snapshot (ad 1954173409023519) y landing verificados por Firecrawl; ALL no corrido, `limit: 50` = piso.
+- **Re-conteo Opus 22-nov:** 🇧🇪 **84 / 85** · 🇨🇭 **59 / 59** · 🇫🇷 ≥ 60 / 97 (la página no cargó entera). Más viejo 9-oct (44 d). Formato: «espace numérique» de Hotmart con las fichas, pago único 9,99 €, sin upsell ni persona. Gate 5/5 · score 2/4 (② ③). ✅ pasa, la más fuerte del día.
 
 ### 🎯 La Carte de l'Anglais — 520 cartes mentales A1→C2 para francófonos (PDF 12,90 €) — Camille Dubois 🇫🇷🇧🇪 FR·BE · `idiomas` · 2026-11-22 · sesión EU
 - **Qué es:** 520 mapas mentales de inglés en 6 recorridos (base, construcción, tiempos, conversación, autonomía, avanzado) + 6 bonus (falsos amigos FR-EN, pronunciación, 120 phrasal verbs, 250 frases, planner 30 d, expresiones profesionales); 100 % PDF, 12,90 € (tachado 175 €) «hasta el 30 de noviembre» (promo Black Friday), garantía 30 d.
@@ -199,6 +230,7 @@ ES 2026-11-20 (A huella): nada que pase la vara; se barrió acceso inmediato PDF
 - **Landing:** `academyaxon.com/cartedelanglais/` («Axon Digital», WordPress) · 12,90 € de 175 €, «+4 127 apprenants», testimonios como capturas · checkout `pay.hotmart.com/X107204956Y` · sin persona visible: el nombre de página «Camille Dubois» no aparece con cara en los ads (confirmar en la PC) · no se sabe: precio fuera de promo, upsell, CH (apareció ≈ 12 ads, sin contar).
 - Score 1/4 (④ hueco) · Filtros A (sin persona visible), B (checkout), D (PDF imprimible) · Decisión: —
 - Evidencia: API; snapshot (ad 1988106355928314) y landing verificados por Firecrawl; ALL no corrido, `limit: 50` = piso.
+- **Re-conteo Opus 22-nov:** **dos ofertas que pasan**, no una — Carte de l'Anglais 🇫🇷 ≥ 84 / 280 · 🇧🇪 ≥ 44 / 240; **Carte de l'Espagnol** (`academyaxon.com/carteespagnol/`, 520 mapas, 12,90 €, Hotmart) 🇫🇷 ≥ 33 · 🇧🇪 15 / 15. La landing `-bf` (Black Friday) es lote del 20-nov. 100 % PDF, sin persona, sin footer. ✅ pasa.
 
 **Señales del día EU (22-nov, dom — lint + semillas)**
 - Camille Laurent (`1407481519105013`, 🇧🇪🇨🇭🇫🇷): «La Bibliothèque de Biologie Médicale» **≥ 18 / 50+** en 🇧🇪 (73 act. est., una sola tanda del 31-oct, 22 d) → **pasa la vara**, queda fuera por el tope de 2 tarjetas y porque el «À propos» muestra «Élise Varenne» con foto y testimonios fechados antes de la existencia del dominio (posible marca personal / fachada); 9 € / 17 € (tachado 147 €), `clinical-laboratory-library.online/fr/`. Misma página corre ofertas excluidas (religioso) y «150 fiches d'anatomie de la musculation» (0 por reloj de entrega, < 7 d). Re-conteo + gate en la PC.
@@ -243,6 +275,7 @@ EU 2026-11-21 (mañana, C operadores): nada que pase la vara como tarjeta nueva;
 - **Landing:** https://edudigital-ro.impultienda.ar/ (checkout `/checkout`; sin persona, rostro ni firma; `noindex`).
 - Score ≤ 2/4 (longevidad 17 d, volumen 27 en HU, duplicación sí, hueco sin medir) · Decisión: —
 - Evidencia: API; snapshot y landing verificados vía Firecrawl (`maxAge: 0`); checkout no recorrido. Es PDF → no cae por Filtro D. Contenido de divulgación sobre autores de dominio público: ver cómo trata cada autor antes de modelar.
+- **Re-conteo Opus 22-nov:** 🇭🇺 **32 / 41** (landing `edudigital-hu.impultienda.ar`) · 🇷🇴 21 / 21 · 🇨🇿 20 / 20. La misma página lanzó «estrategas» y «estoicos» (`mentisclassics.com`) el 18-20 nov: 0 sobrevivientes. Sin persona. ✅ pasa.
 
 ### 🎯 «Příručka ztracených dovedností» (manual ilustrado de 246 habilidades de autosuficiencia, PDF + 2 libros de regalo, 449 Kč) — Paul Miller 🇨🇿 CZ · `supervivencia-autosuficiencia` · 2026-11-22 · sesión ESTE
 - **Qué es:** manual en **PDF** de «habilidades perdidas» (246 según el anuncio, «220+» según la landing), cada una ilustrada en una página vertical con material, tiempo, dificultad y error común: agua, fuego, comida sin heladera, primeros auxilios, reparaciones, huerta en balcón, ahorro; paquete **3 en 1** con «Spíž, která se nikdy nevyprázdní» (60 técnicas de conservación) y «Amišské tajemství» (60 recetas de pan, manteca y queso); **449 Kč** pago único (tachado 1 499 Kč), PDF por e-mail, garantía 7 días «Dědovo slovo».
@@ -252,6 +285,7 @@ EU 2026-11-21 (mañana, C operadores): nada que pase la vara como tarjeta nueva;
 - **Landing:** https://dovednosti.digitalnivedeni.com/ (checkout `dovednosti.impultienda.ar/o/prirucka-dovednosti-cesko`, red Impultienda; sin foto ni bio; cuenta regresiva de plantilla).
 - Score ≤ 2/4 (longevidad 15 d, volumen 14, duplicación sí, hueco sin medir) · Decisión: —
 - Evidencia: API; snapshot y landing verificados vía Firecrawl (`maxAge: 0`); checkout no recorrido. Es PDF → no cae por Filtro D. «Paul Miller» es solo el nombre de la página (sin persona detrás en la landing): revisar `facebook.com/61570286909993` antes de decir `Idea`. Dos de los tres libros del paquete rozan recetario (nicho excluido): el producto principal no.
+- **❌ Re-conteo Opus 22-nov: CAE.** Los 14 «sobrevivientes» de la API están **apagados** en la Library web (6-12 nov → 17-19 nov, estado «Inactivo»). Activos en 🇨🇿: 14, todos del 18-19 nov → **0 / 14**. 🇷🇴 y 🇭🇺: todo inactivo. Lo apagaron y relanzaron: re-conteo 2026-11-25. No llega.
 
 **Señales del día ESTE (22-nov, corrida del domingo)**
 - Edu Digital: el EU anotó el mismo operador en 🇳🇱 como «chicos y nuevos»; hoy cruza 10+ en HU, CZ y RO. Molde en otros países: 🇵🇱 0 / 6 (todo del 18-nov), re-conteo 2026-11-29.

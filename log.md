@@ -55,3 +55,5 @@
 ## [2026-11-22] caza-auto | EU lint + embudo con semillas → 2 candidatos a bandeja
 
 ## [2026-11-22] caza-auto | ESTE lint + embudo con semillas → 2 candidatos a bandeja
+
+## [2026-11-22] informe-opus | Re-conteo en la Library web de las 5 corridas → 14 ofertas pasan; Paul Miller cae (anuncios apagados); Pautas Listas mal descartado; 4 tarjetas nuevas de corrección
