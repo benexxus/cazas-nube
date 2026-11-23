@@ -58,6 +58,13 @@ Pares de palabras que delatan un infoproducto sin decir de qué tema es. El tema
 `stan store` · `systeme io` · `etsy digital` · `mini course` · `video course` · `starter kit` ·
 `toolkit pdf` · `30-day plan` · `printable planner` · `printable journal` · `only $7` · `only $9` ·
 `just $17` · `$27 today` · `£9 today` · `£17 only`
+↳ sumadas el 2026-11-23 (pedido de Carlos; revisadas por revisor-traducciones, que sacó 26 por genéricas): `no physical product` ·
+`printable checklists` · `ready-to-use templates` · `fill-in-the-blank` · `downloadable guide` · `swipe file` · `printable guide` ·
+`field guide` · `pocket guide` · `PDF handbook` · `quick start guide` · `beginner's guide` · `word-for-word scripts` ·
+`copy and paste scripts` · `plug-and-play templates` · `SOP templates` · `printable charts` · `printable guided journal` · `study pack` ·
+`practice tests` · `exam cram` · `pass on the first try` · `pass first time` · `revision pack` · `only $12` · `just $19` · `only $37` ·
+`£12 today` · `$19 AUD` · `$19 CAD`
+↳ en GB y AU van «pass first time» y «revision pack»; en US y CA, «pass on the first try».
 
 **Español (ES: CO, MX, ES, CL, PE)**
 `descarga inmediata` · `acceso inmediato` · `pdf descargable` · `guía pdf` · `guía práctica` ·
@@ -66,6 +73,12 @@ Pares de palabras que delatan un infoproducto sin decir de qué tema es. El tema
 `curso grabado` · `minicurso` · `acceso de por vida` · `te llega al correo` · `por WhatsApp` ·
 `hotmart` · `kit digital` · `pack de plantillas` · `guía ilustrada` · `en imágenes` ·
 `explicado fácil` · `en una página` · `solo hoy` · `$199 MXN` · `$19.900` · `$9.990` · `S/ 29.90` · `S/ 39` · `9,90 €` · `17 €`
+↳ sumadas el 2026-11-23 (pedido de Carlos; las ES y EN se habían agotado): `garantía de 7 días` · `bonos incluidos` · 
+`producto digital` · `formato digital` · `imprime en casa` · `recibes al instante` · `llega a tu email` ·
+`pack de ebooks` · `biblioteca digital` · `100 plantillas` · `plantillas listas` · `formatos editables` ·
+`formatos en word` · `plantillas canva` · `cuadernillo imprimible` · `manual ilustrado` · `guía definitiva` · `guía rápida` ·
+`apuntes pdf` · `esquemas visuales` · `banco de preguntas` · `simulacro de examen` · `guiones listos` · `pago único` ·
+`$97 MXN` · `$149 MXN` · `$14.900` · `$24.900` · `S/ 19.90` · `$4.990` · `7,90 €` · `12 €` · `US$ 9,99` · `USD 7`
 
 **Portugués de Brasil (BR) — y de Portugal (EU/PT, con precios en €)**
 `acesso imediato` · `pdf completo` · `apostila pdf` · `guia prático` · `planilha pronta` ·
@@ -175,6 +188,14 @@ Lo que se repite en los ganadores del cerebro. Se cruza con un tema de §3 y se 
 | **Banco de preguntas** de examen | Concorsi in Mappe | `<examen> practice questions` / `preguntas <examen>` / `questões <examen>` |
 | **Plantillas listas** para un oficio | — | `<oficio> templates` / `plantillas <oficio>` / `modelos <oficio>` |
 | **Guía paso a paso** de un trámite | — | `<trámite> step by step` / `<trámite> paso a paso` / `<trámite> passo a passo` |
+| **Guiones palabra por palabra** (sumado 2026-11-23) | — | `<tema> scripts` / `guiones <tema>` / `scripts prontos <tema>` |
+| **Cartas y formularios listos** (sumado 2026-11-23) | — | `<tema> letter templates` / `modelos de carta <tema>` / `modelos prontos <tema>` |
+| **Códigos de falla** de un equipo (sumado 2026-11-23) | — | `<equipo> error codes` / `códigos de error <equipo>` / `códigos de erro <equipo>` |
+| **Guía de identificación** (sumado 2026-11-23) | — | `<tema> identification guide` / `guía de identificación <tema>` / `guia de identificação <tema>` |
+| **Plan de N semanas** (sumado 2026-11-23) | — | `12-week <tema> plan` / `plan de 12 semanas <tema>` / `plano de 12 semanas <tema>` |
+| **Precios y presupuestos de un oficio** (sumado 2026-11-23) | — | `<oficio> pricing guide` / `lista de precios <oficio>` / `planilha de precificação <oficio>` |
+| **Manual de procesos (SOP)** de un negocio (sumado 2026-11-23) | — | `<negocio> SOP templates` / `manual de procesos <negocio>` / `manual de processos <negocio>` |
+| **Diccionario visual** (sumado 2026-11-23) | — | `<tema> visual dictionary` / `diccionario visual <tema>` / `dicionário visual <tema>` |
 
 ## 3. Temas para cruzar con los moldes
 
@@ -206,6 +227,29 @@ En español; cada sesión los pasa a su idioma nativo. **Saltá los que ya son n
 - **Familia (fuera de neurokids):** embarazo semana a semana, primer año del bebé, lactancia,
   organización de la boda, divorcio y custodia, finanzas en pareja.
 
+**Sumados el 2026-11-23 para EN y ES (pedido de Carlos: nichos y productos que todavía no tocamos).**
+Ninguno es nodo de la cola. Van primero que los grupos de arriba en EN y ES, con la misma regla de 7 días.
+Los marcados 🇺🇸 solo existen en EE. UU.: en GB, CA y AU se buscan con su equivalente local o se saltan.
+- **Exámenes de salud y oficio (EN):** NCLEX 🇺🇸, CNA exam 🇺🇸, phlebotomy, medical coding, EMT, ASVAB 🇺🇸,
+  GED 🇺🇸, HVAC certification, electrician exam (solo como examen; el oficio ya es nodo).
+- **Papeles y dinero (EN):** credit repair y dispute letters 🇺🇸, VA disability claim 🇺🇸, FAFSA 🇺🇸,
+  LLC formation 🇺🇸, small business bookkeeping, self-employed taxes, landlord forms, contractor estimates.
+- **Papeles y dinero (ES, sobre todo 🇲🇽):** pensión IMSS (Ley 73, Modalidad 40), crédito Infonavit,
+  declaración anual SAT, facturación electrónica (CFDI), jubilación ISSSTE, trámites de pensión en 🇨🇴 y 🇨🇱.
+- **Campo y animales de granja (ES, 🇨🇴🇲🇽🇵🇪):** piscicultura (tilapia, trucha), cuyes, gallinas ponedoras,
+  apicultura, porcicultura, ganadería, hidroponía, cultivo de hongos, café, cacao y aguacate.
+- **Naturaleza e identificación (EN):** mushroom foraging, wild edible plants, backyard chickens, homesteading,
+  beekeeping, tiny house plans, birds, trees.
+- **Estudiantes universitarios fuera de lo ya cazado (ES):** odontología, veterinaria, arquitectura,
+  obstetricia, nutrición clínica (medicina, psicología, anatomía, farmacología e ingeniería ya son nodos).
+- **Salud mental no clínica (EN y ES; ESTE ya la tiene):** CBT y DBT worksheets / fichas de terapia
+  cognitiva, anxiety workbook / cuaderno de ansiedad, shadow work, grief workbook / duelo, autoestima.
+- **Software técnico:** AutoCAD, Revit, Power BI, SolidWorks, SQL, prompts de ChatGPT por profesión.
+- **Oficios y belleza nuevos:** mecánica de motos, electricidad automotriz, línea blanca (lavadoras,
+  heladeras), técnico de computadoras, tablaroca y drywall, extensiones de pestañas, microblading,
+  colorimetría capilar, appliance repair, motorcycle repair.
+- **Emigrar (ES):** mudarse a España, Canadá o EE. UU. con papeles, homologar el título, visa de trabajo.
+
 ## 4. Momentos de vida (el eje que más rindió y menos se miró)
 
 Un momento de vida trae papeles, decisiones y miedo: el molde «kit de papeles» o «guía paso a paso».
@@ -217,3 +261,9 @@ despido · jubilación · abrir un negocio · cerrar un negocio · primer bebé 
 padre dependiente (papeles y dinero) · sacar el carnet de conducir · ir a la universidad ·
 diagnóstico de una enfermedad crónica (organización, no tratamiento) · accidente de tránsito ·
 demanda o juicio chico · deudas y embargos · robo de identidad · emergencias del hogar.
+
+Sumados el 2026-11-23 (EN y ES): independizarse y el primer departamento · fiesta de XV años ·
+baby shower · graduación · cambio de carrera · volver a estudiar de adulto · tramitar la pensión (IMSS, ISSSTE) ·
+salir del ejército y los beneficios de veterano 🇺🇸 · pedir ayuda financiera para la universidad (FAFSA 🇺🇸) ·
+comprar el primer auto · emigrar con hijos · tratamiento de fertilidad (organización y gastos, no tratamiento) ·
+pérdida de una mascota · quiebra · desalojo · nido vacío.
