@@ -61,3 +61,4 @@
 ## [2026-11-22] mejora | Conteo por oferta con cortes (sin «indeterminada»), sin tope de tarjetas, gate solo con landing, alerta de relanzamiento, ronda diaria de operadores, veredicto por semilla; correcciones de versiones en la bandeja
 
 ## [2026-11-22] corrección | Huellas: análisis cada 60 días con decisión de Carlos (no «podar»)
+## [2026-11-23] caza-auto | EN A huella+semillas → 0 candidatos a bandeja
