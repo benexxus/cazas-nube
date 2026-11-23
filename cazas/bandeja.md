@@ -35,6 +35,18 @@ Firecrawl no abrió. **El re-conteo de la PC hace solo esta lista y las tarjetas
 - 2026-11-23 · ES · Mente Académica · `1239880759219492` · 🇲🇽 🇪🇸 🇨🇱 🇵🇪 · tarjeta con piso ≥ 29 en CO; falta contar por oferta y país · `search_terms`: «Ingeniería Civil», «Anatomía Cardiovascular», «Trastornos Mentales» · https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=MX&view_all_page_id=1239880759219492&search_type=page&media_type=all
 - 2026-11-23 · BR · Brabo Editora · `396005163592042` · 🇧🇷 · tope de 50 tras 1 corte (137 activos; los 50 visibles son de 11-20 en adelante, una sola oferta visible «Apostila Mestre em Questões TJ-SP» + «2 apostilas com +1.500 questões») · `search_terms`: «Mestre Questões» (devolvió los mismos 50) · https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BR&view_all_page_id=396005163592042&search_type=page&media_type=all
 
+### 🔎 Correcciones del informe Opus 2026-11-23 (re-conteo de la lista «Para re-contar» y de las señales)
+Informe completo en el cerebro (`RAW/cazas/2026-11-23-cazas-nube-informe.md`).
+- **Atril Estudio** (`1282575998279080`) 🇨🇴: **dos ofertas pasan** — Psicología en Mapas (`psicologia.atrilestudio.com`, 220 fichas DSM-5-TR, PDF 248 págs, US$ 17) **93 / 102** e Inglés en Mapas (`ingles.atrilestudio.com`, 6 PDF, US$ 17, Impultienda) **62 / 68**; el resto de la página es tarot/religioso (excluido). Persona: solo correo de soporte con nombre (verificar redes). 🇲🇽 🇪🇸 🇨🇱 🇵🇪 sin contar. ✅ (tarjeta pendiente de armar).
+- **Cuaderno de Medicina – APP** (`1372929795909878`) 🇨🇴: 139 / 147 en la web, pero la landing vende **una app** → ❌ Filtro D.
+- **Mente Académica** 🇲🇽 🇪🇸 🇨🇱 🇵🇪: contado (ver la tarjeta de Ingeniería Civil): 6 ofertas pasan en los 5 países.
+- **Brabo Editora** 🇧🇷: 0 / 58 tarjetas cargadas, todo del 18-nov en adelante → ⚪, re-conteo 2026-11-30.
+- **Fit with Emma** 🇨🇿: quiz de bienestar `quiz.fitme-wellness.com` (probable app de suscripción), 0 / 115 → ⚪.
+- **Packs & Moldes Pro** 🇧🇷: 29 / 29 por API, activo en la web, más vieja 27-ago → **✅ pasa la vara de 10** (ya en el cerebro, Idea).
+- **Doctor PDF** 🇨🇴: 6 / 13 por API (no 7 / 14) → 🔵, re-conteo 2026-11-30.
+- **ENEM PROVA MAPAS** 🇧🇷 y **Compra Express Online** 🇨🇴: **0 activos en la web** (la API daba 21 / 21 y 27 / 27) → zombis confirmados.
+- **Pautas Listas** 🇪🇸: 45 / 161 en la web (antes ≥ 29). **Guedes** 🇧🇷: 8 / 22 por API (🟠). **Download Studio** 🇨🇭: máximo 9 por landing (🟠).
+
 ### 🔎 Correcciones del informe Opus 2026-11-22 (Library web, a pedido de Carlos)
 Re-conteo de las 6 tarjetas y de las señales del día en la Library web ordenada por impresiones, con las versiones agrupadas contadas. Informe completo en el cerebro (`RAW/cazas/2026-11-22-cazas-nube-informe.md`). Tarjetas nuevas que salen de ahí (corregidas el mismo día: los conteos de la web con versiones agrupadas inflaban; donde la página tiene < 50 manda la API):
 
@@ -158,6 +170,7 @@ EN 2026-11-20 (2ª corrida, B perforar `idiomas`): nada que pase la vara; se bar
 - **Landing:** https://gcmsantana.abstratainc.com.br/ (checkout `pay.kiwify.com.br/jSz7LZe` Básico · `/jPktfxv` Completo; precio exacto de 🇧🇷, aproximado si se ve desde otra IP)
 - Score 1/4 (longevidad ~28 d < 45 ✗; volumen 34 < 50 ✗; duplicación ✓ ~15-19 copias del mismo título; arbitraje sin medir) · Decisión: —
 - Evidencia: API (`page_ids` + `BR` + `ACTIVE`, 48 ads; `ALL` = 48, la API no ve apagados); snapshots (2) y landing verificados vía Firecrawl; checkout no recorrido; longevidad por API, snapshot no verificado desde la nube; informe `RAW/cazas-auto/2026-11-23-br-perforar-examenes-y-oposiciones.md`.
+- **Re-conteo Opus 2026-11-23 (API):** 🇧🇷 **34 / 34 por oferta** (GCM Santana; los 48 eran la página, hoy 45: Campinas 0 / 11 aparte). ✅ pasa.
 
 BR 2026-11-23 (lun, B perforar `profesiones/examenes-y-oposiciones` + 20 semillas): una tarjeta (arriba); se barrió resumo ENEM, mapas mentais ENEM, redação ENEM, simulado ENEM, prova teórica CNH, legislação trânsito, autoescola apostila, questões CESPE, questões FGV, apostila PM, concurso polícia, apostila bombeiro, concurso INSS, magistério concurso, apostila TJ, concurso prefeitura, resumo Direito Constitucional, OAB segunda fase, técnico enfermagem concurso, apostila SEFAZ, R$ 27, R$ 47, imprimível, kit digital, R$ 17, R$ 29, R$ 9,90, modelos editáveis, caderno de exercícios, material pronto, entrega imediata, baixe agora, orçamento familiar, sair das dívidas, currículo modelo, barbeiro apostila, manicure apostila, tatuagem iniciante, inventário herança y gestante checklist (BR).
 
@@ -214,6 +227,7 @@ BR 2026-11-20 (C operadores): nada que pase la vara; se barrió Packs & Moldes P
 - **Landing:** [ingenieriacivil200.lovable.app](https://ingenieriacivil200.lovable.app/) (checkout Hotmart; verificada con Firecrawl).
 - Score 1/4 (③ duplicación) · Decisión: —
 - Evidencia: API; snapshot y landing verificados con Firecrawl. Tope 50 en CO; MX ES CL PE sin contar (≈ 25-32 ads del molde «Anatomía Cardiovascular», más viejo 16-oct) → **re-contar en la PC por oferta** (`search_terms`: «Ingeniería Civil»).
+- **Re-conteo Opus 2026-11-23 (Library web, por landing):** **6 ofertas pasan en 5 países**, 0 apagadas — Trastornos 🇨🇴 94 / 95 · 🇲🇽 93 / 93 · 🇵🇪 87 / 87 · 🇨🇱 86 / 87 · 🇪🇸 75 / 75 (más vieja 23-sep); Neuroanatomía 59-62 por país (🇪🇸 49); Casos Endocrinológicos 38-61; Informática 31-62; Ingeniería Civil 🇨🇴 37 / 37 · 🇲🇽 39 · 🇨🇱 30 · 🇵🇪 25 · 🇪🇸 17; Anatomía Cardiovascular 26-34. Todas US$ 9,99 Hotmart, sin persona; Trastornos/Casos/Anatomía dicen «material digital» (formato por confirmar). ✅ pasa.
 
 ### 🎯 Fichas Foto Pro (108 fichas PDF de ajustes de cámara y celular, US$ 14,90) — Fichas Foto Pro 🇨🇴 CO · `fotografia/fichas-camara-celular` · 2026-11-23 · sesión ES
 - **Qué es:** pack de 108 fichas en 4 PDF (una por escena: atardecer, noche, fuegos artificiales, mascotas…; ajustes de cámara ISO/apertura/velocidad y de celular modo pro/HDR) + 3 bonos; US$ 14,90 (tachado 99), pago único, PDF al email al instante, garantía 30 días; tienda Impultienda.
@@ -223,6 +237,7 @@ BR 2026-11-20 (C operadores): nada que pase la vara; se barrió Packs & Moldes P
 - **Landing:** [fichas-foto-pro.quicklyguide.com](https://fichas-foto-pro.quicklyguide.com/) (verificada con Firecrawl).
 - Score 1/4 (③ duplicación) · Decisión: —
 - Evidencia: API; snapshot y landing verificados con Firecrawl. MX CL PE sin contar por país → re-contar en la PC.
+- **Re-conteo Opus 2026-11-23 (API + web):** 🇨🇴 **26 / 30** (todos los títulos van a la misma landing; Sonnet contó uno solo) · 🇲🇽 26 / 30 · 🇨🇱 26 / 30 · 🇵🇪 24 / 27. ✅ pasa.
 
 ### 🎯 Kit Contabilidad Sin Enredos (2 libros PDF + 2 bonos Excel, S/ 10 por WhatsApp) — Magnus · Recursos profesionales 🇵🇪 PE · `contabilidad-cuadernos` · 2026-11-23 · sesión ES
 - **Qué es:** kit para estudiantes de contabilidad: libro 1 de 110 páginas de teoría con ejemplos visuales, libro 2 de ejercicios y 2 bonos Excel con casos prácticos; acceso inmediato por Google Drive; **S/ 10** escrito en el anuncio («+1234 compras registradas»); venta por WhatsApp.
@@ -232,6 +247,7 @@ BR 2026-11-20 (C operadores): nada que pase la vara; se barrió Packs & Moldes P
 - **Landing:** WA: ficha reconstruida (vende kit PDF/Excel de contabilidad, 2 libros + 2 bonos · mensaje prellenado no visible) · no se sabe: contenido exacto, escalera, garantía; **no se le escribió al vendedor**.
 - Score 1/4 (③ duplicación) · escalera n/e · Decisión: —
 - Evidencia: API; snapshot verificado con Firecrawl; landing `api.whatsapp.com` no abre desde la nube. Borde exacto de 10 con reloj de creación; la oferta de los anuncios más viejos puede ser otra → re-contar en la PC.
+- **Re-conteo Opus 2026-11-23 (API):** 🇵🇪 **10 / 22** confirmado (2 más cumplen 7 d el 24-nov). ✅ pasa, al borde.
 
 ### 🎯 Farmacología Ilustrada — Kit de 8 módulos + 2 bonos en PDF (US$ 13) — Estudia Sencillo 🇲🇽 MX · `salud-farmacologia-mapas` · 2026-11-23 · sesión ES
 - **Qué es:** «Kit Farmacología Ilustrada / Sin Caos»: 8 módulos ilustrados (farmacocinética, farmacodinámica, vías, toxicidad…) + 2 bonos (glosario A-Z y fichas de las 5 clases que más caen) en PDF de alta resolución; **US$ 13** (tachado 91), pago único por Hotmart, acceso inmediato, garantía 7 días; operador brasileño (`es.farmaciamapeada.com.br`).
@@ -241,6 +257,7 @@ BR 2026-11-20 (C operadores): nada que pase la vara; se barrió Packs & Moldes P
 - **Landing:** [es.farmaciamapeada.com.br/farmacologia-v2](https://es.farmaciamapeada.com.br/farmacologia-v2) (verificada con Firecrawl).
 - Score 2/4 (① longevidad 45+ d, ③ duplicación) · Decisión: —
 - Evidencia: API; snapshot y landing verificados con Firecrawl. ⚠️ **Marca personal parcial:** la landing cierra con «Moisés Santos, Farmacéutico y CEO de Estudia Sencillo» con foto; los anuncios son de marca, sin cara. Decide Carlos. Sin «posible relanzamiento» (tanda del 11-20 = 8 de 21 = 38 %).
+- **Re-conteo Opus 2026-11-23 (Library web):** el producto corre en 3 landings (v2, v3, `.com.mx`): 🇲🇽 **33 / 41** · 🇨🇴 **31 / 38**, igual que el 22-nov (Sonnet cortó por título). Misma página: Urgencias 🇨🇴 33 / 33 · 🇲🇽 32 / 33; GLP-1 🇨🇴 49 / 60 · 🇲🇽 50 / 63; Bioquímica 🇲🇽 12 / 12 · 🇨🇴 9 / 9. ✅ pasa.
 
 **Señales del día ES (23-nov, lun — C operadores + semillas)**
 - Ronda de operadores (3 filas): Digi Aprende PE sin cambio (19 / 40 por API, el mismo título «Descárgalo HOY»); Pautas Listas para Urgencias ES: 128 activos, los 50 visibles son del 20-nov en adelante (sin cambio respecto de la corrección Opus del 22-nov); Estudia Sencillo pasó a tarjeta (arriba) — SKUs nuevos de la ronda: ninguno (los GLP-1 y «Bioquímica Ilustrada» ya figuraban).
@@ -309,6 +326,7 @@ ES 2026-11-20 (A huella): nada que pase la vara; se barrió acceso inmediato PDF
 - **Landing:** `spanisch.fluentmaps.com` (Hotmart `pay.hotmart.com/R106769272O`, 17 €, sin pie ni nombre propio) · no se sabe: si las 5 landings por idioma venden SKUs separados.
 - Score 2/4 (① 54 d, ③ duplicación) · Filtros A (sin persona), B (checkout Hotmart), D (mindmaps en PDF/app digital: confirmar formato) · Decisión: —
 - Evidencia: API; snapshot (ad 4405497353034321) y landing verificados por Firecrawl; cohorte contada por página, **no cortada por idioma** (⚠️ re-contar en la PC por `search_terms` de cada idioma); `ALL` no corrido; 🇩🇪 con tope 50 = piso.
+- **Re-conteo Opus 2026-11-23 (API 🇧🇪 + web 🇩🇪, por idioma):** pasan **Spanisch** 🇩🇪 29 / 29 · 🇧🇪 11 / 11 e **Italienisch** 🇩🇪 26 / 26 (🇧🇪 6 / 6); 🟠 Englisch 🇩🇪 8 / 8 · 🇧🇪 7 / 7 y Französisch 🇩🇪 8 / 8; 🔵 Japanisch, Arabisch, Koreanisch. 0 apagadas. ✅ pasa por oferta (Spanisch, Italienisch).
 
 ### 🎯 PhysioAtlas Visuell: 320 mapas visuales de fisioterapia (PDF US$ 17) — PhysioAtlas Visuell 🇩🇪🇨🇭 DE·CH · `salud/fisioterapia-atlas-visual` · 2026-11-23 · sesión EU
 - **Qué es:** PDF alemán con 320 «Landkarten» (anatomía, exploración, tests, reha, 20 temas) + 6 bonos (turbo de examen, fichas de exploración, goniometría, escalas, atlas de postratamiento, 120 tarjetas de repaso) para estudiantes y terapeutas de fisioterapia; US$ 17, garantía 14 d, checkout propio de Impultienda.
@@ -318,6 +336,7 @@ ES 2026-11-20 (A huella): nada que pase la vara; se barrió acceso inmediato PDF
 - **Landing:** `physioatlas.impultienda.ar` (venta directa, checkout `/checkout`, US$ 17, sin persona, sin pie) · no se sabe: upsells, muestra de los mapas.
 - Score 1/4 (③ duplicación; ① 13 d, ② < 50) · Filtros A, B, D ✅ · Decisión: —
 - Evidencia: API; snapshot (ad 2554946628660341) y landing verificados por Firecrawl; 🇦🇹 y `ALL` no corridos.
+- **Re-conteo Opus 2026-11-23 (API):** 🇩🇪 **18 / 40** · 🇨🇭 **17 / 38** confirmados. ✅ pasa. (Ya figura en el banco de descartes del cerebro como «no validada» el 16-nov con 0 / 15.)
 
 ### 🎯 Visueller Therapie-Atlas: 120 Mindmaps emocionales para terapeutas (PDF US$ 19) — Visueller Therapie-Atlas (antes «Helder Beeld Radiologie») 🇩🇪🇦🇹 DE·AT · `salud/atlas-terapia-visual` · 2026-11-23 · sesión EU
 - **Qué es:** PDF alemán «Visueller Therapie-Atlas»: 120 mindmaps emocionales + 70+ herramientas visuales (32 metáforas, 12 enfoques terapéuticos, escalas, registros editables) para psicólogos y terapeutas; US$ 19 (47 tachado), garantía 7 d; ángulos de anuncio por situación de la clienta («Wenn Ihre Klientin erstarrt…»).
@@ -327,6 +346,7 @@ ES 2026-11-20 (A huella): nada que pase la vara; se barrió acceso inmediato PDF
 - **Landing:** `therapieatlas.impultienda.ar` (checkout Impultienda, US$ 19, sin persona ni pie) · no se sabe: PDF vs app (dice «Druckfertiges PDF / digitales Format»).
 - Score 1/4 (③ duplicación) · Filtros A, B, D ✅ (confirmar formato) · Decisión: —
 - Evidencia: API; snapshot (ad 29370935395859413, la API no devolvió texto: el copy salió de la landing) y landing verificados por Firecrawl; 🇨🇭 🇳🇱 🇧🇪 no contados; `ALL` no corrido.
+- **Re-conteo Opus 2026-11-23 (API):** 🇩🇪 **26 / 36** · 🇦🇹 **24 / 31** (la nube contó por entrega). ✅ pasa.
 
 ### 🎯 L'atlas d'anatomie du professeur de yoga (PDF US$ 19,99) — Didactalab (KINEA) 🇧🇪🇫🇷 BE·FR · `fitness-docentes/atlas-anatomia-movimiento` · 2026-11-23 · sesión EU
 - **Qué es:** atlas de anatomía para profesores de yoga: 120-200 posturas con los músculos en color, atlas de 28 músculos, columna/pelvis, 6 clases de 60 min listas + 4 bonos; **PDF A4 imprimible + aplicación de regalo**; US$ 19,99, pago único, garantía 30 d; marca «KINEA» («una disciplina del movimiento a la vez»).
@@ -336,6 +356,7 @@ ES 2026-11-20 (A huella): nada que pase la vara; se barrió acceso inmediato PDF
 - **Landing:** `yoga-fr.oqumi.shop` (Impultienda-style, US$ 19,99, «KINEA» sin persona ni redes) · no se sabe: peso del app dentro del valor (Filtro D si la app fuera el producto).
 - Score 1/4 (③ duplicación; ① 17 d) · Filtros A, B ✅ · D con salvedad (PDF + app de regalo) · Decisión: —
 - Evidencia: API; snapshot (ad 2267062080690355) y landing verificados por Firecrawl; `ALL` no corrido.
+- **Re-conteo Opus 2026-11-23 (API):** 🇧🇪 **21 / 23** · 🇫🇷 **21 / 24** confirmados. ✅ pasa.
 
 ### 🎯 Le Classeur Si Demain: ordenador de papeles para los proches (PDF CHF 34,90) — Equilia 🇨🇭 CH · `herencia-y-papeles` · 2026-11-23 · sesión EU
 - **Qué es:** «classeur numérique» a imprimir de 64 páginas y 16 rúbricas (papeles, cuentas, seguros, suscripciones, códigos, voluntades) + 3 guías suizas con modelos (directivas anticipadas, mandato por incapacidad, testamento) + tabla del cantón + ejemplo relleno + regalos (versión pareja, carta a los hijos, recordatorio anual, tarjeta cartera); CHF 34,90 (57,90 tachado), upsell «pack completo» CHF 99,90; entrega por e-mail; TWINT/tarjeta/factura. Hermana alemana: Equilia Swiss `1302396209634757` («Wüssten Ihre Liebsten, wo alles ist?», 13 ads, CHF 34.90).
@@ -345,6 +366,7 @@ ES 2026-11-20 (A huella): nada que pase la vara; se barrió acceso inmediato PDF
 - **Landing:** `equilia.ch/products/classeur-si-demain` (Shopify, ≈ 40 productos de bienestar/hogar/recetarios en la misma tienda; el SKU de papeles es independiente) · **Filtro A parcial:** texto en primera persona «J'ai créé ce classeur…», «relu par Julie», «Fait par une Suisse», sin cara ni apellido ni redes (verificar en la PC) · no se sabe: contenido exacto de los modelos legales.
 - Score 1/4 (③ duplicación; ① 12 d, ② < 50) · Filtros A parcial, B ✅, D ✅ · Decisión: —
 - Evidencia: API; snapshot (ad 1599284248172794) y landing verificados por Firecrawl; **tope 50 con corte `sauraient-ils` = piso**, 🇩🇪 🇦🇹 y `ALL` no corridos.
+- **Re-conteo Opus 2026-11-23 (Library web):** 🇨🇭 **110 / 155** (21 fechas, más vieja 23-oct), no ≥ 15. Landing: PDF a imprimir CHF 34,90 + upsell CHF 99,90 «relu par Julie», primera persona sin nombre → **A por verificar**. ✅ pasa.
 
 **Señales del día EU (23-nov, lun — huella + semillas)**
 - Ronda de operadores (4 filas EU): Esprit Académique ≥ 50 / 97 FR sin cambio; Axon Academy tanda Black Friday del 19-nov con los mismos dos títulos; Camille Laurent BE 150 fiches d'anatomie y Biologie Médicale sin SKU nuevo; Download Studio CH 50 visibles todos ≤ 6 d, mismos SKUs (cohorte indeterminada → PC).
