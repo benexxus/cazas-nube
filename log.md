@@ -62,3 +62,4 @@
 
 ## [2026-11-22] corrección | Huellas: análisis cada 60 días con decisión de Carlos (no «podar»)
 ## [2026-11-23] caza-auto | EN A huella+semillas → 0 candidatos a bandeja
+## [2026-11-23] caza-auto | BR B perforar examenes-y-oposiciones → 1 candidato a bandeja
