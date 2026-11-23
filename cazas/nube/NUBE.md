@@ -29,8 +29,16 @@ navegador; acá no hay navegador y el disco es un clon de git.
    completo es `mcp__<nombre del conector>__ads_library_search`. **Si no aparece, escribí en `log.md`
    `## [fecha] caza-auto | <XX> — sin conector de Meta, no corrió`, hacé commit + push (§3) y terminá.** No se
    estima nada.
-4. Leer **`cazas/nube/CEREBRO.md`** (manda en criterio: vara, gate, conteo, ya cazados), `cazas/cola.md`, `cazas/descartados.md`, `cazas/bandeja.md` (las tarjetas de hoy de las otras
-   sesiones, para no duplicar) y tu `cazas/nube/prompts/<xx>.md`, más `cazas/nube/semillas.md` y `cazas/semillas-usadas.md` (§7).
+4. Leer **`cazas/nube/CEREBRO.md`** (manda en criterio: vara, gate, conteo, ya cazados), `cazas/cola.md`, `cazas/descartados.md`
+   y tu `cazas/nube/prompts/<xx>.md`, más `cazas/nube/semillas.md` (§7).
+   **`cazas/bandeja.md` y `cazas/semillas-usadas.md` no se leen enteros**, aunque la skill lo diga (desde el 2026-11-23:
+   pesan 115 KB y 51 KB, crecen cada día y se releen en cada turno). En su lugar:
+   - `python3 cazas/nube/indice-cazas.py bandeja` → una línea por tarjeta (fecha · sesión · anunciante · page_id · slug), para no duplicar;
+   - `python3 cazas/nube/indice-cazas.py semillas <Idioma>` → tus huellas ya ordenadas con la regla de §0 de `semillas.md`
+     (cruza semillas-usadas, cola y `RAW/cazas-auto/`); si avisa que quedan pocas, anotalo en `log-nube.md`;
+   - antes de armar cada tarjeta, `python3 cazas/nube/indice-cazas.py ya-visto <page_id> "<anunciante>"` (busca en bandeja,
+     descartados e histórico; las tarjetas viejas sin page_id se encuentran por nombre).
+   Si `python3` no existe o el script falla, volvé a la lectura completa y anotalo en `log-nube.md`.
 5. Escribir tu línea «en curso» en la bitácora de la cola **y hacer un commit + push chico ya** (así otra
    rutina ve que ese nodo está tomado).
 
@@ -119,7 +127,9 @@ navegador; acá no hay navegador y el disco es un clon de git.
 - Formato exacto: §5 de `skills/cazar/referencias/modos-y-bandeja.md`, diez líneas, en español, más la línea
   «Evidencia: API; snapshot y embudo <verificado por WebFetch | no verificados desde la nube>». Se inserta
   justo debajo de `<!-- TARJETAS-<XX>: ... -->` en `cazas/bandeja.md`. Debajo, «Señales del día <XX>», una
-  línea por ítem.
+  línea por ítem. Para insertar sin leer la bandeja entera: `grep -n "TARJETAS-<XX>" cazas/bandeja.md`, Read de
+  esas 5 líneas (con offset) y Edit. Lo mismo para la lista «Para re-contar» (`grep -n "RECONTAR:"`) y para
+  agregar al final de `cazas/semillas-usadas.md` (Read de las últimas 5 líneas).
 - Si nadie pasa la vara: **una sola línea** («<XX> <fecha>: nada que pase la vara; se barrió X, Y, Z»). Nunca
   rellenar.
 - Informe completo en `RAW/cazas-auto/YYYY-MM-DD-<xx>-<modo>-<nodo>.md`, con la sección «Cobertura». Actualizá tu nodo, tu bitácora y las trampas nuevas en `cazas/cola.md`.

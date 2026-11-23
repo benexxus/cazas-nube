@@ -12,7 +12,8 @@ en `cazas/semillas-usadas.md`, para no repetir.
    elegir cada semilla, fijate cuándo se usó por última vez, en cualquier sesión, también antes de este
    archivo: `grep -rin -- "<keyword>" cazas/cola.md cazas/semillas-usadas.md RAW/cazas-auto/`. La fecha
    sale de la fila (cola y semillas-usadas) o del nombre del archivo (`RAW/cazas-auto/YYYY-MM-DD-...`);
-   vale la más reciente.
+   vale la más reciente. **Para las huellas de §1, `python3 cazas/nube/indice-cazas.py semillas <Idioma>` hace
+   este mismo cruce de una vez** y las devuelve ordenadas (las fechas futuras de la cola, que son agenda, no cuentan).
    - **No aparece** → nunca se usó: es la mejor semilla.
    - **Última vez hace 7+ días** → se puede volver a usar, pero solo cuando no quedan nunca usadas de
      ese tipo. Al repetirla, mirá sobre todo las páginas que no salieron la vez anterior.

@@ -27,7 +27,7 @@ histórico.
 ### 🔎 Para re-contar en la PC
 Lo que la API no puede cerrar: tope de 50 tras 3 cortes con piso < 10, alerta de relanzamiento o landing que
 Firecrawl no abrió. **El re-conteo de la PC hace solo esta lista y las tarjetas nuevas** (script
-`reconteo-library.js` de la skill `cazar`), no el día entero.
+`reconteo-auto.js` de la skill `cazar`), no el día entero.
 <!-- RECONTAR: cada sesión agrega acá una línea por página: fecha · sesión · página · page_id · países · motivo · search_terms usados · links por país -->
 - 2026-11-23 · ESTE · Fit with Emma · `1466697729849134` · 🇨🇿 · tope de 50 (117 activos; los 50 visibles son del 20-22 nov y el título es solo «4.9/5.0 ⭐»; producto sin identificar, landing sin abrir) · sin `search_terms` posibles · https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=CZ&view_all_page_id=1466697729849134&search_type=page&media_type=all
 - 2026-11-23 · ES · Atril Estudio · `1282575998279080` · 🇨🇴 🇲🇽 🇪🇸 🇨🇱 🇵🇪 · tope de 50 (235 activos CO; los 50 visibles son del 11-16 en adelante, título solo «4.9/5 Estrellas» y «La cocina del cuidado corporal natural»; oferta sin identificar, landing sin abrir) · `search_terms`: «psicopatología» + `page_ids` + país · https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=CO&view_all_page_id=1282575998279080&search_type=page&media_type=all
