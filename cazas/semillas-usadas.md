@@ -296,3 +296,42 @@ nunca se reescribe.
 | 2026-11-23 | ESTE (lun 08:10) | molde × tema | první pomoc příručka · pokojové rostliny průvodce | cada una (CZ) | ninguna (Domácí Pevnost 2, tiendas) | — |
 | 2026-11-23 | ESTE (lun 08:10) | molde × tema | elsősegély útmutató · szobanövények útmutató | cada una (HU) | ninguna (cero activo con ACTIVE; ALL: servicios y comunidades de contenido) | — |
 | 2026-11-23 | ESTE (lun 08:10) | huella propia B (perforar) | anxietate ghid · teoria atașamentului · fișe traumă · fotografie mobil · supraviețuire ghid · lęk poradnik · żałoba poradnik · karty AAC · fotografia telefonem · stoicyzm poradnik · úzkost příručka · citová vazba · IVP šablony · focení mobilem · stoicismus příručka · szorongás útmutató · gyász útmutató · kötődéselmélet · fotózás telefonnal · túlélő útmutató | cada una (RO PL CZ HU, un país por keyword) | fotografia telefonem: Fotografia z Samsung 18 [gate: D curso en video, ≥ 46 / 50]; túlélő útmutató: Felkészült Magyar Családok 45 [gate: D físico]; szorongás útmutató: Escuela Saludable 31 [ya visto]; kötődéselmélet: Lunar Spell 12 [coaching]; karty AAC: Anna Majewska 4 [ya cazada]; resto <4 | — |
+| 2026-11-23 | EU (lun 08:10) | huella | da stampare | da stampare (IT CH) | Edizioni Favilla 20 [<4: lote 22-nov], Biblioteca Práctica 15 [<4: 22-nov], Fit with Emma 10 [gate: lead-gen] | — |
+| 2026-11-23 | EU (lun 08:10) | huella | stampabile | stampabile (IT CH) | Yoga-Go 16 [gate: app], Fit with Emma 22 [gate: lead-gen] | — |
+| 2026-11-23 | EU (lun 08:10) | huella | modelli | modelli (IT CH) | ninguna con infoproducto fuera de excluidos | — |
+| 2026-11-23 | EU (lun 08:10) | huella | schede | schede (IT CH) | Edizioni Favilla 10, Clear Guides 9, Biblioteca Práctica 10 [<4: 22-nov] | — |
+| 2026-11-23 | EU (lun 08:10) | huella | eserciziario pdf | eserciziario pdf (IT (CH cero con ALL)) | Desirè Furnari 11 [gate: curso] | — |
+| 2026-11-23 | EU (lun 08:10) | huella | modelli pronti | modelli pronti (IT CH) | Pronti via 9 [no verificada] | — |
+| 2026-11-23 | EU (lun 08:10) | huella | accesso a vita | accesso a vita (IT CH) | ninguna (short-dramas) | — |
+| 2026-11-23 | EU (lun 08:10) | molde × tema | kit eredità | kit eredità (IT CH) | ninguna (short-dramas) | — |
+| 2026-11-23 | EU (lun 08:10) | molde × tema | kit herança | kit herança (PT) | ninguna (short-dramas) | — |
+| 2026-11-23 | EU (lun 08:10) | molde × tema | manual ilustrado | manual ilustrado (PT) | Massagem TopCorpus 9 [<4: 19-nov] | — |
+| 2026-11-23 | EU (lun 08:10) | huella | à imprimer | à imprimer (FR BE CH) | Seve Coach Zen Art 10 [manualidades], Beatriz Laurent 8 [<4: 0 / 22] | — |
+| 2026-11-23 | EU (lun 08:10) | huella | imprimable | imprimable (FR BE CH) | Emma Taylor 23 [gate: app Lasta] | — |
+| 2026-11-23 | EU (lun 08:10) | huella | fiches | fiches (FR BE CH) | Camille Laurent #2 12 [<4: 0 / 16], Beatriz Laurent 8 | — |
+| 2026-11-23 | EU (lun 08:10) | huella | classeur | classeur (FR BE CH) | Equilia 34 CH [pasa ≥ 15 / 50, filtro A parcial] | herencia-y-papeles (tarjeta) |
+| 2026-11-23 | EU (lun 08:10) | huella | guide illustré | guide illustré (FR BE CH) | Où jouer la balle 16 [<4: 0 / 18], Camille Autonomie 11 [<4: 0 / 11] | — |
+| 2026-11-23 | EU (lun 08:10) | huella | modèles prêts | modèles prêts (FR BE CH) | ninguna con 10+ | — |
+| 2026-11-23 | EU (lun 08:10) | huella | accès à vie | accès à vie (FR BE CH) | Seve Coach Zen Art 10 [gate: curso] | — |
+| 2026-11-23 | EU (lun 08:10) | molde × tema | kit succession | kit succession (FR BE CH) | ninguna (Le Kit Succession 1 ad de julio) | — |
+| 2026-11-23 | EU (lun 08:10) | molde × tema | atlas anatomie | atlas anatomie (FR BE CH) | PhysioAtlas Visuell 31 CH [pasa], Didactalab 20 BE [pasa], Thomas Bernard 15 FR [<4: 0 / 31] | salud/fisioterapia-atlas-visual · fitness-docentes/atlas-anatomia-movimiento |
+| 2026-11-23 | EU (lun 08:10) | huella | zum Ausfüllen | zum Ausfüllen (DE AT CH) | ninguna con 10+ | — |
+| 2026-11-23 | EU (lun 08:10) | huella | druckfertig | druckfertig (DE AT CH) | Therapy Toolkit 24 [no verificada: portafolio infantil] | — |
+| 2026-11-23 | EU (lun 08:10) | huella | Arbeitsblätter | Arbeitsblätter (DE AT CH) | Edulabs Deutschland 8 [religioso] | — |
+| 2026-11-23 | EU (lun 08:10) | huella | Komplettset | Komplettset (DE AT CH) | ruido (tiendas) | — |
+| 2026-11-23 | EU (lun 08:10) | huella | excel vorlage | excel vorlage (DE AT CH) | ninguna con 10+ | — |
+| 2026-11-23 | EU (lun 08:10) | huella | checkliste pdf | checkliste pdf (DE AT CH) | The Visual Library 10 CH [vigilancia, ya visto], Mesa Ligera 6 | — |
+| 2026-11-23 | EU (lun 08:10) | huella | ratgeber pdf | ratgeber pdf (DE AT CH) | Herzworte 10 [no verificada], Claire Bennett 7 [recetario excluido] | — |
+| 2026-11-23 | EU (lun 08:10) | molde × tema | Erbschaft Checkliste | Erbschaft Checkliste (DE AT CH) | Left Tidy 2 [<4] | — |
+| 2026-11-23 | EU (lun 08:10) | huella | mindmaps pdf | mindmaps pdf (DE AT CH) | Visueller Therapie-Atlas 23-26 [pasa], Valentina Gomez 13 [no verificada], Studio Facile 2 | salud/atlas-terapia-visual |
+| 2026-11-23 | EU (lun 08:10) | huella | mindmaps | mindmaps (NL BE) | Sprachfluss-Karten 10-11 [pasa], Visueller Therapie-Atlas 10-13 [pasa], Studio Facile 4 | idiomas (tarjeta) |
+| 2026-11-23 | EU (lun 08:10) | huella | fichas estudo | fichas estudo (PT) | Idiomas em Mapas 14 [<4: 3 / 22] | — |
+| 2026-11-23 | EU (lun 08:10) | huella | modelo pronto | modelo pronto (PT) | ninguna (short-dramas) | — |
+| 2026-11-23 | EU (lun 08:10) | huella | checklist completo | checklist completo (PT) | ninguna con 10+ (The Hoord 8 no infoproducto) | — |
+| 2026-11-23 | EU (lun 08:10) | huella | guia ilustrado | guia ilustrado (PT) | Massagem TopCorpus 8 [no verificada] | — |
+| 2026-11-23 | EU (lun 08:10) | huella | printables | printables (NL BE) | Hormoon Insider 31 [gate: no infoproducto] | — |
+| 2026-11-23 | EU (lun 08:10) | huella | werkboek pdf | werkboek pdf (NL BE) | Studio Facile 38 / 30 [operador ya seguido] | — |
+| 2026-11-23 | EU (lun 08:10) | huella | samenvatting pdf | samenvatting pdf (NL BE (cero activo)) | ninguna | — |
+| 2026-11-23 | EU (lun 08:10) | huella | oefenvragen pdf | oefenvragen pdf (NL BE) | Studio Facile 12 / 14, Fenix Library 9 [conocidos] | — |
+| 2026-11-23 | EU (lun 08:10) | molde × tema | erfenis checklist | erfenis checklist (NL BE) | ninguna (NL cero activo; BE Left Tidy 2) | — |
+| 2026-11-23 | EU (lun 08:10) | huella | visuele gids | visuele gids (NL BE) | Schetsfabriek 8 [<4] | — |

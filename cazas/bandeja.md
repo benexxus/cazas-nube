@@ -301,6 +301,60 @@ ES 2026-11-20 (A huella): nada que pase la vara; se barrió acceso inmediato PDF
 
 <!-- TARJETAS-EU: la sesión EU inserta sus tarjetas del día justo debajo de esta línea -->
 
+### 🎯 Sprachfluss-Karten: 500+ Mindmaps de idiomas para hablar (PDF 17 €) — Sprachfluss-Karten 🇧🇪🇩🇪 BE·DE · `idiomas` · 2026-11-23 · sesión EU
+- **Qué es:** «500+ visuelle Mindmaps» de un idioma (vocabulario, verbos, gramática, frases) + 4 bonos (100 modismos, pronunciación, 200 frases, 50 ejercicios), acceso de por vida, 17 € (tachado 47 €), garantía 30 d; anuncio en alemán «Du verstehst jedes Wort… sobald du sprechen sollst, kommt kein Wort raus»; red de landings `<idioma>.fluentmaps.com` (spanisch, italienisch, franzoesisch, arabisch, englisch).
+- **Por qué es ganador:** **🇧🇪 35 / 35** y **🇩🇪 ≥ 49 / 50 (piso, 90 act. est.)**, un solo título repetido en todos los ads, ≥ 6 fechas de creación, más viejo ≈ 30-sep (**54 d** en 🇧🇪, 4 tandas ≥ 45 d); sin persona en ads ni landing.
+- **Qué hacer:** modelar el molde «<idioma> en mapas mentales, ejercicios + modismos» (cuaderno ilustrado) para un par de lenguas libre · ya corre el mismo molde en 🇫🇷 (Axon/Camille Dubois, ya cazado), 🇮🇹 (Lingua Chiara, ficha) y 🇳🇱 «Spaans in Beeld» · destino sugerido 🇺🇸 🇬🇧 (inglés para hispanohablantes o alemán) o 🇮🇹 🇪🇸 con el par local.
+- **Ads Library por país:** 🇧🇪 https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BE&view_all_page_id=1173721545831519 · 🇩🇪 https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=DE&view_all_page_id=1173721545831519
+- **Landing:** `spanisch.fluentmaps.com` (Hotmart `pay.hotmart.com/R106769272O`, 17 €, sin pie ni nombre propio) · no se sabe: si las 5 landings por idioma venden SKUs separados.
+- Score 2/4 (① 54 d, ③ duplicación) · Filtros A (sin persona), B (checkout Hotmart), D (mindmaps en PDF/app digital: confirmar formato) · Decisión: —
+- Evidencia: API; snapshot (ad 4405497353034321) y landing verificados por Firecrawl; cohorte contada por página, **no cortada por idioma** (⚠️ re-contar en la PC por `search_terms` de cada idioma); `ALL` no corrido; 🇩🇪 con tope 50 = piso.
+
+### 🎯 PhysioAtlas Visuell: 320 mapas visuales de fisioterapia (PDF US$ 17) — PhysioAtlas Visuell 🇩🇪🇨🇭 DE·CH · `salud/fisioterapia-atlas-visual` · 2026-11-23 · sesión EU
+- **Qué es:** PDF alemán con 320 «Landkarten» (anatomía, exploración, tests, reha, 20 temas) + 6 bonos (turbo de examen, fichas de exploración, goniometría, escalas, atlas de postratamiento, 120 tarjetas de repaso) para estudiantes y terapeutas de fisioterapia; US$ 17, garantía 14 d, checkout propio de Impultienda.
+- **Por qué es ganador:** **🇩🇪 18 / 40** y **🇨🇭 17 / 38** de la misma oferta (por entrega 16 y 15); 6 fechas de creación (más viejo ≈ 10-nov, 13 d), mismo creativo «320 visuelle Landkarten + 6 Boni» repetido ≥ 30 veces; sin persona ni About.
+- **Qué hacer:** modelar tal cual el atlas «un mapa por prueba/tema» de fisioterapia (hermano de movilidad deportiva) · en 🇫🇷 🇧🇪 🇨🇭 ya corren Pilates Atlas y Camille Laurent con el mismo molde · destino sugerido 🇺🇸 🇬🇧 (PT/DPT exams), 🇮🇹 🇫🇷.
+- **Ads Library por país:** 🇩🇪 https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=DE&view_all_page_id=1356253604249122 · 🇨🇭 https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=CH&view_all_page_id=1356253604249122
+- **Landing:** `physioatlas.impultienda.ar` (venta directa, checkout `/checkout`, US$ 17, sin persona, sin pie) · no se sabe: upsells, muestra de los mapas.
+- Score 1/4 (③ duplicación; ① 13 d, ② < 50) · Filtros A, B, D ✅ · Decisión: —
+- Evidencia: API; snapshot (ad 2554946628660341) y landing verificados por Firecrawl; 🇦🇹 y `ALL` no corridos.
+
+### 🎯 Visueller Therapie-Atlas: 120 Mindmaps emocionales para terapeutas (PDF US$ 19) — Visueller Therapie-Atlas (antes «Helder Beeld Radiologie») 🇩🇪🇦🇹 DE·AT · `salud/atlas-terapia-visual` · 2026-11-23 · sesión EU
+- **Qué es:** PDF alemán «Visueller Therapie-Atlas»: 120 mindmaps emocionales + 70+ herramientas visuales (32 metáforas, 12 enfoques terapéuticos, escalas, registros editables) para psicólogos y terapeutas; US$ 19 (47 tachado), garantía 7 d; ángulos de anuncio por situación de la clienta («Wenn Ihre Klientin erstarrt…»).
+- **Por qué es ganador:** **🇩🇪 24 / 36** y **🇦🇹 22 / 31** (19 por entrega) de una sola landing (3 títulos de anuncio, 1 SKU); más viejo ≈ 11-nov (12 d); sin persona (autores solo como bibliografía), la página cambió de nombre («Helder Beeld Radiologie» → «Visueller Therapie-Atlas»).
+- **Qué hacer:** modelar el molde «atlas visual para terapeutas» (herramientas de sesión, no tratamiento) · misma familia en 🇳🇱 🇧🇪 🇨🇭 con 3 páginas hermanas (Therapeutische Mindmaps, PsiOS, Valentina Gomez «32 Visuelle Metaphern») · ya hay Atlas Terapeutic Vizual 🇷🇴 (tarjeta del Este) · destino sugerido 🇺🇸 🇬🇧.
+- **Ads Library por país:** 🇩🇪 https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=DE&view_all_page_id=1489239604267149 · 🇦🇹 https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=AT&view_all_page_id=1489239604267149
+- **Landing:** `therapieatlas.impultienda.ar` (checkout Impultienda, US$ 19, sin persona ni pie) · no se sabe: PDF vs app (dice «Druckfertiges PDF / digitales Format»).
+- Score 1/4 (③ duplicación) · Filtros A, B, D ✅ (confirmar formato) · Decisión: —
+- Evidencia: API; snapshot (ad 29370935395859413, la API no devolvió texto: el copy salió de la landing) y landing verificados por Firecrawl; 🇨🇭 🇳🇱 🇧🇪 no contados; `ALL` no corrido.
+
+### 🎯 L'atlas d'anatomie du professeur de yoga (PDF US$ 19,99) — Didactalab (KINEA) 🇧🇪🇫🇷 BE·FR · `fitness-docentes/atlas-anatomia-movimiento` · 2026-11-23 · sesión EU
+- **Qué es:** atlas de anatomía para profesores de yoga: 120-200 posturas con los músculos en color, atlas de 28 músculos, columna/pelvis, 6 clases de 60 min listas + 4 bonos; **PDF A4 imprimible + aplicación de regalo**; US$ 19,99, pago único, garantía 30 d; marca «KINEA» («una disciplina del movimiento a la vez»).
+- **Por qué es ganador:** **🇧🇪 21 / 23** y **🇫🇷 21 / 24** (19 y 19 por entrega) de un solo título repetido; 2 tandas (6-nov y 12-nov), más viejo ≈ 6-nov (17 d); sin persona.
+- **Qué hacer:** modelar el molde «anatomía visual de una disciplina de movimiento para profesores» (yoga → pilates, fitness, danza) · en 🇫🇷 🇧🇪 ya hay Pilates Atlas y Uezen France «Atlas visuel du Pilates» · destino sugerido 🇺🇸 🇬🇧 🇩🇪.
+- **Ads Library por país:** 🇧🇪 https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BE&view_all_page_id=1263109316890203 · 🇫🇷 https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=FR&view_all_page_id=1263109316890203
+- **Landing:** `yoga-fr.oqumi.shop` (Impultienda-style, US$ 19,99, «KINEA» sin persona ni redes) · no se sabe: peso del app dentro del valor (Filtro D si la app fuera el producto).
+- Score 1/4 (③ duplicación; ① 17 d) · Filtros A, B ✅ · D con salvedad (PDF + app de regalo) · Decisión: —
+- Evidencia: API; snapshot (ad 2267062080690355) y landing verificados por Firecrawl; `ALL` no corrido.
+
+### 🎯 Le Classeur Si Demain: ordenador de papeles para los proches (PDF CHF 34,90) — Equilia 🇨🇭 CH · `herencia-y-papeles` · 2026-11-23 · sesión EU
+- **Qué es:** «classeur numérique» a imprimir de 64 páginas y 16 rúbricas (papeles, cuentas, seguros, suscripciones, códigos, voluntades) + 3 guías suizas con modelos (directivas anticipadas, mandato por incapacidad, testamento) + tabla del cantón + ejemplo relleno + regalos (versión pareja, carta a los hijos, recordatorio anual, tarjeta cartera); CHF 34,90 (57,90 tachado), upsell «pack completo» CHF 99,90; entrega por e-mail; TWINT/tarjeta/factura. Hermana alemana: Equilia Swiss `1302396209634757` («Wüssten Ihre Liebsten, wo alles ist?», 13 ads, CHF 34.90).
+- **Por qué es ganador:** **🇨🇭 ≥ 15 / 50** sobrevivientes de «Si demain, sauraient-ils où tout se trouve ?» en el corte (111 act. est., piso; por entrega ≥ 14), 3 fechas de creación, más viejo ≈ 11-nov (12 d); ≥ 30 creativos repetidos.
+- **Qué hacer:** molde ya validado por el cerebro (herencia y papeles, ordenador rellenable) con ángulo suizo/local: guías legales del país + tabla por cantón/estado · destino sugerido 🇩🇪 🇦🇹 🇫🇷 con la ley de cada país, 🇺🇸 🇬🇧 como ya hace Leave It Sorted.
+- **Ads Library por país:** 🇨🇭 https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=CH&view_all_page_id=1372790255922822
+- **Landing:** `equilia.ch/products/classeur-si-demain` (Shopify, ≈ 40 productos de bienestar/hogar/recetarios en la misma tienda; el SKU de papeles es independiente) · **Filtro A parcial:** texto en primera persona «J'ai créé ce classeur…», «relu par Julie», «Fait par une Suisse», sin cara ni apellido ni redes (verificar en la PC) · no se sabe: contenido exacto de los modelos legales.
+- Score 1/4 (③ duplicación; ① 12 d, ② < 50) · Filtros A parcial, B ✅, D ✅ · Decisión: —
+- Evidencia: API; snapshot (ad 1599284248172794) y landing verificados por Firecrawl; **tope 50 con corte `sauraient-ils` = piso**, 🇩🇪 🇦🇹 y `ALL` no corridos.
+
+**Señales del día EU (23-nov, lun — huella + semillas)**
+- Ronda de operadores (4 filas EU): Esprit Académique ≥ 50 / 97 FR sin cambio; Axon Academy tanda Black Friday del 19-nov con los mismos dos títulos; Camille Laurent BE 150 fiches d'anatomie y Biologie Médicale sin SKU nuevo; Download Studio CH 50 visibles todos ≤ 6 d, mismos SKUs (cohorte indeterminada → PC).
+- Pages con 10+ activos en las tablas pero **0 sobrevivientes** (todo ≤ 6 d, re-conteo 2026-11-30): Camille Laurent #2 (`105398399244253`) «Atlas visuel de l'évaluation orthopédique» 🇨🇭 0 / 16; Beatriz Laurent (`1237914569412320`) «120 fiches 3D» 🇨🇭 0 / 22; Thomas Bernard (`1257844197417780`) «160+ Neuroanatomie» y «310 Informatique» 🇫🇷 0 / 31 (≥ 106 act. est.); Où jouer la balle (`1412588681932114`) pickleball 🇫🇷 0 / 18; Camille – Autonomie au quotidien (`1437006726155191`) 🇫🇷 0 / 11 (17 € / 27 €).
+- Idiomas em Mapas (`1466836846510822`, inglés visual, 🇵🇹) 3 / 22 → [<4]. Studio Facile (`1272162682644374`): 38 act. NL / 30 BE de «Geheugen is een techniek», solo lote nuevo (operador ya seguido).
+- Therapy Toolkit (`102506312071455`, 🇩🇪🇦🇹🇨🇭): kits de terapia infantil / adolescentes / «21 Mental Reprogramming Protocols», 176 act. est. en DE con tanda de 18-oct; portafolio multi-SKU próximo a neurokids (excluido): no verificada, sin tarjeta.
+- Molde «atlas visual de terapeutas» en 🇳🇱 🇧🇪: Therapeutische Mindmaps (`1368548086349696`, 4 ads), PsiOS (`111707335304926`, 5), Valentina Gomez (`111306911997481`, 13 en 🇩🇪 todo ≤ 1 d); molde «idioma en mapas» en 🇩🇪🇨🇭: Spanisch Illustriert (`1387308257802291`, 4 ads, mismo `fluentmaps`).
+- 🇮🇹 sin nada nuevo con cohorte: Biblioteca Práctica (420 schede guasto, 15 ads, todo del 22-nov) y Edizioni Favilla (20, 22-nov) son lotes nuevos; Clear Guides (`1311440805395222`) portafolio de plantillas Excel/escuela (9, 22-nov).
+- Ceros: `eserciziario pdf` 🇨🇭 0 también con `ALL`; `samenvatting pdf` 🇧🇪 y `erfenis checklist` 🇳🇱 0 activos (con `ALL` 42 y 36 ads, p. ej. Impulso Digital, Left Tidy 🇧🇪 2 ads).
+
 ### 🎯 210 fiches visuelles sur les troubles mentaux (psicología/medicina, PDF 9,99 €) — Esprit Académique 🇫🇷🇧🇪🇨🇭 FR·BE·CH · `salud/fichas-visuales-psicologia-medicina` · 2026-11-22 · sesión EU
 - **Qué es:** kit digital de 210 fichas visuales de trastornos mentales (síntomas, criterios diagnósticos, diagnóstico diferencial, casos clínicos) para estudiantes de Psicología y Medicina, + 5 bonus (diferencial, anamnesis/examen mental, psicotrópicos, 50 casos clínicos, repaso exprés); 9,99 € pago único vía Hotmart.
 - **Por qué es ganador:** **≥ 50 sobrevivientes en cada uno de 🇫🇷 (97 act.), 🇧🇪 (85) y 🇨🇭 (59)** (piso: tope 50 lleno, todos ≥ 7 d); un solo creativo repetido ≥ 50 veces, 5 fechas de creación (9-oct → 6-nov), más viejo ≈ 44 d; sin persona en ads ni landing; moneda de facturación BRL.

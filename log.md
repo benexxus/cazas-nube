@@ -65,3 +65,4 @@
 ## [2026-11-23] caza-auto | BR B perforar examenes-y-oposiciones → 1 candidato a bandeja
 ## [2026-11-23] caza-auto | ES C operadores + semillas → 4 candidatos a bandeja
 ## [2026-11-23] caza-auto | ESTE B perforar salud-mental-visual + 20 semillas → 0 candidatos a bandeja
+## [2026-11-23] caza-auto | EU A huella+semillas → 5 candidatos a bandeja
