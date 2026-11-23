@@ -69,7 +69,7 @@ navegador; acá no hay navegador y el disco es un clon de git.
 - **Siempre buscar la landing (orden de Carlos, 2026-11-21).** La API no trae la URL de destino, pero `firecrawl_scrape` sí abre el `ad_snapshot_url` (con `maxAge: 0`) y devuelve copy completo, precio y link de la landing; después `firecrawl_scrape` de la landing. Hacelo para **todo candidato que llegue a tarjeta o a «cerca»**, antes de escribir «no verificado». Solo si Firecrawl falla se anota «embudo no verificado» y por qué.
 - **Embudo (Filtro B), con Firecrawl, no con WebFetch** (WebFetch no resuelve la mayoría de las landings
   desde la nube): con la landing que trajo `firecrawl_scrape`, anotá qué vende, el precio y el tipo
-  (checkout / VSL / WhatsApp). Solo si Firecrawl falla en el snapshot y en la landing, la tarjeta dice
+  (checkout / VSL; **WhatsApp = descarte `[gate: WhatsApp]`, sin excepciones**). Solo si Firecrawl falla en el snapshot y en la landing, la tarjeta dice
   «embudo no verificado desde la nube: verificar en la PC antes de decidir», con el motivo. Nunca se inventa.
 - **Marca personal** se juzga en los anuncios (nombre de página = persona + cara en los títulos) **y en la
   landing**: pie de página, «quiénes somos» y links a redes que trajo Firecrawl. Si detrás hay una persona
@@ -114,8 +114,8 @@ navegador; acá no hay navegador y el disco es un clon de git.
   ganador, Camille Laurent 🇧🇪 22 / 22). **Una tarjeta por página**: si tiene varias ofertas que pasan, una
   línea por oferta en «Por qué es ganador», con su conteo por país y su landing. Orden: más sobrevivientes
   primero. El techo práctico son las páginas verificadas (§7, hasta 10 + las de la ronda de operadores).
-  Vara: pasa el gate (no marca personal, embudo verificado o
-  WhatsApp con la oferta en el copy, no excluido) **y** la vara de `cazas/nube/CEREBRO.md` §1 — **10+ sobrevivientes**, contados por oferta y por país, igual en todos los mercados; no se piden tandas.
+  Vara: pasa el gate (no marca personal, embudo verificado con checkout,
+  no WhatsApp, no excluido) **y** la vara de `cazas/nube/CEREBRO.md` §1 — **10+ sobrevivientes**, contados por oferta y por país, igual en todos los mercados; no se piden tandas.
 - Formato exacto: §5 de `skills/cazar/referencias/modos-y-bandeja.md`, diez líneas, en español, más la línea
   «Evidencia: API; snapshot y embudo <verificado por WebFetch | no verificados desde la nube>». Se inserta
   justo debajo de `<!-- TARJETAS-<XX>: ... -->` en `cazas/bandeja.md`. Debajo, «Señales del día <XX>», una
@@ -151,7 +151,7 @@ subagentes de la Etapa 1** (es el trabajo útil de §7.3).
    Juntá los títulos distintos (`ad_creative_link_title`) y compará con «Ofertas conocidas».
 3. **Título nuevo con 10+ activos** → entra a la Etapa 2 como una página más (cuenta dentro de las 10;
    va primero). **Título nuevo con 3-9 activos** → señal «SKU nuevo de <operador>: <título> <n> activos,
-   más viejo <fecha>», con re-conteo a +7 d. **Oferta conocida** → no se re-cuenta acá (eso es del
+   más viejo <fecha>», con re-conteo a +3 d. **Oferta conocida** → no se re-cuenta acá (eso es del
    re-conteo de la PC), salvo que haya bajado a < 5 activos: señal «<oferta> bajó a <n> activos».
 4. Actualizá la fila: «Último chequeo» = hoy y el título nuevo en «Ofertas conocidas».
 5. **Alta automática:** toda página que hoy lleva tarjeta entra a la ronda en tu sesión (si no está),

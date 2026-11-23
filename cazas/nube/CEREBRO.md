@@ -24,10 +24,12 @@ evidencia.
 | Veredicto | Sobrevivientes (oferta × país) | Qué hace la rutina |
 |---|---|---|
 | **Pasa** | **10+** | gate de 5 filtros → si pasa, **tarjeta** |
-| **Cerca** | 7-9 | señal en «Señales del día» con **fecha de re-conteo** (+7 d). Ni tarjeta ni descarte |
-| **Vigilancia** | 4-6 | señal en «Señales del día» con **fecha de re-conteo** (+7 d). Ni tarjeta ni descarte |
+| **Cerca** | 7-9 | señal en «Señales del día» con **fecha de re-conteo** (+3 d). Ni tarjeta ni descarte |
+| **Vigilancia** | 4-6 | señal en «Señales del día» con **fecha de re-conteo** (+3 d). Ni tarjeta ni descarte |
 | Señal | < 4 | a lo sumo una línea de señal, sin re-conteo |
 
+- **Re-conteo cada 3 días (Carlos, 2026-11-23):** toda fecha de re-conteo es **hoy + 3 d**. Al re-contar, la oferta sigue si conserva **10+ con 7+ días** en ese país, sin importar cuántos apagó. **Nunca un porcentaje.** Si baja de 10 → cerca o vigilancia con nueva fecha a +3 d.
+- **WhatsApp afuera, sin excepciones (Carlos, 2026-11-23):** venta por WhatsApp/Messenger o mensaje directo = descarte, aunque pase la vara.
 - **Un solo número en todos los países**, sin vara por región.
 - **Whale = 100+ sobrevivientes**, una oferta, un país. Un whale **no se salta el gate**.
 - **Reporte:** el veredicto — «pasa», «cerca», «vigilancia». El conteo crudo
@@ -80,7 +82,7 @@ evidencia.
 |---|---|---|
 | **A** | Marca personal | ¿Hay una persona con audiencia detrás? (anuncios + dominio raíz + About + pie de página + redes) |
 | **A-bis** | Marketplace de expertos | ¿Cada producto necesita un experto con credenciales a cámara? |
-| **B** | Embudo | ¿La página está diseñada para vender un infoproducto? (o WhatsApp con la oferta en el copy) |
+| **B** | Embudo | ¿La página está diseñada para vender un infoproducto con checkout? **WhatsApp / mensaje directo = ⛔ sin excepciones (2026-11-23)** |
 | **C** | Back-end | ¿El front-end se sostiene solo o es carnada? |
 | **D** | **Entregable** | **¿Qué tendríamos que producir?** PDF / guía / plantilla ✅ · video con instructor, libro impreso, área de miembros, suscripción, app, software ⛔ |
 
@@ -106,7 +108,7 @@ sobrevivientes** · ④ hueco de arbitraje en un destino. 4/4 = A · 3 = B · �
 - **Un tester no es un hallazgo.** Algo con 0 sobrevivientes y horas de vida se escribe
   «OFERTA NO VALIDADA» con la tabla de umbrales al lado. **Hueco ≠ validado.**
 - En 🇧🇷 🇨🇴 🇲🇽 (y el Este): **mucho volumen con 0 sobrevivientes es timing, no demanda**.
-  Ahí pesan más el Filtro A (marca personal) y el B (lead-gen por WhatsApp).
+  Ahí pesan más el Filtro A (marca personal) y el B (WhatsApp = descarte sin excepciones).
 
 ## 6. Footprints de formato (sesgan el barrido hacia PDF)
 
