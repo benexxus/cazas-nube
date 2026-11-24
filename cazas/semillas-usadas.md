@@ -375,3 +375,23 @@ nunca se reescribe.
 | 2026-11-24 | EN (mar 01:10) | propia (nodo) | installation guide bundle | installation guide bundle (US GB CA AU) | Cinevolve 8 [presets digitales, no verificada] | — |
 | 2026-11-24 | EN (mar 01:10) | propia (nodo) | troubleshooting handbook | troubleshooting handbook (US GB CA AU) | Circuit Bench [cerca], First Light Guides [no verificada], David Harper [gate dudoso] | — |
 | 2026-11-24 | EN (mar 01:10) | propia (nodo) | wiring reference | wiring reference (US GB CA AU) | ninguna ≥ 10 (HVAC Troubleshooting Visual System [<4]) | — |
+| 2026-11-24 | BR (mar 01:40) | huella | pay hotmart | pay hotmart (BR) | ninguna ≥ 10 (Joicy Maromba 26 [fitness, no verificada]) | — |
+| 2026-11-24 | BR (mar 01:40) | huella | acesso imediato | acesso imediato (BR) | Business Toolkit [vigilancia]; transtornodoespectroautista 8 [<4] | — |
+| 2026-11-24 | BR (mar 01:40) | molde × tema | códigos de erro lavadora | códigos de erro lavadora (BR) | ninguna ≥ 10 | — |
+| 2026-11-24 | BR (mar 01:40) | molde × tema | planilha precificação serviços | planilha precificação serviços (BR) | Cora [banco]; ninguna ≥ 10 de infoproducto | — |
+| 2026-11-24 | BR (mar 01:40) | molde × tema | manual de processos clínica | manual de processos clínica (BR) | Legalize Estética 10 [servicio, no verificada] | — |
+| 2026-11-24 | BR (mar 01:40) | molde × tema | scripts prontos vendas | scripts prontos vendas (BR) | ninguna ≥ 10 (Priscila Espinoza 13 [no verificada]) | — |
+| 2026-11-24 | BR (mar 01:40) | molde × tema | modelos de carta aluguel | modelos de carta aluguel (BR) | ninguna | — |
+| 2026-11-24 | BR (mar 01:40) | molde × tema | plano 12 semanas corrida | plano 12 semanas corrida (BR) | WalkFit Go 33 [app, no verificada] | — |
+| 2026-11-24 | BR (mar 01:40) | molde × tema | dicionário visual inglês | dicionário visual inglês (BR) | ninguna | — |
+| 2026-11-24 | BR (mar 01:40) | molde × tema | guia identificação cogumelos | guia identificação cogumelos (BR) | ninguna (cero con ACTIVE y ALL) | — |
+| 2026-11-24 | BR (mar 01:40) | molde × tema | kit divórcio | kit divórcio (BR) | ninguna (short-dramas) | — |
+| 2026-11-24 | BR (mar 01:40) | molde × tema | kit mudança | kit mudança (BR) | Embala Easy 14 [físico] | — |
+| 2026-11-24 | BR (mar 01:40) | molde × tema | aquário iniciantes | aquário iniciantes (BR) | ninguna | — |
+| 2026-11-24 | BR (mar 01:40) | molde × tema | adestramento filhote | adestramento filhote (BR) | Alexandre Rossi 14 [no verificada] | — |
+| 2026-11-24 | BR (mar 01:40) | molde × tema | horta apartamento | horta apartamento (BR) | ninguna (inmobiliarias y short-dramas) | — |
+| 2026-11-24 | BR (mar 01:40) | molde × tema | drywall instalação | drywall instalação (BR) | Big win 16 [no] | — |
+| 2026-11-24 | BR (mar 01:40) | molde × tema | mecânica motos | mecânica motos (BR) | Mecanico Power 10 [no verificada] | — |
+| 2026-11-24 | BR (mar 01:40) | molde × tema | instalação placa solar | instalação placa solar (BR) | Solturi 28 [servicio] | — |
+| 2026-11-24 | BR (mar 01:40) | molde × tema | excel avançado | excel avançado (BR) | Expert Cursos Online 11, Paulo Fróes 11 [no verificada] | — |
+| 2026-11-24 | BR (mar 01:40) | molde × tema | pintura residencial | pintura residencial (BR) | ninguna | — |
