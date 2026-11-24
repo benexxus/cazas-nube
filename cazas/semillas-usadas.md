@@ -335,3 +335,43 @@ nunca se reescribe.
 | 2026-11-23 | EU (lun 08:10) | huella | oefenvragen pdf | oefenvragen pdf (NL BE) | Studio Facile 12 / 14, Fenix Library 9 [conocidos] | — |
 | 2026-11-23 | EU (lun 08:10) | molde × tema | erfenis checklist | erfenis checklist (NL BE) | ninguna (NL cero activo; BE Left Tidy 2) | — |
 | 2026-11-23 | EU (lun 08:10) | huella | visuele gids | visuele gids (NL BE) | Schetsfabriek 8 [<4] | — |
+| 2026-11-24 | EN (mar 01:10) | huella | no physical product | no physical product (US GB CA AU) | ninguna (ruido de dramas y salud) | — |
+| 2026-11-24 | EN (mar 01:10) | huella | printable checklists | printable checklists (US GB CA AU) | ninguna (gimnasios y retail) | — |
+| 2026-11-24 | EN (mar 01:10) | huella | ready-to-use templates | ready-to-use templates (US GB CA AU) | ninguna (escuelas de idiomas) | — |
+| 2026-11-24 | EN (mar 01:10) | huella | fill-in-the-blank | fill-in-the-blank (US GB CA AU) | Ultimate Budget Planner [conocida] (barrido parcial) | — |
+| 2026-11-24 | EN (mar 01:10) | huella | downloadable guide | downloadable guide (US GB CA AU) | ninguna (barrido parcial) | — |
+| 2026-11-24 | EN (mar 01:10) | huella | swipe file | swipe file (US GB CA AU) | ninguna (SaaS y dramas) | — |
+| 2026-11-24 | EN (mar 01:10) | huella | printable guide | printable guide (US GB CA AU) | Emma Taylor ~19 [gate: marca personal / físico], The Girlfriends Guide ~22 [no verificada] | — |
+| 2026-11-24 | EN (mar 01:10) | huella | field guide | field guide (US GB CA AU) | First Light Guides ~15 [no verificada], Visual Guide Lab [conocida] | — |
+| 2026-11-24 | EN (mar 01:10) | huella | pocket guide | pocket guide (US GB CA AU) | ninguna | — |
+| 2026-11-24 | EN (mar 01:10) | huella | PDF handbook | PDF handbook (US GB CA AU) | First Light Guides ~15 [no verificada], I love summaries 13 [no verificada], Clearpage Books ~10 [conocida] | — |
+| 2026-11-24 | EN (mar 01:10) | huella | quick start guide | quick start guide (US GB CA AU) | ninguna (dietas) | — |
+| 2026-11-24 | EN (mar 01:10) | huella | beginner's guide | beginner's guide (US GB CA AU) | Daily Glow Guide 10 [no verificada, cosmética] | — |
+| 2026-11-24 | EN (mar 01:10) | molde × tema | EMT practice questions | EMT practice questions (US CA AU) | EMT Med Note 9 [<4], Jessica T 30+ [no infoproducto] | — |
+| 2026-11-24 | EN (mar 01:10) | molde × tema | appliance repair error codes | appliance repair error codes (US GB CA AU (cero activo GB CA AU)) | ninguna | — |
+| 2026-11-24 | EN (mar 01:10) | molde × tema | contractor pricing guide | contractor pricing guide (US GB CA AU) | Trident Bath and Shower 15 [no verificada, remodelación] | — |
+| 2026-11-24 | EN (mar 01:10) | molde × tema | mushroom identification guide | mushroom identification guide (US GB CA AU (cero activo)) | ninguna | — |
+| 2026-11-24 | EN (mar 01:10) | molde × tema | landlord letter templates | landlord letter templates (US GB CA AU (cero activo US CA AU)) | ninguna | — |
+| 2026-11-24 | EN (mar 01:10) | molde × tema | grief workbook | grief workbook (US GB CA AU) | Thinkovia [<4] | — |
+| 2026-11-24 | EN (mar 01:10) | molde × tema | beekeeping in pictures | beekeeping in pictures (US GB CA AU) | ninguna | — |
+| 2026-11-24 | EN (mar 01:10) | molde × tema | dispute letter templates | dispute letter templates (US GB CA AU) | ninguna | — |
+| 2026-11-24 | EN (mar 01:10) | propia (nodo) | debt snowball spreadsheet | debt snowball spreadsheet (US GB CA AU) | Abby Lawson ≥ 50 [gate: marca personal]; Ultimate Budget Planner [conocida] | — |
+| 2026-11-24 | EN (mar 01:10) | propia (nodo) | budget by paycheck | budget by paycheck (US GB CA AU) | ninguna | — |
+| 2026-11-24 | EN (mar 01:10) | propia (nodo) | sinking funds template | sinking funds template (US GB CA AU (cero activo CA AU)) | ninguna | — |
+| 2026-11-24 | EN (mar 01:10) | propia (nodo) | savings challenge printable | savings challenge printable (US GB CA AU) | YN Book Creator [<4] | — |
+| 2026-11-24 | EN (mar 01:10) | propia (nodo) | irregular income budget | irregular income budget (US GB CA AU) | ninguna | — |
+| 2026-11-24 | EN (mar 01:10) | propia (nodo) | zero based budget | zero based budget (US GB CA AU) | ninguna | — |
+| 2026-11-24 | EN (mar 01:10) | propia (nodo) | bill tracker printable | bill tracker printable (US GB CA AU (cero activo AU)) | ninguna | — |
+| 2026-11-24 | EN (mar 01:10) | propia (nodo) | couples budget planner | couples budget planner (US GB CA AU) | Digital books [pasa], Ultimate Budget Planner [conocida] | diy-planos-construccion-pdf · salud/neurologia-visual-estudio |
+| 2026-11-24 | EN (mar 01:10) | propia (nodo) | freelancer invoice template | freelancer invoice template (US GB CA AU (cero activo AU)) | ninguna | — |
+| 2026-11-24 | EN (mar 01:10) | propia (nodo) | self employed expenses | self employed expenses (US GB CA AU) | Abby Lawson [gate: marca personal] | — |
+| 2026-11-24 | EN (mar 01:10) | propia (nodo) | professional edition | professional edition (US GB CA AU) | ninguna (dramas) | — |
+| 2026-11-24 | EN (mar 01:10) | propia (nodo) | six volumes bonuses | six volumes bonuses (US GB CA AU) | Digital books [pasa], Labdigital [pasa], Download Studio 14 [conocida], Music Solved 20 [conocida], Trainer Science Lab [<4] | diy-planos-construccion-pdf · salud/neurologia-visual-estudio |
+| 2026-11-24 | EN (mar 01:10) | propia (nodo) | complete reference bundle | complete reference bundle (US GB CA AU) | David Harper [gate: Filtro D dudoso] | — |
+| 2026-11-24 | EN (mar 01:10) | propia (nodo) | technician handbook | technician handbook (US GB CA AU) | Packs pro [conocida] | — |
+| 2026-11-24 | EN (mar 01:10) | propia (nodo) | trade reference library | trade reference library (US GB CA AU) | ninguna | — |
+| 2026-11-24 | EN (mar 01:10) | propia (nodo) | manual bundle pdf | manual bundle pdf (US GB CA AU) | ninguna | — |
+| 2026-11-24 | EN (mar 01:10) | propia (nodo) | pocket reference | pocket reference (US GB CA AU) | ninguna (ropa) | — |
+| 2026-11-24 | EN (mar 01:10) | propia (nodo) | installation guide bundle | installation guide bundle (US GB CA AU) | Cinevolve 8 [presets digitales, no verificada] | — |
+| 2026-11-24 | EN (mar 01:10) | propia (nodo) | troubleshooting handbook | troubleshooting handbook (US GB CA AU) | Circuit Bench [cerca], First Light Guides [no verificada], David Harper [gate dudoso] | — |
+| 2026-11-24 | EN (mar 01:10) | propia (nodo) | wiring reference | wiring reference (US GB CA AU) | ninguna ≥ 10 (HVAC Troubleshooting Visual System [<4]) | — |
