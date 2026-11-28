@@ -445,6 +445,43 @@ ES 2026-11-20 (A huella): nada que pase la vara; se barrió acceso inmediato PDF
 
 <!-- TARJETAS-EU: la sesión EU inserta sus tarjetas del día justo debajo de esta línea -->
 
+### 🎯 160+ Cartes Visuelles de Neuroanatomie (atlas PDF 9,99 €) — Thomas Bernard 🇫🇷🇧🇪 FR·BE · `salud/neurologia-visual-estudio` · 2026-11-28 · sesión EU
+- **Qué es:** atlas de neuroanatomía para estudiantes de medicina, psicología, IFSI y kiné: 160+ cartas ilustradas, 12 módulos, cartas integradoras de repaso + 4 bonos (plan de repaso, neuroanatomía sin complicaciones, atlas visual del cerebro, guía de memorización); digital + imprimible, **9,99 €** (29,99 € tachado), pago único, garantía 7 d. La misma página corre «310 Cartes Mentales d'Informatique».
+- **Por qué es ganador:** **🇫🇷 32 / 32** (29 por entrega) con el corte `Neuroanatomie`, 3 tandas (17, 18 y 21-nov), más vieja 17-nov (11 d); 🇧🇪 ≥ 19 visibles de 50 y 26 en `ALL`; sube de la señal del 23-nov (0 / 31, todo ≤ 5 d). Misma página, **«310 Informatique» 🇧🇪 25 / 31** con corte `Informatique`, más 12 ads «SEULEMENT 9,99 €» de ≈ 74 d que entran por el término (oferta sin confirmar). Mismo molde que NEUROMAP (EN) y Mente Académica (ES).
+- **Qué hacer:** modelar el atlas visual de una materia de salud con precio de impulso (9,99 €) · en francés, destino ya cubierto; llevarlo a 🇮🇹 🇩🇪 🇵🇹 con la anatomía del país · el mismo molde ya corre en EN (NEUROMAP) y ES (Mente Académica).
+- **Ads Library por país:** 🇫🇷 https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=FR&view_all_page_id=1257844197417780 · 🇧🇪 https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=BE&view_all_page_id=1257844197417780
+- **Landing:** `neuroanatomie.netlify.app` → checkout Hotmart `pay.hotmart.com/K108541723R` · sin nombre ni foto de persona en la landing (el nombre «Thomas Bernard» es solo el de la página) · sin WhatsApp.
+- Score 2/4 (① «Informatique» con 12 ads de ≈ 74 d; ③ título repetido ≥ 30 veces) · Filtros A parcial (nombre de página), B ✅, D ✅ · Decisión: —
+- Evidencia: API; snapshot (ad 1175658195415663) y landing verificados por Firecrawl; corte `search_terms` «Neuroanatomie» (FR) e «Informatique» (BE); `ALL` BE «Neuroanatomie» corrido; longevidad por API, snapshot no verificado desde la nube más allá del texto.
+
+### 🎯 Anatomia dello Yoga: atlante visivo per insegnanti (PDF US$ 19,99) — KINEA · Anatomia dello Yoga 🇮🇹 IT · `fitness-docentes/atlas-anatomia-movimiento` · 2026-11-28 · sesión EU
+- **Qué es:** misma oferta que la tarjeta Didactalab (KINEA) del 23-nov, ahora en italiano y con otra fanpage: 120 asana con músculos en color, atlas de 28 músculos, 6 clases de 60 min, 4 bonos (embarazo, columna, suelo pélvico, kit docente), **PDF A4 imprimible + app de regalo**; US$ 19,99, pago único, garantía 30 d; «KINEA» sin persona (ilustraciones generadas con IA).
+- **Por qué es ganador:** **🇮🇹 ≥ 36 / 50** por creación (≥ 28 por entrega; 110 activos est., título único repetido: no hay corte posible), 4 tandas, más vieja 10-nov (18 d); no se suma a las páginas hermanas (Didactalab BE·FR, KINEA DE).
+- **Qué hacer:** modelar el molde «anatomía visual de una disciplina de movimiento para profesores» (yoga → pilates, fitness, danza) · IT es país nuevo para el operador (antes BE y FR) · destino sugerido 🇺🇸 🇬🇧 🇩🇪.
+- **Ads Library por país:** 🇮🇹 https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=IT&view_all_page_id=1304154212788791
+- **Landing:** `kyit.didactalab.online` (Impultienda, US$ 19,99, «KINEA» sin persona ni redes) · salvedad Filtro D: la app es regalo, el producto son los PDF.
+- Score 1/4 (③ duplicación) · Filtros A, B ✅ · D con salvedad (PDF + app de regalo) · Decisión: —
+- Evidencia: API; snapshot (ad 2543367602814932) y landing verificados por Firecrawl; tope 50 = piso (`≥`), `ALL` «yoga» corrido (196 ads, tope 50).
+
+### 🎯 Yoga-Anatomie für Lehrende (atlas PDF US$ 19,99) — KINEA Yoga Anatomie 🇩🇪 DE · `fitness-docentes/atlas-anatomia-movimiento` · 2026-11-28 · sesión EU
+- **Qué es:** la misma oferta KINEA en alemán (120 Haltungen, Atlas de 28 Muskeln, 6 Yogastunden, 4 Boni, App): «Der Anatomie-Atlas für Yogalehrende».
+- **Por qué es ganador:** **🇩🇪 27 / 27** (por creación y por entrega), 3 tandas (25-oct, 30-oct y 01-nov), más vieja 25-oct (**34 d**); en la tabla solo apareció en DE (no se re-contó AT ni CH).
+- **Qué hacer:** igual que la tarjeta KINEA IT; es la única de las tres fanpages KINEA con 30+ días de vida · destino sugerido 🇺🇸 🇬🇧.
+- **Ads Library por país:** 🇩🇪 https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=DE&view_all_page_id=1417660961430039
+- **Landing:** `kyde.didactalab.online` (mismo molde Impultienda que `kyit.`; precio y checkout leídos en el resumen de Firecrawl, no en la página completa).
+- Score 2/4 (① 34 d, ③ duplicación) · Filtros A, B ✅ · D con salvedad (PDF + app) · Decisión: —
+- Evidencia: API; landing por Firecrawl (resumen), snapshot no abierto para el ad de DE (solo el enlace de destino); `ALL` no corrido.
+
+**Señales del día EU (28-nov, sáb — modo C agenda + semillas)**
+- Ronda de operadores: **PhysioAtlas Visuell** (`1356253604249122`) bajó a **0 activos** en DE y CH (`ALL` DE 73 ads, el último creado 24-nov): oferta apagada, la tarjeta del 23-nov queda como histórica. Esprit Académique FR SKU nuevo «+300 Cartes Mentales pour Apprendre l'Espagnol» 17 activos del 25-26 nov, re-conteo 2026-12-02. Camille Dubois FR: tanda nueva del 26-nov (≈ 33 ads «520 cartes») sobre la del 20-nov → ⚠️ posible relanzamiento (La Carte de l'Anglais ya es tarjeta). Download Studio CH: packs docentes y «Complete Research Methods Course» < 7 d, re-conteo 12-02. Camille Laurent BE: sin SKU nuevo de infoproducto.
+- Le trauma (`1396189266918590`) «100 cartes visuelles» 🇧🇪 **cerca** 8 / 41 (8 ads de 18-19 nov), re-conteo 2026-12-01.
+- Allenamenti Calcio Pronti (`1264730710065283`) sedute di calcio 🇨🇭 **vigilancia** 6 / 22 (desde 9,90 €), re-conteo 2026-12-01.
+- Inglese Facile (`1475948585604153`) «520 mappe mentali + 5 bonus» 🇮🇹 0 / 28 (tanda 26-nov), re-conteo 2026-12-02 (molde Lingua Chiara / Camille Dubois). Le Classeur de Succession (`1493182943869296`) 🇫🇷 0 / 18 (25-26 nov), re-conteo 2026-12-02.
+- Visiva · Psicologia e Medicina (`1442146142313710`) 🇮🇹 5 / 18 repartidos en 3 ofertas (≤ 2 por oferta) [<4]; STEM in Classe (`1346477118548768`) 1 / 21; Premium Digital (`879829245224581`) 1 / 18; BFS Academy FR 0 / 5; Elena Marini IT portafolio multi-vertical de 26-27 nov, no verificada.
+- Molde «atlas de anatomía para profesores de yoga»: Piccoli Artisti (`1436378079551836`) 🇫🇷🇧🇪🇨🇭 10 activos cada una del 24-nov (< 7 d), Yoga Anatomy Atlas (`1346454768560529`) 🇵🇹 2, Maria Antônia (`597983353401665`) 🇵🇹 «+300 fichas de músculos» 3.
+- Studio Facile (`1272162682644374`, operador ya seguido) «Psychologie in beeld» 35 activos 🇧🇪 / 25 🇳🇱 creados 24-nov (< 7 d). Logomap (`1431700070027701`) 🇩🇪🇦🇹🇨🇭 «Logopädie visuell erklärt» 4 del 25-nov; Emito (`557352500802762`) 🇩🇪🇦🇹🇨🇭 «Mathestunden fertig vorbereitet» ~4 desde 13-nov.
+- Ceros: `Dokumentenordner Erbfall` y `Sprachkarten Spanisch` 0 también con `ALL` en 🇩🇪🇦🇹🇨🇭; `kit successione` 🇨🇭 y `cuccioli addestramento` 🇨🇭 solo series cortas; `classificatore documenti` sin infoproducto.
+
 ### 🎯 Sprachfluss-Karten: 500+ Mindmaps de idiomas para hablar (PDF 17 €) — Sprachfluss-Karten 🇧🇪🇩🇪 BE·DE · `idiomas` · 2026-11-23 · sesión EU
 - **Qué es:** «500+ visuelle Mindmaps» de un idioma (vocabulario, verbos, gramática, frases) + 4 bonos (100 modismos, pronunciación, 200 frases, 50 ejercicios), acceso de por vida, 17 € (tachado 47 €), garantía 30 d; anuncio en alemán «Du verstehst jedes Wort… sobald du sprechen sollst, kommt kein Wort raus»; red de landings `<idioma>.fluentmaps.com` (spanisch, italienisch, franzoesisch, arabisch, englisch).
 - **Por qué es ganador:** **🇧🇪 35 / 35** y **🇩🇪 ≥ 49 / 50 (piso, 90 act. est.)**, un solo título repetido en todos los ads, ≥ 6 fechas de creación, más viejo ≈ 30-sep (**54 d** en 🇧🇪, 4 tandas ≥ 45 d); sin persona en ads ni landing.

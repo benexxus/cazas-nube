@@ -475,3 +475,43 @@ nunca se reescribe.
 | 2026-11-28 | ES (sáb 02:10) | molde × tema | cuyes crianza | cuyes crianza (CO MX ES CL PE) | ninguna | — |
 | 2026-11-28 | ES (sáb 02:10) | molde × tema | gallinas ponedoras | gallinas ponedoras (CO MX ES CL PE) | ninguna | — |
 | 2026-11-28 | ES (sáb 02:10) | molde × tema | apicultura principiantes | apicultura principiantes (CO MX ES CL PE) | ninguna | — |
+| 2026-11-28 | EU (sáb 02:40) | huella | foglio excel | foglio excel (IT CH) | Mirco Gasparotto 23 (lead magnet gratis) | — |
+| 2026-11-28 | EU (sáb 02:40) | huella | accesso immediato | accesso immediato (IT CH) | Elena Marini 22 (portafolio); Kit Online [conocida]; STEM in Classe 18 [<4] | — |
+| 2026-11-28 | EU (sáb 02:40) | huella | kit digitale | kit digitale (IT CH) | Accademia Creativa 9; Kit Online | — |
+| 2026-11-28 | EU (sáb 02:40) | huella | guide pratique | guide pratique (FR BE CH) | Clear Nest 13 (lead-gen) | — |
+| 2026-11-28 | EU (sáb 02:40) | huella | tableau excel | tableau excel (FR BE CH) | Kodree 18, Antoine Bosché 16 (cursos) | — |
+| 2026-11-28 | EU (sáb 02:40) | huella | accès immédiat | accès immédiat (FR BE CH) | Le trauma ≈ 9 BE [cerca 8 / 41] | — |
+| 2026-11-28 | EU (sáb 02:40) | huella | pdf download | pdf download (DE AT CH) | Crochet school 11 (patrones); Business Explained 9 [conocida] | — |
+| 2026-11-28 | EU (sáb 02:40) | huella | sofortiger zugriff | sofortiger zugriff (DE AT CH) | ninguna con cohorte (recetarios/STL) | — |
+| 2026-11-28 | EU (sáb 02:40) | huella | digitales paket | digitales paket (DE AT CH) | ninguna (concesionarios y clínicas) | — |
+| 2026-11-28 | EU (sáb 02:40) | huella | pdf downloaden | pdf downloaden (NL BE) | Studio Facile 25 NL / 35 BE [conocida, < 7 d] | — |
+| 2026-11-28 | EU (sáb 02:40) | huella | complete gids | complete gids (NL BE) | ninguna (redes de «Stalen Overkappingen» y GTA 6) | — |
+| 2026-11-28 | EU (sáb 02:40) | huella | por apenas | por apenas (PT) | ninguna (causas benéficas / salud) | — |
+| 2026-11-28 | EU (sáb 02:40) | molde × tema | cuccioli addestramento | cuccioli addestramento (IT CH) | ninguna (CH solo series cortas) | — |
+| 2026-11-28 | EU (sáb 02:40) | molde × tema | primo soccorso schede | primo soccorso schede (IT CH) | Salud Didáctica 10 IT; Luiggi Totti 5 | — |
+| 2026-11-28 | EU (sáb 02:40) | molde × tema | premiers secours fiches | premiers secours fiches (FR BE CH) | ninguna (Antoine Lefebvre Petit 5, mismo Manuel Militaire) | — |
+| 2026-11-28 | EU (sáb 02:40) | molde × tema | échecs ouvertures | échecs ouvertures (FR BE CH) | ninguna (≤ 2 ads) | — |
+| 2026-11-28 | EU (sáb 02:40) | molde × tema | Hundetraining Anleitung | Hundetraining Anleitung (DE AT CH) | ninguna (Pfotenspaß 7, guía gratis) | — |
+| 2026-11-28 | EU (sáb 02:40) | molde × tema | Erste Hilfe Karten | Erste Hilfe Karten (DE AT CH) | ninguna (ficción por capítulos) | — |
+| 2026-11-28 | EU (sáb 02:40) | molde × tema | primeiros socorros guia | primeiros socorros guia (PT) | ninguna (VetaPet 2) | — |
+| 2026-11-28 | EU (sáb 02:40) | molde × tema | hondentraining gids | hondentraining gids (NL BE) | Hondenkenner 15-20 BE [apagadas, `ACTIVE` 0] | — |
+| 2026-11-28 | EU (sáb 02:40) | huella | atlante anatomia | atlante anatomia (IT CH) | KINEA Anatomia dello Yoga 29 IT [pasa ≥ 36 / 50]; Nara Costa; Premium Digital | KINEA IT en `fitness-docentes/atlas-anatomia-movimiento` |
+| 2026-11-28 | EU (sáb 02:40) | molde × tema | schede visive psicologia | schede visive psicologia (IT CH) | Visiva · Psicologia e Medicina 5 [<4]; Psyacademy, Psicologia Illustrata | — |
+| 2026-11-28 | EU (sáb 02:40) | molde × tema | mappe mentali inglese | mappe mentali inglese (IT CH) | Inglese Facile 23 IT [0 / 28]; Lingua Chiara 41 CH [conocida] | — |
+| 2026-11-28 | EU (sáb 02:40) | molde × tema | kit successione | kit successione (IT CH) | ninguna | — |
+| 2026-11-28 | EU (sáb 02:40) | molde × tema | classificatore documenti | classificatore documenti (IT CH) | ninguna (físicos) | — |
+| 2026-11-28 | EU (sáb 02:40) | molde × tema | atlas anatomie yoga | atlas anatomie yoga (FR BE CH) | Piccoli Artisti 10 [< 7 d] | — |
+| 2026-11-28 | EU (sáb 02:40) | molde × tema | fiches biologie médicale | fiches biologie médicale (FR BE CH) | ninguna | — |
+| 2026-11-28 | EU (sáb 02:40) | molde × tema | fiches troubles mentaux | fiches troubles mentaux (FR BE CH) | Esprit Académique 50 [conocida] | — |
+| 2026-11-28 | EU (sáb 02:40) | molde × tema | classeur succession | classeur succession (FR BE CH) | Le Classeur de Succession 18 [0 / 18] | — |
+| 2026-11-28 | EU (sáb 02:40) | molde × tema | cartes mentales anglais | cartes mentales anglais (FR BE CH) | Camille Dubois 15, Céline Moreau 13 [conocidas]; BFS Academy 5 | — |
+| 2026-11-28 | EU (sáb 02:40) | molde × tema | Anatomie Atlas | Anatomie Atlas (DE AT CH) | KINEA Yoga Anatomie 27 DE [pasa 27 / 27] | KINEA DE en `fitness-docentes/atlas-anatomia-movimiento` |
+| 2026-11-28 | EU (sáb 02:40) | molde × tema | Landkarten Physiotherapie | Landkarten Physiotherapie (DE AT CH) | PhysioAtlas Visuell [apagada, 0 activos] | — |
+| 2026-11-28 | EU (sáb 02:40) | molde × tema | Mindmaps Psychologie | Mindmaps Psychologie (DE AT CH) | ninguna | — |
+| 2026-11-28 | EU (sáb 02:40) | molde × tema | Dokumentenordner Erbfall | Dokumentenordner Erbfall (DE AT CH) | ninguna (0 también con `ALL`) | — |
+| 2026-11-28 | EU (sáb 02:40) | molde × tema | Sprachkarten Spanisch | Sprachkarten Spanisch (DE AT CH) | ninguna (0 también con `ALL`) | — |
+| 2026-11-28 | EU (sáb 02:40) | molde × tema | atlas anatomia | atlas anatomia (PT) | ninguna con 10+ (Adriano Diniz 8, Isabella López 7) | — |
+| 2026-11-28 | EU (sáb 02:40) | molde × tema | fichas visuais psicologia | fichas visuais psicologia (PT) | ninguna (Lucas Andrade 1) | — |
+| 2026-11-28 | EU (sáb 02:40) | molde × tema | anatomie atlas | anatomie atlas (NL BE) | Thomas Bernard 14 BE [pasa, FR 32 / 32] | `salud/neurologia-visual-estudio` (mercado EU: FR BE) |
+| 2026-11-28 | EU (sáb 02:40) | molde × tema | mindmaps psychologie | mindmaps psychologie (NL BE) | ninguna (cero activo; `ALL`: PsiOS, Valentina Gomez) | — |
+| 2026-11-28 | EU (sáb 02:40) | molde × tema | nalatenschap checklist | nalatenschap checklist (NL BE) | ninguna (Left Tidy 3) | — |
