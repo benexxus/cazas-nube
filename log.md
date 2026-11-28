@@ -69,3 +69,4 @@
 ## [2026-11-24] caza-auto | EN B perforar ediciones-profesionales + planillas + 20 semillas → 3 candidatos a bandeja
 ## [2026-11-24] caza-auto | BR C operadores+semillas → 0 candidatos a bandeja
 ## [2026-11-28] caza-auto | EN C agenda + operadores + 20 semillas → 4 candidatos a bandeja
+## [2026-11-28] caza-auto | BR A huella + 20 semillas → 1 candidato a bandeja

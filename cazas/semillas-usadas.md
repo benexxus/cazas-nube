@@ -415,3 +415,43 @@ nunca se reescribe.
 | 2026-11-28 | EN (sáb 01:10) | molde × tema | HVAC certification study | HVAC certification study (US GB CA AU) | Studio Facile 6 [<4] | — |
 | 2026-11-28 | EN (sáb 01:10) | molde × tema | credit repair templates | credit repair templates (US GB CA AU) | ninguna [servicios] | — |
 | 2026-11-28 | EN (sáb 01:10) | molde × tema | shadow work prompts | shadow work prompts (US GB CA AU) | Paloma Fernandez 18 [no: curso IA] | — |
+| 2026-11-28 | BR (sáb 01:35) | huella | planilha editável | planilha editável (BR) | Inove Receita Previsível [gate: lead-gen] | — |
+| 2026-11-28 | BR (sáb 01:35) | huella | planilha excel | planilha excel (BR) | Ibcappa [recontar PC] | — |
+| 2026-11-28 | BR (sáb 01:35) | huella | apostila completa | apostila completa (BR) | ninguna [varejo/servicios/ruido] | — |
+| 2026-11-28 | BR (sáb 01:35) | huella | guia completo | guia completo (BR) | ninguna [varejo/servicios/ruido] | — |
+| 2026-11-28 | BR (sáb 01:35) | huella | cartilha digital | cartilha digital (BR) | ninguna [varejo/servicios/ruido] | — |
+| 2026-11-28 | BR (sáb 01:35) | huella | checklist imprimível | checklist imprimível (BR) | ninguna [varejo/servicios/ruido] | — |
+| 2026-11-28 | BR (sáb 01:35) | huella | pack de planilhas | pack de planilhas (BR) | Domine a Nutrição 11 [gate: marca personal] | — |
+| 2026-11-28 | BR (sáb 01:35) | huella | resumos prontos | resumos prontos (BR) | Notion Estudos 87 [pasa]; Estudo Eficiente [<4] | profesiones/material-de-clase-listo/br-kits-por-asignatura |
+| 2026-11-28 | BR (sáb 01:35) | huella | bônus incluídos | bônus incluídos (BR) | Manual do Campo 88 [recontar PC] | manuais-visuais-agro |
+| 2026-11-28 | BR (sáb 01:35) | huella | garantia 7 dias | garantia 7 dias (BR) | ninguna [varejo/servicios/ruido] | — |
+| 2026-11-28 | BR (sáb 01:35) | huella | pagamento único | pagamento único (BR) | ninguna [varejo/servicios/ruido] | — |
+| 2026-11-28 | BR (sáb 01:35) | huella | download imediato | download imediato (BR) | ninguna [varejo/servicios/ruido] | — |
+| 2026-11-28 | BR (sáb 01:35) | huella | material para imprimir | material para imprimir (BR) | ninguna [varejo/servicios/ruido] | — |
+| 2026-11-28 | BR (sáb 01:35) | huella | R$ 12,90 | R$ 12,90 (BR) | ninguna [varejo/servicios/ruido] | — |
+| 2026-11-28 | BR (sáb 01:35) | huella | R$ 14,90 | R$ 14,90 (BR) | ninguna [varejo/servicios/ruido] | — |
+| 2026-11-28 | BR (sáb 01:35) | huella | R$ 29,90 | R$ 29,90 (BR) | ninguna [varejo/servicios/ruido] | — |
+| 2026-11-28 | BR (sáb 01:35) | huella | biblioteca digital | biblioteca digital (BR) | ninguna [varejo/servicios/ruido] | — |
+| 2026-11-28 | BR (sáb 01:35) | huella | guia definitivo | guia definitivo (BR) | ninguna [varejo/servicios/ruido] | — |
+| 2026-11-28 | BR (sáb 01:35) | huella | banco de questões | banco de questões (BR) | ninguna [varejo/servicios/ruido] | — |
+| 2026-11-28 | BR (sáb 01:35) | huella | ebook pdf | ebook pdf (BR) | ninguna [varejo/servicios/ruido] | — |
+| 2026-11-28 | BR (sáb 01:35) | molde × tema | precificação marcenaria | precificação marcenaria (BR) | Marcos Vinicius 7 [posible zombi] | — |
+| 2026-11-28 | BR (sáb 01:35) | molde × tema | precificação manicure | precificação manicure (BR) | Escola Manicure [no verificada]; Cartilha do MEI [gate: WhatsApp] | — |
+| 2026-11-28 | BR (sáb 01:35) | molde × tema | identificação plantas | identificação plantas (BR) | ninguna | — |
+| 2026-11-28 | BR (sáb 01:35) | molde × tema | identificação pássaros | identificação pássaros (BR) | ninguna | — |
+| 2026-11-28 | BR (sáb 01:35) | molde × tema | atlas veterinária | atlas veterinária (BR) | ninguna | — |
+| 2026-11-28 | BR (sáb 01:35) | molde × tema | atlas odontologia | atlas odontologia (BR) | Camila Ferreira 13 [posible zombi] | — |
+| 2026-11-28 | BR (sáb 01:35) | molde × tema | mapas mentais veterinária | mapas mentais veterinária (BR) | ninguna | — |
+| 2026-11-28 | BR (sáb 01:35) | molde × tema | planilha financeira casal | planilha financeira casal (BR) | ninguna | — |
+| 2026-11-28 | BR (sáb 01:35) | molde × tema | kit inventário | kit inventário (BR) | Manual do Campo [recontar PC] | manuais-visuais-agro |
+| 2026-11-28 | BR (sáb 01:35) | molde × tema | modelos prontos barbearia | modelos prontos barbearia (BR) | ninguna | — |
+| 2026-11-28 | BR (sáb 01:35) | molde × tema | códigos erro lavadora | códigos erro lavadora (BR) | ninguna | — |
+| 2026-11-28 | BR (sáb 01:35) | molde × tema | manual mecânica moto | manual mecânica moto (BR) | ninguna | — |
+| 2026-11-28 | BR (sáb 01:35) | molde × tema | extensão cílios | extensão cílios (BR) | ninguna | — |
+| 2026-11-28 | BR (sáb 01:35) | molde × tema | paisagismo projetos | paisagismo projetos (BR) | ninguna | — |
+| 2026-11-28 | BR (sáb 01:35) | molde × tema | técnicas memorização | técnicas memorização (BR) | ninguna | — |
+| 2026-11-28 | BR (sáb 01:35) | molde × tema | enxoval bebê | enxoval bebê (BR) | ninguna | — |
+| 2026-11-28 | BR (sáb 01:35) | molde × tema | gestação semana a semana | gestação semana a semana (BR) | ninguna | — |
+| 2026-11-28 | BR (sáb 01:35) | molde × tema | orçamento obra planilha | orçamento obra planilha (BR) | Sua Casa no Papel [recontar PC] | — |
+| 2026-11-28 | BR (sáb 01:35) | molde × tema | instalação câmeras | instalação câmeras (BR) | ninguna | — |
+| 2026-11-28 | BR (sáb 01:35) | molde × tema | reparo celular | reparo celular (BR) | ninguna | — |
