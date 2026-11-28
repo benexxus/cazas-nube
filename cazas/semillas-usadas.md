@@ -395,3 +395,23 @@ nunca se reescribe.
 | 2026-11-24 | BR (mar 01:40) | molde × tema | instalação placa solar | instalação placa solar (BR) | Solturi 28 [servicio] | — |
 | 2026-11-24 | BR (mar 01:40) | molde × tema | excel avançado | excel avançado (BR) | Expert Cursos Online 11, Paulo Fróes 11 [no verificada] | — |
 | 2026-11-24 | BR (mar 01:40) | molde × tema | pintura residencial | pintura residencial (BR) | ninguna | — |
+| 2026-11-28 | EN (sáb 01:10) | huella | word-for-word scripts | word-for-word scripts (US GB CA AU) | Romance Novel 20, Novels Lover 21, Wonderful novel story 8 [no: novelas] | — |
+| 2026-11-28 | EN (sáb 01:10) | huella | copy and paste scripts | copy and paste scripts (US GB CA AU) | Miles Stutz 12-13 [no verificada: coach] | — |
+| 2026-11-28 | EN (sáb 01:10) | huella | plug-and-play templates | plug-and-play templates (US GB CA AU) | ninguna con 10+ de infoproducto [ruido: gadgets] | — |
+| 2026-11-28 | EN (sáb 01:10) | huella | SOP templates | SOP templates (US GB CA AU) | Med Ops Manuals 18 [vigilancia: 4 sobrev., US$ 2.499] | — |
+| 2026-11-28 | EN (sáb 01:10) | huella | printable charts | printable charts (US GB CA AU) | Digital books 9-15 [ya tarjeta], Revelation Unsealed 3D 10 [religioso] | — |
+| 2026-11-28 | EN (sáb 01:10) | huella | printable guided journal | printable guided journal (US GB CA AU) | ninguna | — |
+| 2026-11-28 | EN (sáb 01:10) | huella | study pack | study pack (US GB CA AU) | ninguna [ruido: novelas] | — |
+| 2026-11-28 | EN (sáb 01:10) | huella | practice tests | practice tests (US GB CA AU) | The Mind Plus 13 [no verificada: coaching IELTS/PTE] | — |
+| 2026-11-28 | EN (sáb 01:10) | huella | exam cram | exam cram (US GB CA AU) | Stelloway 17-37 [gate D: libro físico] | — |
+| 2026-11-28 | EN (sáb 01:10) | huella | pass on the first try / pass first time | pass on the first try (US CA) · pass first time (GB AU) | ninguna [ruido: novelas, gimnasios] | — |
+| 2026-11-28 | EN (sáb 01:10) | huella | revision pack | revision pack (US GB CA AU) | ninguna [ruido: novelas] | — |
+| 2026-11-28 | EN (sáb 01:10) | huella | only $12 | only $12 (US GB CA AU) | Romance Novel 24, Endless Stories 22 [no: novelas] | — |
+| 2026-11-28 | EN (sáb 01:10) | molde × tema | contractor estimate templates | contractor estimate templates (US GB CA AU) | ninguna con 10+ | — |
+| 2026-11-28 | EN (sáb 01:10) | molde × tema | small business bookkeeping | small business bookkeeping (US GB CA AU) | Natsai R 7 CA [vigilancia: 5-6 sobrev.] | — |
+| 2026-11-28 | EN (sáb 01:10) | molde × tema | CBT worksheets | CBT worksheets (US GB CA AU) | Parenting Counsellor 18 [no: quiz ADHD], Parenting One Day at a Time 12 [no] | — |
+| 2026-11-28 | EN (sáb 01:10) | molde × tema | motorcycle repair diagrams | motorcycle repair diagrams (US GB CA AU) | ninguna | — |
+| 2026-11-28 | EN (sáb 01:10) | molde × tema | medical coding cheat sheet | medical coding cheat sheet (US GB CA AU) | ninguna | — |
+| 2026-11-28 | EN (sáb 01:10) | molde × tema | HVAC certification study | HVAC certification study (US GB CA AU) | Studio Facile 6 [<4] | — |
+| 2026-11-28 | EN (sáb 01:10) | molde × tema | credit repair templates | credit repair templates (US GB CA AU) | ninguna [servicios] | — |
+| 2026-11-28 | EN (sáb 01:10) | molde × tema | shadow work prompts | shadow work prompts (US GB CA AU) | Paloma Fernandez 18 [no: curso IA] | — |
