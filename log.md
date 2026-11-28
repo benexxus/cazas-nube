@@ -72,3 +72,4 @@
 ## [2026-11-28] caza-auto | BR A huella + 20 semillas → 1 candidato a bandeja
 ## [2026-11-28] caza-auto | ES B perforar + 20 semillas → 0 candidatos a bandeja
 ## [2026-11-28] caza-auto | EU C agenda + operadores + 20 semillas → 3 candidatos a bandeja
+## [2026-11-28] caza-auto | ESTE A huella + 20 semillas → 1 candidato a bandeja

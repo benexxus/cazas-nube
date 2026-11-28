@@ -515,3 +515,43 @@ nunca se reescribe.
 | 2026-11-28 | EU (sáb 02:40) | molde × tema | anatomie atlas | anatomie atlas (NL BE) | Thomas Bernard 14 BE [pasa, FR 32 / 32] | `salud/neurologia-visual-estudio` (mercado EU: FR BE) |
 | 2026-11-28 | EU (sáb 02:40) | molde × tema | mindmaps psychologie | mindmaps psychologie (NL BE) | ninguna (cero activo; `ALL`: PsiOS, Valentina Gomez) | — |
 | 2026-11-28 | EU (sáb 02:40) | molde × tema | nalatenschap checklist | nalatenschap checklist (NL BE) | ninguna (Left Tidy 3) | — |
+| 2026-11-28 | ESTE (sáb 06:05) | huella | carte digitală | carte digitală (RO) | Sebi Moises (recetario) · Elevify · Brenda Moore | — |
+| 2026-11-28 | ESTE (sáb 06:05) | huella | primești pe email | primești pe email (RO) | Mesa Ligera · Biblioteca de Ateliere de Grup · Bogdan Tirziu | — |
+| 2026-11-28 | ESTE (sáb 06:05) | huella | ghid complet | ghid complet (RO) | Master Vault · StoryFlix World | — |
+| 2026-11-28 | ESTE (sáb 06:05) | huella | ghid pas cu pas | ghid pas cu pas (RO) | Coolmango (manualidades) · SufletVerde (recetario) | — |
+| 2026-11-28 | ESTE (sáb 06:05) | huella | fișiere printabile | fișiere printabile (RO) | Easy Notes Studio 21 [no verificada, operador conocido] · Linkia 5 [<4] | — |
+| 2026-11-28 | ESTE (sáb 06:05) | huella | doar 39 lei | doar 39 lei (RO) | Genius Mentor 4 [gate: físico] · comercio local | — |
+| 2026-11-28 | ESTE (sáb 06:05) | huella | format pdf | format pdf (RO) | cero activo (ALL 9256) | — |
+| 2026-11-28 | ESTE (sáb 06:05) | molde × tema | apicultură ghid | apicultură ghid (RO) | cero activo (ALL 16) | — |
+| 2026-11-28 | ESTE (sáb 06:05) | molde × tema | plan 12 săptămâni | plan 12 săptămâni (RO) | — | — |
+| 2026-11-28 | ESTE (sáb 06:05) | molde × tema | șabloane facturi | șabloane facturi (RO) | cero activo (ALL 122) | — |
+| 2026-11-28 | ESTE (sáb 06:05) | huella | natychmiastowe pobranie | natychmiastowe pobranie (PL) | Elevify 8 · Creativo Digital 8 · Kalina Żurawska 2 | — |
+| 2026-11-28 | ESTE (sáb 06:05) | huella | dostęp dożywotni | dostęp dożywotni (PL) | Dojrzała Miłość 13 · Szkoła fotografa 7 | — |
+| 2026-11-28 | ESTE (sáb 06:05) | huella | produkt cyfrowy | produkt cyfrowy (PL) | Clara Bennett 10 [<4] · Josefina Kids 12 | — |
+| 2026-11-28 | ESTE (sáb 06:05) | huella | otrzymasz mailem | otrzymasz mailem (PL) | Rowan House Press 8 [vigilancia] | — |
+| 2026-11-28 | ESTE (sáb 06:05) | huella | do wydruku | do wydruku (PL) | Reactive Outdoor 31 (físico) | — |
+| 2026-11-28 | ESTE (sáb 06:05) | huella | tylko 49 zł | tylko 49 zł (PL) | Marketing Samemu 10 | — |
+| 2026-11-28 | ESTE (sáb 06:05) | huella | w formacie pdf | w formacie pdf (PL) | Szydełko na Sprzedaż 8 (manualidades) | — |
+| 2026-11-28 | ESTE (sáb 06:05) | molde × tema | pszczelarstwo poradnik | pszczelarstwo poradnik (PL) | cero activo (ALL 4) | — |
+| 2026-11-28 | ESTE (sáb 06:05) | molde × tema | plan 12 tygodni | plan 12 tygodni (PL) | AEVUM 12 · Mój Plan B 21 | — |
+| 2026-11-28 | ESTE (sáb 06:05) | molde × tema | szablony faktur | szablony faktur (PL) | Amelie Hatherley 5 [<4, lote 37 activos] | plantillas-excel-negocio/pl |
+| 2026-11-28 | ESTE (sáb 06:05) | huella | okamžité stažení | okamžité stažení (CZ) | Agentura mladých detektivů 16 · Claire Dubois 6 [cerca 7/19] | profesiones/quimica-experimentos-escuela |
+| 2026-11-28 | ESTE (sáb 06:05) | huella | doživotní přístup | doživotní přístup (CZ) | Patricie Solaříková 18 · Cold Facts 11 | — |
+| 2026-11-28 | ESTE (sáb 06:05) | huella | pošleme e-mailem | pošleme e-mailem (CZ) | BajaBee 17 (físico) | — |
+| 2026-11-28 | ESTE (sáb 06:05) | huella | e-book ke stažení | e-book ke stažení (CZ) | Žijte ve své zahradě 11 | — |
+| 2026-11-28 | ESTE (sáb 06:05) | huella | jen 299 Kč | jen 299 Kč (CZ) | Rare Places 20 | — |
+| 2026-11-28 | ESTE (sáb 06:05) | huella | ve formátu pdf | ve formátu pdf (CZ) | Matika Připravená 13 [<4] | — |
+| 2026-11-28 | ESTE (sáb 06:05) | huella | kompletní průvodce | kompletní průvodce (CZ) | Vice Gaming Club 7 [<4] · Side Studio · Recursoslandia | — |
+| 2026-11-28 | ESTE (sáb 06:05) | molde × tema | včelařství průvodce | včelařství průvodce (CZ) | cero activo (ALL 2) | — |
+| 2026-11-28 | ESTE (sáb 06:05) | molde × tema | plán 12 týdnů | plán 12 týdnů (CZ) | Gymtone 13 · Jakub Lunga 9 | — |
+| 2026-11-28 | ESTE (sáb 06:05) | molde × tema | šablony faktur | šablony faktur (CZ) | cero activo (ALL 20) | — |
+| 2026-11-28 | ESTE (sáb 06:05) | huella | azonnali letöltés | azonnali letöltés (HU) | Maria Edilibeth 10 [<4] · The Ebook Library 5 · Edu Digital 6 | — |
+| 2026-11-28 | ESTE (sáb 06:05) | huella | örökös hozzáférés | örökös hozzáférés (HU) | Kovács Eszter 9 [<4] · The Ebook Library 6 | — |
+| 2026-11-28 | ESTE (sáb 06:05) | huella | e-mailben küldjük | e-mailben küldjük (HU) | vouchers y servicios | — |
+| 2026-11-28 | ESTE (sáb 06:05) | huella | e-könyv útmutató | e-könyv útmutató (HU) | KiddoZone 22 (juego) · Fenix Library 6 | — |
+| 2026-11-28 | ESTE (sáb 06:05) | huella | csak 4990 Ft | csak 4990 Ft (HU) | comercio local | — |
+| 2026-11-28 | ESTE (sáb 06:05) | huella | pdf formátumban | pdf formátumban (HU) | Rowan House Press 10 · Fenix Library (lélegeztetés 10) [pasa] | salud/enfermeria-intensiva-visual |
+| 2026-11-28 | ESTE (sáb 06:05) | huella | digitális termék | digitális termék (HU) | Clara Bennett 8 · Csendes Biznisz 3 [<4] | — |
+| 2026-11-28 | ESTE (sáb 06:05) | molde × tema | méhészet útmutató | méhészet útmutató (HU) | cero activo (ALL 10) | — |
+| 2026-11-28 | ESTE (sáb 06:05) | molde × tema | 12 hetes terv | 12 hetes terv (HU) | SikerMag 23 (neurokids) · Gymtone 20 | — |
+| 2026-11-28 | ESTE (sáb 06:05) | molde × tema | számlasablon | számlasablon (HU) | cero (también con ALL) | — |
