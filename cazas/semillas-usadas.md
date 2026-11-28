@@ -455,3 +455,23 @@ nunca se reescribe.
 | 2026-11-28 | BR (sáb 01:35) | molde × tema | orçamento obra planilha | orçamento obra planilha (BR) | Sua Casa no Papel [recontar PC] | — |
 | 2026-11-28 | BR (sáb 01:35) | molde × tema | instalação câmeras | instalação câmeras (BR) | ninguna | — |
 | 2026-11-28 | BR (sáb 01:35) | molde × tema | reparo celular | reparo celular (BR) | ninguna | — |
+| 2026-11-28 | ES (sáb 02:10) | huella | garantía de 7 días | garantía de 7 días (CO MX ES CL PE) | Diagnóstico Express [<4], Lanna Ribeiro [<4], Valentina Herrera [<4], Reliant Offers [ignorada: nicho excluido] | — |
+| 2026-11-28 | ES (sáb 02:10) | huella | bonos incluidos | bonos incluidos (CO MX ES CL PE) | Diagnóstico Express [<4], Lanna Ribeiro [<4] | — |
+| 2026-11-28 | ES (sáb 02:10) | huella | producto digital | producto digital (CO MX ES CL PE) | Guía digital 2026 [no verificada] | — |
+| 2026-11-28 | ES (sáb 02:10) | huella | formato digital | formato digital (CO MX ES CL PE) | Novika [<4] | — |
+| 2026-11-28 | ES (sáb 02:10) | huella | imprime en casa | imprime en casa (CO MX ES CL PE) | Novika [<4] | — |
+| 2026-11-28 | ES (sáb 02:10) | huella | recibes al instante | recibes al instante (CO MX ES CL PE) | ninguna | — |
+| 2026-11-28 | ES (sáb 02:10) | huella | llega a tu email | llega a tu email (CO MX ES CL PE) | ninguna | — |
+| 2026-11-28 | ES (sáb 02:10) | huella | pack de ebooks | pack de ebooks (CO MX ES CL PE) | ninguna | — |
+| 2026-11-28 | ES (sáb 02:10) | huella | 100 plantillas | 100 plantillas (CO MX ES CL PE) | ninguna | — |
+| 2026-11-28 | ES (sáb 02:10) | huella | plantillas listas | plantillas listas (CO MX ES CL PE) | ninguna | — |
+| 2026-11-28 | ES (sáb 02:10) | huella | formatos editables | formatos editables (CO MX ES CL PE) | Psico Recursos [<4], Tu Abogado Virtual [<4], Seguridad y Salud Ocupacional [<4] | — |
+| 2026-11-28 | ES (sáb 02:10) | huella | formatos en word | formatos en word (CO MX ES CL PE) | Psico Recursos [<4], Tu Abogado Virtual [<4], Seguridad y Salud Ocupacional [<4] | — |
+| 2026-11-28 | ES (sáb 02:10) | molde × tema | pensión IMSS | pensión IMSS (CO MX ES CL PE) | ninguna (préstamos a pensionados) | — |
+| 2026-11-28 | ES (sáb 02:10) | molde × tema | declaración anual SAT | declaración anual SAT (CO MX ES CL PE) | ninguna | — |
+| 2026-11-28 | ES (sáb 02:10) | molde × tema | facturación CFDI | facturación CFDI (CO MX ES CL PE) | ninguna | — |
+| 2026-11-28 | ES (sáb 02:10) | molde × tema | crédito Infonavit | crédito Infonavit (CO MX ES CL PE) | ninguna | — |
+| 2026-11-28 | ES (sáb 02:10) | molde × tema | piscicultura tilapia | piscicultura tilapia (CO MX ES CL PE) | ninguna | — |
+| 2026-11-28 | ES (sáb 02:10) | molde × tema | cuyes crianza | cuyes crianza (CO MX ES CL PE) | ninguna | — |
+| 2026-11-28 | ES (sáb 02:10) | molde × tema | gallinas ponedoras | gallinas ponedoras (CO MX ES CL PE) | ninguna | — |
+| 2026-11-28 | ES (sáb 02:10) | molde × tema | apicultura principiantes | apicultura principiantes (CO MX ES CL PE) | ninguna | — |

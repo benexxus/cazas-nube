@@ -338,6 +338,14 @@ BR 2026-11-20 (C operadores): nada que pase la vara; se barrió Packs & Moldes P
 
 <!-- TARJETAS-ES: la sesión ES inserta sus tarjetas del día justo debajo de esta línea -->
 
+ES 2026-11-28: nada que pase la vara; se barrió acuario, adiestramiento canino, contabilidad, seguridad e higiene, fotografía con celular, costeo de menú/Excel y 20 semillas nunca usadas (CO MX ES CL PE).
+
+**Señales del día ES (28-nov, sáb — B perforar + semillas)**
+- **Aprende Profesional** (`1446593095195719`, PE 50 visibles / 62) y **Aprende con Guías Profesionales** (`1380966491766673`, MX 50 / 350 · PE 50 / 388): red AprendIA, guías PDF «54 fichas» US$ ~20, cierre por `wa.me` → `[gate: WhatsApp]`. Sin oferta que cuente 10+ en un solo SKU.
+- **Fer Rendon** (`1977647735819349`, plantillas Excel «Costeo de Menú» y «Finanzas Constructoras», MX 122 activos, todos de los últimos 3 días): marca personal (`ferrendonx.com`, código «FREDDY10») → `[gate: A]`.
+- Ronda de operadores ES (Estudia Sencillo, Pautas Listas, Digi Aprende, Mente Académica, Fichas Foto Pro): sin SKU nuevo.
+- Páginas nuevas con < 4 sobrevivientes (sin re-conteo): Diagnóstico Express PE 0 / 9 (diagnósticos de aire split), Derecho Claro Digital ES 0 / 5 (Código Civil ordenado), Tu Abogado Virtual MX 0 / 4 («30 formatos jurídicos» $149 MXN), Novika CO 1 / 9 (moldes de costura PDF), Contabilidad Fácil Colombia CO 0 / 7, Ana Laura acuario 0 / 3.
+
 ### 🎯 Mapas mentales de Ingeniería Civil (200 mapas + 4 bonos, US$ 9,99) — Mente Académica 🇨🇴 CO · `mente-academica/biblioteca-lovable` · 2026-11-23 · sesión ES
 - **Qué es:** biblioteca de 200 mapas mentales ilustrados de Ingeniería Civil en 10 módulos + 4 bonos, material digital descargable e imprimible, US$ 9,99 (tachado 29,99), pago único por Hotmart. La página corre un catálogo de páginas Lovable por tema (210 Trastornos Mentales, Neuroanatomía, Anatomía Cardiovascular, Informática 300 mapas, Casos Endocrinológicos), moneda BRL.
 - **Por qué es ganador:** **≥ 29 sobrevivientes en 🇨🇴** solo en Ingeniería Civil (piso: la respuesta llegó al tope de 50 de 338 activos y no se pudo bajar; todos del 12-nov, tanda única); 4 fechas de creación en la página (11-12, 11-13, 11-17 y más viejas); el mismo creativo repetido ~29 veces; sin persona ni cara (marca «Ingeniería Civil Visual»); mismo molde que Esprit Académique y Mental Pro Cr (FR/ES).
